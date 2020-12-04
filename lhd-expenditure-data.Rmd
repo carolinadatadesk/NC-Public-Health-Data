@@ -12,6 +12,17 @@ library(dplyr)
 library(tidyverse)
 ```
 
+
+```{r}
+library(gsheet)
+CompiledLHDExpenditures <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Zc10pam92Y1218F90eXn9ri7-a4GQI1vhzING33nNSI/edit#gid=0")
+```
+
+#Creating csv of our compiled data from nc LHDs
+```{r}
+write.csv(CompiledLHDExpenditures,"data/handmade/nc-health-department-compiled-data.csv", row.names = FALSE)
+```
+
 #Importing compiled expenditure data from Google Sheets
 ```{r}
 #install.packages("gsheet")
