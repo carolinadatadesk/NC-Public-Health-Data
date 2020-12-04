@@ -1,0 +1,830 @@
+"year","lhd_name","lhd_area_type","county_name","expenditures","population","per_capita_spending","X8","X9"
+2003,"Alexander County Health Department","Single","Alexander",1781515.38,34998,50.9,NA,NA
+2004,"Alexander County Health Department","Single","Alexander",1995524.86,34959,57.08,NA,NA
+2005,"Alexander County Health Department","Single","Alexander",2091490.77,35786,58.44,NA,NA
+2006,"Alexander County Health Department","Single","Alexander",2247851.61,36042,62.37,NA,NA
+2007,"Alexander County Health Department","Single","Alexander",2513023.16,36609,68.64,NA,NA
+2008,"Alexander County Health Department","Single","Alexander",2638066.45,36743,71.8,NA,NA
+2009,"Alexander County Health Department","Single","Alexander",2687628.82,37053,72.53,NA,NA
+2010,"Alexander County Health Department","Single","Alexander",2763317.61,37198,74.29,NA,NA
+2011,"Alexander County Health Department","Single","Alexander",2784167.67,37026,75.19,NA,NA
+2012,"Alexander County Health Department","Single","Alexander",2911935.13,37323,78.02,NA,NA
+2013,"Alexander County Health Department","Single","Alexander",2833210.35,37012,76.55,NA,NA
+2014,"Alexander County Health Department","Single","Alexander",2807105.01,37597,74.66,NA,NA
+2015,"Alexander County Health Department","Single","Alexander",2876189,37550,76.6,NA,NA
+2016,"Alexander County Health Department","Single","Alexander",2574226.35,37908,67.91,NA,NA
+2017,"Alexander County Health Department","Single","Alexander",2191004.95,37143,58.99,NA,NA
+2018,"Alexander County Health Department","Single","Alexander",2376515.17,37119,64.02,NA,NA
+2019,"Alexander County Health Department","Single","Alexander",2637631.08,38530,68.46,NA,NA
+2020,"Alexander County Health Department","Single","Alexander",2603067.32,38755,67.17,NA,NA
+2014,"Anson County Health Department","Single","Anson",1315510,26304,50.01,NA,NA
+2015,"Anson County Health Department","Single","Anson",1702442,26035,65.39,NA,NA
+2016,"Anson County Health Department","Single","Anson",1822380,25644,71.06,NA,NA
+2017,"Anson County Health Department","Single","Anson",1688691,24829,68.01,NA,NA
+2018,"Anson County Health Department","Single","Anson",1830782,25306,72.35,NA,NA
+2019,"Anson County Health Department","Single","Anson",1806511,25290,71.43,NA,NA
+2020,"Anson County Health Department","Single","Anson",1617610,25289,63.96,NA,NA
+2002,"Cabarrus County Health Department","Single","Cabarrus",11909867,139839,85.17,NA,NA
+2003,"Cabarrus County Health Department","Single","Cabarrus",11821377,143336,82.47,NA,NA
+2004,"Cabarrus County Health Department","Single","Cabarrus",13504496,146053,92.46,NA,NA
+2005,"Cabarrus County Health Department","Single","Cabarrus",13996385,150797,92.82,NA,NA
+2006,"Cabarrus County Health Department","Single","Cabarrus",15570641,157025,99.16,NA,NA
+2007,"Cabarrus County Health Department","Single","Cabarrus",16451712,165717,99.28,NA,NA
+2008,"Cabarrus County Health Department","Single","Cabarrus",17973741,170901,105.17,NA,NA
+2009,"Cabarrus County Health Department","Single","Cabarrus",19771535,175993,112.34,NA,NA
+2010,"Cabarrus County Health Department","Single","Cabarrus",17523630,178011,98.44,NA,NA
+2011,"Cabarrus County Health Department","Single","Cabarrus",18765286,181175,103.58,NA,NA
+2012,"Cabarrus County Health Department","Single","Cabarrus",23110516,183253,126.11,NA,NA
+2013,"Cabarrus County Health Department","Single","Cabarrus",17764524,187240,94.88,NA,NA
+2014,"Cabarrus County Health Department","Single","Cabarrus",17570282,190218,92.37,NA,NA
+2015,"Cabarrus County Health Department","Single","Cabarrus",18723536,194982,96.03,NA,NA
+2016,"Cabarrus County Health Department","Single","Cabarrus",19997570,200230,99.87,NA,NA
+2017,"Cabarrus County Health Department","Single","Cabarrus",22705092,206988,109.69,NA,NA
+2018,"Cabarrus County Health Department","Single","Cabarrus",23687208,201448,117.58,NA,NA
+2019,"Cabarrus County Health Department","Single","Cabarrus",23889921,212917,112.2,NA,NA
+2020,"Cabarrus County Health Department","Single","Cabarrus",22556709,216608,104.14,NA,NA
+2008,"Carteret County Health Department","Single","Carteret",4342724,64736,67.08,NA,NA
+2009,"Carteret County Health Department","Single","Carteret",4075011,65670,62.05,NA,NA
+2010,"Carteret County Health Department","Single","Carteret",4036435,66469,60.73,NA,NA
+2011,"Carteret County Health Department","Single","Carteret",4098918,67418,60.8,NA,NA
+2012,"Carteret County Health Department","Single","Carteret",3908984,68434,57.12,NA,NA
+2013,"Carteret County Health Department","Single","Carteret",3903723,68388,57.08,NA,NA
+2014,"Carteret County Health Department","Single","Carteret",3791361,69497,54.55,NA,NA
+2015,"Carteret County Health Department","Single","Carteret",4217568,69742,60.47,NA,NA
+2016,"Carteret County Health Department","Single","Carteret",4171422,69871,59.7,NA,NA
+2017,"Carteret County Health Department","Single","Carteret",4426639,68921,64.23,NA,NA
+2018,"Carteret County Health Department","Single","Carteret",4574248,68920,66.37,NA,NA
+2019,"Carteret County Health Department","Single","Carteret",4772600,71163,67.07,NA,NA
+2020,"Carteret County Health Department","Single","Carteret",5559884,71640,77.61,NA,NA
+2000,"Catawba County Health Department","Single","Catawba",8447178.34,142443,59.3,NA,NA
+2001,"Catawba County Health Department","Single","Catawba",8344982.12,145000,57.55,NA,NA
+2002,"Catawba County Health Department","Single","Catawba",8228326.77,145395,56.59,NA,NA
+2003,"Catawba County Health Department","Single","Catawba",8667763.67,145601,59.53,NA,NA
+2004,"Catawba County Health Department","Single","Catawba",9529712.54,145783,65.37,NA,NA
+2005,"Catawba County Health Department","Single","Catawba",9876423.41,148629,66.45,NA,NA
+2006,"Catawba County Health Department","Single","Catawba",10101579.82,148386,68.08,NA,NA
+2007,"Catawba County Health Department","Single","Catawba",10693790.86,152448,70.15,NA,NA
+2008,"Catawba County Health Department","Single","Catawba",11485844.97,152354,75.39,NA,NA
+2009,"Catawba County Health Department","Single","Catawba",11733288.42,154610,75.89,NA,NA
+2010,"Catawba County Health Department","Single","Catawba",11986881.9,154358,77.66,NA,NA
+2011,"Catawba County Health Department","Single","Catawba",12135389.81,154459,78.57,NA,NA
+2012,"Catawba County Health Department","Single","Catawba",11656649.76,155692,74.87,NA,NA
+2013,"Catawba County Health Department","Single","Catawba",11285374.96,154965,72.83,NA,NA
+2014,"Catawba County Health Department","Single","Catawba",10566019.54,155977,67.74,NA,NA
+2015,"Catawba County Health Department","Single","Catawba",10277227.42,156197,65.8,NA,NA
+2016,"Catawba County Health Department","Single","Catawba",9087885.76,156774,57.97,NA,NA
+2017,"Catawba County Health Department","Single","Catawba",8031711.24,157852,50.88,NA,NA
+2018,"Catawba County Health Department","Single","Catawba",8294862.33,156729,52.92,NA,NA
+2019,"Catawba County Health Department","Single","Catawba",8586966.55,159494,53.84,NA,NA
+2020,"Catawba County Health Department","Single","Catawba",8841400.21,160504,55.09,NA,NA
+1999,"Cleveland County Health Department","Single","Cleveland",6557638,95293,68.82,NA,NA
+2000,"Cleveland County Health Department","Single","Cleveland",7840915,96394,81.34,NA,NA
+2001,"Cleveland County Health Department","Single","Cleveland",7762713,96554,80.4,NA,NA
+2002,"Cleveland County Health Department","Single","Cleveland",7274927,96660,75.26,NA,NA
+2003,"Cleveland County Health Department","Single","Cleveland",7319696,97241,75.27,NA,NA
+2004,"Cleveland County Health Department","Single","Cleveland",7308482,96435,75.79,NA,NA
+2005,"Cleveland County Health Department","Single","Cleveland",8090304,96844,83.54,NA,NA
+2006,"Cleveland County Health Department","Single","Cleveland",8504757,95607,88.96,NA,NA
+2007,"Cleveland County Health Department","Single","Cleveland",9150789,97524,93.83,NA,NA
+2008,"Cleveland County Health Department","Single","Cleveland",10172097,96967,104.9,NA,NA
+2009,"Cleveland County Health Department","Single","Cleveland",11556679,98211,117.67,NA,NA
+2010,"Cleveland County Health Department","Single","Cleveland",11072680,98078,112.9,NA,NA
+2011,"Cleveland County Health Department","Single","Cleveland",10521718,97442,107.98,NA,NA
+2012,"Cleveland County Health Department","Single","Cleveland",11535948,97523,118.29,NA,NA
+2013,"Cleveland County Health Department","Single","Cleveland",9077198,96873,93.7,NA,NA
+2014,"Cleveland County Health Department","Single","Cleveland",11538680,97646,118.17,NA,NA
+2015,"Cleveland County Health Department","Single","Cleveland",12571783,97755,128.61,NA,NA
+2016,"Cleveland County Health Department","Single","Cleveland",13138090,98069,133.97,NA,NA
+2017,"Cleveland County Health Department","Single","Cleveland",12515588,97134,128.85,NA,NA
+2018,"Cleveland County Health Department","Single","Cleveland",13504062,97159,138.99,NA,NA
+2019,"Cleveland County Health Department","Single","Cleveland",13915952,99776,139.47,NA,NA
+1999,"Dare County Health Department","Single","Dare",2574499,29366,87.67,NA,NA
+2000,"Dare County Health Department","Single","Dare",2634308,30170,87.32,NA,NA
+2001,"Dare County Health Department","Single","Dare",2886561,31069,92.91,NA,NA
+2002,"Dare County Health Department","Single","Dare",3190525,32083,99.45,NA,NA
+2003,"Dare County Health Department","Single","Dare",3817593,32697,116.76,NA,NA
+2004,"Dare County Health Department","Single","Dare",4009107,33974,118.01,NA,NA
+2005,"Dare County Health Department","Single","Dare",4292679,33354,128.7,NA,NA
+2006,"Dare County Health Department","Single","Dare",4816212,34421,139.92,NA,NA
+2007,"Dare County Health Department","Single","Dare",5213994,33541,155.45,NA,NA
+2008,"Dare County Health Department","Single","Dare",5827643,34142,170.69,NA,NA
+2009,"Dare County Health Department","Single","Dare",6811119,33679,202.24,NA,NA
+2010,"Dare County Health Department","Single","Dare",6453184,33920,190.25,NA,NA
+2011,"Dare County Health Department","Single","Dare",6373311,34156,186.59,NA,NA
+2012,"Dare County Health Department","Single","Dare",6489834,34759,186.71,NA,NA
+2013,"Dare County Health Department","Single","Dare",6406513,34810,184.04,NA,NA
+2014,"Dare County Health Department","Single","Dare",7023583,35377,198.54,NA,NA
+2015,"Dare County Health Department","Single","Dare",6957162,35756,194.57,NA,NA
+2016,"Dare County Health Department","Single","Dare",7014680,36167,193.95,NA,NA
+2017,"Dare County Health Department","Single","Dare",7481726,36199,206.68,NA,NA
+2018,"Dare County Health Department","Single","Dare",7623594,35741,213.3,NA,NA
+2019,"Dare County Health Department","Single","Dare",7917300,37290,212.32,NA,NA
+2006,"Swain County Health Department","Single","Swain",1871853.17,13934,134.34,NA,NA
+2007,"Swain County Health Department","Single","Swain",1680830.36,13819,121.63,NA,NA
+2008,"Swain County Health Department","Single","Swain",1923205.39,13868,138.68,NA,NA
+2009,"Swain County Health Department","Single","Swain",1817113.55,13933,130.42,NA,NA
+2010,"Swain County Health Department","Single","Swain",1845786.29,13981,132.02,NA,NA
+2011,"Swain County Health Department","Single","Swain",1955888.44,14007,139.64,NA,NA
+2012,"Swain County Health Department","Single","Swain",1882044.82,14423,130.49,NA,NA
+2013,"Swain County Health Department","Single","Swain",1855333.87,13977,132.74,NA,NA
+2014,"Swain County Health Department","Single","Swain",1734318.43,14785,117.3,NA,NA
+2015,"Swain County Health Department","Single","Swain",1619503.1,14867,108.93,NA,NA
+2016,"Swain County Health Department","Single","Swain",1699887.77,14729,115.41,NA,NA
+2017,"Swain County Health Department","Single","Swain",1642487.53,14263,115.16,NA,NA
+2018,"Swain County Health Department","Single","Swain",1604353.88,14254,112.55,NA,NA
+2019,"Swain County Health Department","Single","Swain",1631436.5,14275,114.29,NA,NA
+2020,"Swain County Health Department","Single","Swain",1598719.39,14108,113.32,NA,NA
+1999,"Yadkin County Health Department","Single","Yadkin",1264242,35805,35.31,NA,NA
+2000,"Yadkin County Health Department","Single","Yadkin",1438763,36468,39.45,NA,NA
+2001,"Yadkin County Health Department","Single","Yadkin",1566970,36605,42.81,NA,NA
+2002,"Yadkin County Health Department","Single","Yadkin",1605051,36914,43.48,NA,NA
+2003,"Yadkin County Health Department","Single","Yadkin",1618746,37301,43.4,NA,NA
+2004,"Yadkin County Health Department","Single","Yadkin",1588706,36976,42.97,NA,NA
+2005,"Yadkin County Health Department","Single","Yadkin",1739445,37591,46.27,NA,NA
+2006,"Yadkin County Health Department","Single","Yadkin",1762133,37614,46.85,NA,NA
+2007,"Yadkin County Health Department","Single","Yadkin",1868367,37965,49.21,NA,NA
+2008,"Yadkin County Health Department","Single","Yadkin",2110173,38126,55.35,NA,NA
+2009,"Yadkin County Health Department","Single","Yadkin",2595523.64,38293,67.78,NA,NA
+2010,"Yadkin County Health Department","Single","Yadkin",2716611.21,38406,70.73,NA,NA
+2011,"Yadkin County Health Department","Single","Yadkin",2614934.35,38342,68.2,NA,NA
+2012,"Yadkin County Health Department","Single","Yadkin",2219118.02,38269,57.99,NA,NA
+2013,"Yadkin County Health Department","Single","Yadkin",1782521.95,38063,46.83,NA,NA
+2014,"Yadkin County Health Department","Single","Yadkin",1329810.29,37850,35.13,NA,NA
+2015,"Yadkin County Health Department","Single","Yadkin",1359909.53,37730,36.04,NA,NA
+2016,"Yadkin County Health Department","Single","Yadkin",1408674.77,37828,37.24,NA,NA
+2017,"Yadkin County Health Department","Single","Yadkin",1702505,37588,45.29,NA,NA
+2018,"Yadkin County Health Department","Single","Yadkin",1467770.5,37665,38.97,NA,NA
+2019,"Yadkin County Health Department","Single","Yadkin",1305296.58,38196,34.17,NA,NA
+2020,"Yadkin County Health Department","Single","Yadkin",1407855.73,38236,36.82,NA,NA
+2000,"Wayne County Health Department","Single","Wayne",4958586.8,113656,43.63,NA,NA
+2001,"Wayne County Health Department","Single","Wayne",5887619.29,114127,51.59,NA,NA
+2002,"Wayne County Health Department","Single","Wayne",5980424.57,114786,52.1,NA,NA
+2003,"Wayne County Health Department","Single","Wayne",6008438.04,114595,52.43,NA,NA
+2004,"Wayne County Health Department","Single","Wayne",6262271.67,116698,53.66,NA,NA
+2005,"Wayne County Health Department","Single","Wayne",6443977.97,117009,55.07,NA,NA
+2006,"Wayne County Health Department","Single","Wayne",6454414.31,117898,54.75,NA,NA
+2007,"Wayne County Health Department","Single","Wayne",6784564.63,118942,57.04,NA,NA
+2008,"Wayne County Health Department","Single","Wayne",6886665.09,120000,57.39,NA,NA
+2009,"Wayne County Health Department","Single","Wayne",7169592.05,121217,59.15,NA,NA
+2010,"Wayne County Health Department","Single","Wayne",7299846.99,122623,59.53,NA,NA
+2011,"Wayne County Health Department","Single","Wayne",7520977.52,124038,60.63,NA,NA
+2012,"Wayne County Health Department","Single","Wayne",7654409.92,125169,61.15,NA,NA
+2013,"Wayne County Health Department","Single","Wayne",7638654.78,124587,61.31,NA,NA
+2014,"Wayne County Health Department","Single","Wayne",7545670.09,125646,60.05,NA,NA
+2015,"Wayne County Health Department","Single","Wayne",7381571.6,125217,58.95,NA,NA
+2016,"Wayne County Health Department","Single","Wayne",7180526.86,125120,57.39,NA,NA
+2017,"Wayne County Health Department","Single","Wayne",6867042.66,123034,55.81,NA,NA
+2018,"Wayne County Health Department","Single","Wayne",7437700.24,124002,59.98,NA,NA
+2019,"Wayne County Health Department","Single","Wayne",7531200.31,125825,59.85,NA,NA
+2020,"Wayne County Health Department","Single","Wayne",7357447.33,126606,58.11,NA,NA
+2000,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4149703,92063,45.07,NA,NA
+2001,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4287499,93963,45.63,NA,NA
+2002,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4400298,96286,45.7,NA,NA
+2003,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4399918,96866,45.42,NA,NA
+2004,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4714279,97756,48.22,NA,NA
+2005,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4952997,98251,50.41,NA,NA
+2006,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4758035,99905,47.63,NA,NA
+2007,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5002770,102032,49.03,NA,NA
+2008,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5380923,103602,51.94,NA,NA
+2009,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5396026,104634,51.57,NA,NA
+2010,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5572060,102951,54.12,NA,NA
+2011,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5466449,102791,53.18,NA,NA
+2012,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5474729,103164,53.07,NA,NA
+2013,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5704252,102253,55.79,NA,NA
+2014,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6180133,102808,60.11,NA,NA
+2015,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6055629,103232,58.66,NA,NA
+2016,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5968541,104035,57.37,NA,NA
+2017,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6072389,103653,58.58,NA,NA
+2018,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6592721,103356,63.79,NA,NA
+2019,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6662220,107375,62.05,NA,NA
+2000,"Greene Health Department","Single","Greene",1015216.68,18978,53.49,NA,NA
+2001,"Greene Health Department","Single","Greene",941375.26,18984,49.59,NA,NA
+2002,"Greene Health Department","Single","Greene",954526.51,19365,49.29,NA,NA
+2003,"Greene Health Department","Single","Greene",1005979.27,19848,50.68,NA,NA
+2004,"Greene Health Department","Single","Greene",1135021.4,19730,57.53,NA,NA
+2005,"Greene Health Department","Single","Greene",1272460.86,20146,63.16,NA,NA
+2006,"Greene Health Department","Single","Greene",1423119.81,20457,69.57,NA,NA
+2007,"Greene Health Department","Single","Greene",1539580.42,21178,72.7,NA,NA
+2008,"Greene Health Department","Single","Greene",1595064.21,20940,76.17,NA,NA
+2009,"Greene Health Department","Single","Greene",1709736.25,21253,80.45,NA,NA
+2010,"Greene Health Department","Single","Greene",1741202.26,21362,81.51,NA,NA
+2011,"Greene Health Department","Single","Greene",1474702.76,21514,68.55,NA,NA
+2012,"Greene Health Department","Single","Greene",1722153.53,21239,81.08,NA,NA
+2013,"Greene Health Department","Single","Greene",1603802.12,21011,76.33,NA,NA
+2014,"Greene Health Department","Single","Greene",1459167.85,21101,69.15,NA,NA
+2015,"Greene Health Department","Single","Greene",1441363.02,21016,68.58,NA,NA
+2016,"Greene Health Department","Single","Greene",1429305.59,21274,67.19,NA,NA
+2017,"Greene Health Department","Single","Greene",1523737.73,20963,72.69,NA,NA
+2018,"Greene Health Department","Single","Greene",1673625.01,21008,79.67,NA,NA
+2019,"Greene Health Department","Single","Greene",1685232.94,21050,80.06,NA,NA
+2017,"Montgomery County Health Department","Single","Montgomery",1870445,27269,68.59,NA,NA
+2018,"Montgomery County Health Department","Single","Montgomery",1887144,27338,69.03,NA,NA
+2019,"Montgomery County Health Department","Single","Montgomery",1816312,27666,65.65,NA,NA
+2017,"Pender County Health Department","Single","Pender",4997120.99,60719,82.3,NA,NA
+2018,"Pender County Health Department","Single","Pender",5907017.95,59020,100.09,NA,NA
+2019,"Pender County Health Department","Single","Pender",5413373.12,63406,85.38,NA,NA
+2020,"Pender County Health Department","Single","Pender",5498142.06,64578,85.14,NA,NA
+1999,"Person County Health Department","Single","Person",2855509,35155,81.23,NA,NA
+2000,"Person County Health Department","Single","Person",2846473,35718,79.69,NA,NA
+2001,"Person County Health Department","Single","Person",3151512,36130,87.23,NA,NA
+2002,"Person County Health Department","Single","Person",2066940,36795,56.17,NA,NA
+2003,"Person County Health Department","Single","Person",3256738,37104,87.77,NA,NA
+2004,"Person County Health Department","Single","Person",3515646,37102,94.76,NA,NA
+2005,"Person County Health Department","Single","Person",3645113,37931,96.1,NA,NA
+2006,"Person County Health Department","Single","Person",4095892,37791,108.38,NA,NA
+2007,"Person County Health Department","Single","Person",4290096,38656,110.98,NA,NA
+2008,"Person County Health Department","Single","Person",4562825,38226,119.36,NA,NA
+2009,"Person County Health Department","Single","Person",4481513,39335,113.93,NA,NA
+2010,"Person County Health Department","Single","Person",4268046,39464,108.15,NA,NA
+2011,"Person County Health Department","Single","Person",4158153,39335,105.71,NA,NA
+2012,"Person County Health Department","Single","Person",4148843,39115,106.07,NA,NA
+2013,"Person County Health Department","Single","Person",4776353,39239,121.72,NA,NA
+2014,"Person County Health Department","Single","Person",4615460,39247,117.6,NA,NA
+2015,"Person County Health Department","Single","Person",4182492,39538,105.78,NA,NA
+2016,"Person County Health Department","Single","Person",4082394,39753,102.69,NA,NA
+2017,"Person County Health Department","Single","Person",3927991,39239,100.1,NA,NA
+2018,"Person County Health Department","Single","Person",3564406,39305,90.69,NA,NA
+2019,"Person County Health Department","Single","Person",3014546,40370,74.67,NA,NA
+1999,"Rowan County Health Department","Single","Rowan",3259473,129436,25.18,NA,NA
+2000,"Rowan County Health Department","Single","Rowan",3510640,130647,26.87,NA,NA
+2001,"Rowan County Health Department","Single","Rowan",3680918,131573,27.98,NA,NA
+2002,"Rowan County Health Department","Single","Rowan",3717671,132149,28.13,NA,NA
+2003,"Rowan County Health Department","Single","Rowan",3960901,132562,29.88,NA,NA
+2004,"Rowan County Health Department","Single","Rowan",4472536,131247,34.08,NA,NA
+2005,"Rowan County Health Department","Single","Rowan",4478524,132527,33.79,NA,NA
+2006,"Rowan County Health Department","Single","Rowan",4478722,132520,33.8,NA,NA
+2007,"Rowan County Health Department","Single","Rowan",4717116,135626,34.78,NA,NA
+2008,"Rowan County Health Department","Single","Rowan",5245882,136617,38.4,NA,NA
+2009,"Rowan County Health Department","Single","Rowan",5673984,138562,40.95,NA,NA
+2010,"Rowan County Health Department","Single","Rowan",5629894,138428,40.67,NA,NA
+2011,"Rowan County Health Department","Single","Rowan",5831706,137805,42.32,NA,NA
+2012,"Rowan County Health Department","Single","Rowan",5468188,137765,39.69,NA,NA
+2013,"Rowan County Health Department","Single","Rowan",5626549,137690,40.86,NA,NA
+2014,"Rowan County Health Department","Single","Rowan",5278684,138897,38,NA,NA
+2015,"Rowan County Health Department","Single","Rowan",5274882,139639,37.78,NA,NA
+2016,"Rowan County Health Department","Single","Rowan",5336371,140557,37.97,NA,NA
+2017,"Rowan County Health Department","Single","Rowan",5508316,140356,39.25,NA,NA
+2018,"Rowan County Health Department","Single","Rowan",5587848,139605,40.03,NA,NA
+2019,"Rowan County Health Department","Single","Rowan",5836872,142643,40.92,NA,NA
+2009,"Harnett County Health Department","Single","Harnett",6320479.55,111866,56.5,NA,NA
+2010,"Harnett County Health Department","Single","Harnett",6458474.04,114678,56.32,NA,NA
+2011,"Harnett County Health Department","Single","Harnett",6191713.34,119178,51.95,NA,NA
+2012,"Harnett County Health Department","Single","Harnett",6030424,121317,49.71,NA,NA
+2013,"Harnett County Health Department","Single","Harnett",5881778.82,125028,47.04,NA,NA
+2014,"Harnett County Health Department","Single","Harnett",5614483.57,125600,44.7,NA,NA
+2015,"Harnett County Health Department","Single","Harnett",6014263.98,127038,47.34,NA,NA
+2016,"Harnett County Health Department","Single","Harnett",5869797.94,129434,45.35,NA,NA
+2017,"Harnett County Health Department","Single","Harnett",5565133.94,132395,42.03,NA,NA
+2018,"Harnett County Health Department","Single","Harnett",5558680.01,130361,42.64,NA,NA
+2019,"Harnett County Health Department","Single","Harnett",5784231.16,135239,42.77,NA,NA
+2020,"Harnett County Health Department","Single","Harnett",5510900.45,137358,40.12,NA,NA
+2001,"Madison County Health Department","Single","Madison",889814.73,19675,45.23,NA,NA
+2002,"Madison County Health Department","Single","Madison",963567.04,19712,48.88,NA,NA
+2003,"Madison County Health Department","Single","Madison",1175505.1,19873,59.15,NA,NA
+2004,"Madison County Health Department","Single","Madison",1053106.66,19991,52.68,NA,NA
+2005,"Madison County Health Department","Single","Madison",1166634.4,20097,58.05,NA,NA
+2006,"Madison County Health Department","Single","Madison",1332078.95,20198,65.95,NA,NA
+2007,"Madison County Health Department","Single","Madison",1243229.39,20420,60.88,NA,NA
+2008,"Madison County Health Department","Single","Madison",1714720.4,20538,83.49,NA,NA
+2009,"Madison County Health Department","Single","Madison",2211913.8,20700,106.86,NA,NA
+2010,"Madison County Health Department","Single","Madison",2490454.83,20764,119.94,NA,NA
+2011,"Madison County Health Department","Single","Madison",2360427.22,20845,113.24,NA,NA
+2012,"Madison County Health Department","Single","Madison",2188734.06,21216,103.16,NA,NA
+2013,"Madison County Health Department","Single","Madison",2657316.35,21147,125.66,NA,NA
+2014,"Madison County Health Department","Single","Madison",2778522.55,21619,128.52,NA,NA
+2015,"Madison County Health Department","Single","Madison",2765190.67,21619,127.91,NA,NA
+2016,"Madison County Health Department","Single","Madison",2820975.58,22039,128,NA,NA
+2017,"Madison County Health Department","Single","Madison",2888826.9,21563,133.97,NA,NA
+2018,"Madison County Health Department","Single","Madison",2754209.59,21405,128.67,NA,NA
+2019,"Madison County Health Department","Single","Madison",3059660.38,22602,135.37,NA,NA
+2020,"Madison County Health Department","Single","Madison",2935162.16,22843,128.49,NA,NA
+1999,"Guilford County Health Department","Single","Guilford",25876074,416459,62.13,NA,NA
+2000,"Guilford County Health Department","Single","Guilford",28403151,422459,67.23,NA,NA
+2001,"Guilford County Health Department","Single","Guilford",28652689,426530,67.18,NA,NA
+2002,"Guilford County Health Department","Single","Guilford",29306129,429668,68.21,NA,NA
+2003,"Guilford County Health Department","Single","Guilford",30318024,432981,70.02,NA,NA
+2004,"Guilford County Health Department","Single","Guilford",31413976,436845,71.91,NA,NA
+2005,"Guilford County Health Department","Single","Guilford",32698025,448192,72.96,NA,NA
+2006,"Guilford County Health Department","Single","Guilford",34095107,454488,75.02,NA,NA
+2007,"Guilford County Health Department","Single","Guilford",34621959,468466,73.9,NA,NA
+2008,"Guilford County Health Department","Single","Guilford",36124028,474323,76.16,NA,NA
+2009,"Guilford County Health Department","Single","Guilford",37030338,484180,76.48,NA,NA
+2010,"Guilford County Health Department","Single","Guilford",36994870,488406,75.75,NA,NA
+2011,"Guilford County Health Department","Single","Guilford",34915224,494953,70.54,NA,NA
+2012,"Guilford County Health Department","Single","Guilford",30741310,501431,61.31,NA,NA
+2013,"Guilford County Health Department","Single","Guilford",31257273,506400,61.72,NA,NA
+2014,"Guilford County Health Department","Single","Guilford",29323811,511636,57.31,NA,NA
+2015,"Guilford County Health Department","Single","Guilford",29812115,516493,57.72,NA,NA
+2016,"Guilford County Health Department","Single","Guilford",30106801,523934,57.46,NA,NA
+2017,"Guilford County Health Department","Single","Guilford",30893221,528243,58.48,NA,NA
+2018,"Guilford County Health Department","Single","Guilford",31664164,534346,59.26,NA,NA
+2019,"Guilford County Health Department","Single","Guilford",33529676,539666,62.13,NA,NA
+1999,"Henderson County Health Department","Single","Henderson",3447901,87985,39.19,NA,NA
+2000,"Henderson County Health Department","Single","Henderson",3724018,87637,42.49,NA,NA
+2001,"Henderson County Health Department","Single","Henderson",3961636,91422,43.33,NA,NA
+2002,"Henderson County Health Department","Single","Henderson",4094184,92800,44.12,NA,NA
+2003,"Henderson County Health Department","Single","Henderson",4561118,94417,48.31,NA,NA
+2004,"Henderson County Health Department","Single","Henderson",4917759,95885,51.29,NA,NA
+2005,"Henderson County Health Department","Single","Henderson",5079229,97357,52.17,NA,NA
+2006,"Henderson County Health Department","Single","Henderson",4524543,100045,45.23,NA,NA
+2007,"Henderson County Health Department","Single","Henderson",5123841,102172,50.15,NA,NA
+2008,"Henderson County Health Department","Single","Henderson",5189325,104086,49.86,NA,NA
+2009,"Henderson County Health Department","Single","Henderson",5756425,105395,54.62,NA,NA
+2010,"Henderson County Health Department","Single","Henderson",5844857,106740,54.76,NA,NA
+2011,"Henderson County Health Department","Single","Henderson",5907205,107244,55.08,NA,NA
+2012,"Henderson County Health Department","Single","Henderson",5415206,107740,50.26,NA,NA
+2013,"Henderson County Health Department","Single","Henderson",5554933,108752,51.08,NA,NA
+2014,"Henderson County Health Department","Single","Henderson",5438219,110485,49.22,NA,NA
+2015,"Henderson County Health Department","Single","Henderson",5705652,111854,51.01,NA,NA
+2016,"Henderson County Health Department","Single","Henderson",6230056,113889,54.7,NA,NA
+2017,"Henderson County Health Department","Single","Henderson",6401837,115384,55.48,NA,NA
+2018,"Henderson County Health Department","Single","Henderson",6787190,116857,58.08,NA,NA
+2019,"Henderson County Health Department","Single","Henderson",6998090,118312,59.15,NA,NA
+1999,"Iredell County Health Department","Single","Iredell",3958273,120270,32.91,NA,NA
+2000,"Iredell County Health Department","Single","Iredell",4101054,123593,33.18,NA,NA
+2001,"Iredell County Health Department","Single","Iredell",4368675,127923,34.15,NA,NA
+2002,"Iredell County Health Department","Single","Iredell",4591632,130463,35.19,NA,NA
+2003,"Iredell County Health Department","Single","Iredell",5010066,133121,37.64,NA,NA
+2004,"Iredell County Health Department","Single","Iredell",5264056,135734,38.78,NA,NA
+2005,"Iredell County Health Department","Single","Iredell",5451654,139347,39.12,NA,NA
+2006,"Iredell County Health Department","Single","Iredell",6020144,145642,41.34,NA,NA
+2007,"Iredell County Health Department","Single","Iredell",6664076,150654,44.23,NA,NA
+2008,"Iredell County Health Department","Single","Iredell",7461442,154753,48.22,NA,NA
+2009,"Iredell County Health Department","Single","Iredell",7743202,157427,49.19,NA,NA
+2010,"Iredell County Health Department","Single","Iredell",7844950,159437,49.2,NA,NA
+2011,"Iredell County Health Department","Single","Iredell",7442226,160988,46.23,NA,NA
+2012,"Iredell County Health Department","Single","Iredell",7599940,162819,46.68,NA,NA
+2013,"Iredell County Health Department","Single","Iredell",7318916,164834,44.4,NA,NA
+2014,"Iredell County Health Department","Single","Iredell",7556585,166862,45.29,NA,NA
+2015,"Iredell County Health Department","Single","Iredell",7416907,169776,43.69,NA,NA
+2016,"Iredell County Health Department","Single","Iredell",7625208,173088,44.05,NA,NA
+2017,"Iredell County Health Department","Single","Iredell",7993880,176089,45.4,NA,NA
+2018,"Iredell County Health Department","Single","Iredell",8250859,178730,46.16,NA,NA
+2019,"Iredell County Health Department","Single","Iredell",8593066,181380,47.38,NA,NA
+2005,"Johnston County Health Department","Single","Johnston",5847556,143982,40.61,NA,NA
+2007,"Johnston County Health Department","Single","Johnston",6718864,154635,43.45,NA,NA
+2008,"Johnston County Health Department","Single","Johnston",7329873,160062,45.79,NA,NA
+2009,"Johnston County Health Department","Single","Johnston",7613409,165111,46.11,NA,NA
+2010,"Johnston County Health Department","Single","Johnston",7462867,168878,44.19,NA,NA
+2011,"Johnston County Health Department","Single","Johnston",7541941,172109,43.82,NA,NA
+2012,"Johnston County Health Department","Single","Johnston",7223443,174207,41.46,NA,NA
+2013,"Johnston County Health Department","Single","Johnston",9141410,176620,51.76,NA,NA
+2014,"Johnston County Health Department","Single","Johnston",11272374,179734,62.72,NA,NA
+2015,"Johnston County Health Department","Single","Johnston",11825260,183619,64.4,NA,NA
+2016,"Johnston County Health Department","Single","Johnston",12683961,188749,67.2,NA,NA
+2017,"Johnston County Health Department","Single","Johnston",13240554,193902,68.28,NA,NA
+2018,"Johnston County Health Department","Single","Johnston",13977295,199790,69.96,NA,NA
+2019,"Johnston County Health Department","Single","Johnston",14206353,205951,68.98,NA,NA
+2020,"Johnston County Health Department","Single","Johnston",13533468,212401,63.72,NA,NA
+1998,"Lincoln County Health Department","Single","Lincoln",2832336,61176,46.3,NA,NA
+1999,"Lincoln County Health Department","Single","Lincoln",2932898,62497,46.93,NA,NA
+2000,"Lincoln County Health Department","Single","Lincoln",3081100,64164,48.02,NA,NA
+2001,"Lincoln County Health Department","Single","Lincoln",3135560,65671,47.75,NA,NA
+2002,"Lincoln County Health Department","Single","Lincoln",3314015,66526,49.82,NA,NA
+2003,"Lincoln County Health Department","Single","Lincoln",3574920,67543,52.93,NA,NA
+2004,"Lincoln County Health Department","Single","Lincoln",3897704,68338,57.04,NA,NA
+2005,"Lincoln County Health Department","Single","Lincoln",3881751,69714,55.68,NA,NA
+2006,"Lincoln County Health Department","Single","Lincoln",4312805,71753,60.11,NA,NA
+2007,"Lincoln County Health Department","Single","Lincoln",4840531,73633,65.74,NA,NA
+2008,"Lincoln County Health Department","Single","Lincoln",4999244,75759,65.99,NA,NA
+2009,"Lincoln County Health Department","Single","Lincoln",5089200,77097,66.01,NA,NA
+2010,"Lincoln County Health Department","Single","Lincoln",5301387,78265,67.74,NA,NA
+2011,"Lincoln County Health Department","Single","Lincoln",5432456,78321,69.36,NA,NA
+2012,"Lincoln County Health Department","Single","Lincoln",5182597,78757,65.8,NA,NA
+2013,"Lincoln County Health Department","Single","Lincoln",5255870,79217,66.35,NA,NA
+2014,"Lincoln County Health Department","Single","Lincoln",5067177,79892,63.43,NA,NA
+2015,"Lincoln County Health Department","Single","Lincoln",4991734,80936,61.68,NA,NA
+2016,"Lincoln County Health Department","Single","Lincoln",4327825,81884,52.85,NA,NA
+2017,"Lincoln County Health Department","Single","Lincoln",4348133,82052,52.99,NA,NA
+2018,"Lincoln County Health Department","Single","Lincoln",4417331,84751,52.12,NA,NA
+2019,"Lincoln County Health Department","Single","Lincoln",4847658,86453,56.07,NA,NA
+2020,"Lincoln County Health Department","Single","Lincoln",5161890,88151,58.56,NA,NA
+2003,"Pitt County Health Department","Single","Pitt",6184924,141029,43.86,NA,NA
+2004,"Pitt County Health Department","Single","Pitt",6683792,144223,46.34,NA,NA
+2005,"Pitt County Health Department","Single","Pitt",7082746,147010,48.18,NA,NA
+2006,"Pitt County Health Department","Single","Pitt",7415076,151356,48.99,NA,NA
+2007,"Pitt County Health Department","Single","Pitt",7830224,156049,50.18,NA,NA
+2008,"Pitt County Health Department","Single","Pitt",8720549,160674,54.27,NA,NA
+2009,"Pitt County Health Department","Single","Pitt",9421656,164602,57.24,NA,NA
+2010,"Pitt County Health Department","Single","Pitt",10280075,168148,61.14,NA,NA
+2011,"Pitt County Health Department","Single","Pitt",9924185,170298,58.28,NA,NA
+2012,"Pitt County Health Department","Single","Pitt",9505483,172509,55.1,NA,NA
+2013,"Pitt County Health Department","Single","Pitt",8904408,173875,51.21,NA,NA
+2014,"Pitt County Health Department","Single","Pitt",8997360,174211,51.65,NA,NA
+2015,"Pitt County Health Department","Single","Pitt",8968160,175475,51.11,NA,NA
+2016,"Pitt County Health Department","Single","Pitt",9174193,176060,52.11,NA,NA
+2017,"Pitt County Health Department","Single","Pitt",9718345,177705,54.69,NA,NA
+2018,"Pitt County Health Department","Single","Pitt",10544823,178440,59.09,NA,NA
+2019,"Pitt County Health Department","Single","Pitt",10493986,179731,58.39,NA,NA
+2011,"Halifax County Health Department","Single","Halifax",6081777,54257,112.09,NA,NA
+2012,"Halifax County Health Department","Single","Halifax",6401144,53977,118.59,NA,NA
+2013,"Halifax County Health Department","Single","Halifax",6317273,53447,118.2,NA,NA
+2014,"Halifax County Health Department","Single","Halifax",5762022,52905,108.91,NA,NA
+2015,"Halifax County Health Department","Single","Halifax",5964937,52212,114.24,NA,NA
+2016,"Halifax County Health Department","Single","Halifax",5951925,52116,114.21,NA,NA
+2017,"Halifax County Health Department","Single","Halifax",6143916,51973,118.21,NA,NA
+2018,"Halifax County Health Department","Single","Halifax",6098914,51552,118.31,NA,NA
+2019,"Halifax County Health Department","Single","Halifax",6182756,51194,120.77,NA,NA
+2005,"Jones County Health Department","Single","Jones",1057467,10029,105.44,NA,NA
+2006,"Jones County Health Department","Single","Jones",948979,10126,93.72,NA,NA
+2007,"Jones County Health Department","Single","Jones",847751,10154,83.49,NA,NA
+2008,"Jones County Health Department","Single","Jones",1029169,10072,102.18,NA,NA
+2009,"Jones County Health Department","Single","Jones",1166437,10129,115.16,NA,NA
+2010,"Jones County Health Department","Single","Jones",1273596,10153,125.44,NA,NA
+2011,"Jones County Health Department","Single","Jones",1113625,10330,107.8,NA,NA
+2012,"Jones County Health Department","Single","Jones",1041434,10410,100.04,NA,NA
+2013,"Jones County Health Department","Single","Jones",949014,10355,91.65,NA,NA
+2014,"Jones County Health Department","Single","Jones",949693,10242,92.73,NA,NA
+2015,"Jones County Health Department","Single","Jones",892946,10205,87.5,NA,NA
+2016,"Jones County Health Department","Single","Jones",974741,10123,96.29,NA,NA
+2017,"Jones County Health Department","Single","Jones",924449,10123,91.32,NA,NA
+2018,"Jones County Health Department","Single","Jones",900836,10196,88.35,NA,NA
+2019,"Jones County Health Department","Single","Jones",1010820,10196,99.14,NA,NA
+2008,"Lenoir County Health Department","Single","Lenoir",3063748,59377,51.6,NA,NA
+2009,"Lenoir County Health Department","Single","Lenoir",3103985,59431,52.23,NA,NA
+2010,"Lenoir County Health Department","Single","Lenoir",3103421,59495,52.16,NA,NA
+2011,"Lenoir County Health Department","Single","Lenoir",3266534,59563,54.84,NA,NA
+2012,"Lenoir County Health Department","Single","Lenoir",3442435,59280,58.07,NA,NA
+2013,"Lenoir County Health Department","Single","Lenoir",3352090,58853,56.96,NA,NA
+2014,"Lenoir County Health Department","Single","Lenoir",3396399,58557,58,NA,NA
+2015,"Lenoir County Health Department","Single","Lenoir",3689023,58225,63.36,NA,NA
+2016,"Lenoir County Health Department","Single","Lenoir",3880719,57653,67.31,NA,NA
+2017,"Lenoir County Health Department","Single","Lenoir",3532664,57175,61.79,NA,NA
+2018,"Lenoir County Health Department","Single","Lenoir",3463486,56856,60.92,NA,NA
+2019,"Lenoir County Health Department","Single","Lenoir",3866269,56372,68.58,NA,NA
+1999,"Gaston County Health Department","Single","Gaston",12449342,189348,65.75,NA,NA
+2000,"Gaston County Health Department","Single","Gaston",12928362,190747,67.78,NA,NA
+2001,"Gaston County Health Department","Single","Gaston",13121589,190941,68.72,NA,NA
+2002,"Gaston County Health Department","Single","Gaston",12469844,190768,65.37,NA,NA
+2003,"Gaston County Health Department","Single","Gaston",13332100,190052,70.15,NA,NA
+2004,"Gaston County Health Department","Single","Gaston",13587489,190038,71.5,NA,NA
+2005,"Gaston County Health Department","Single","Gaston",14924734,191815,77.81,NA,NA
+2006,"Gaston County Health Department","Single","Gaston",15966394,194912,81.92,NA,NA
+2007,"Gaston County Health Department","Single","Gaston",17322768,199005,87.05,NA,NA
+2008,"Gaston County Health Department","Single","Gaston",17132323,203143,84.34,NA,NA
+2009,"Gaston County Health Department","Single","Gaston",17777220,205376,86.56,NA,NA
+2010,"Gaston County Health Department","Single","Gaston",21823121,206086,105.89,NA,NA
+2011,"Gaston County Health Department","Single","Gaston",19405555,207339,93.59,NA,NA
+2012,"Gaston County Health Department","Single","Gaston",16813265,208317,80.71,NA,NA
+2013,"Gaston County Health Department","Single","Gaston",18228656,209364,87.07,NA,NA
+2014,"Gaston County Health Department","Single","Gaston",18679751,210195,88.87,NA,NA
+2015,"Gaston County Health Department","Single","Gaston",16527317,212197,77.89,NA,NA
+2016,"Gaston County Health Department","Single","Gaston",16965807,215269,78.81,NA,NA
+2017,"Gaston County Health Department","Single","Gaston",17046558,218445,78.04,NA,NA
+2018,"Gaston County Health Department","Single","Gaston",17854499,221006,80.79,NA,NA
+2019,"Gaston County Health Department","Single","Gaston",17668100,222744,79.32,NA,NA
+2009,"Hyde County Health Department","Single","Hyde",1192675.79,5841,204.19,NA,NA
+2010,"Hyde County Health Department","Single","Hyde",1589018.18,5810,273.5,NA,NA
+2011,"Hyde County Health Department","Single","Hyde",1462649.57,5799,252.22,NA,NA
+2012,"Hyde County Health Department","Single","Hyde",1516007.17,5708,265.59,NA,NA
+2013,"Hyde County Health Department","Single","Hyde",1474192.33,5745,256.6,NA,NA
+2014,"Hyde County Health Department","Single","Hyde",1413173.52,5670,249.24,NA,NA
+2015,"Hyde County Health Department","Single","Hyde",1458499.4,5571,261.8,NA,NA
+2016,"Hyde County Health Department","Single","Hyde",1560293.57,5570,280.12,NA,NA
+2017,"Hyde County Health Department","Single","Hyde",1257665.11,5442,231.1,NA,NA
+2018,"Hyde County Health Department","Single","Hyde",1042601.95,5198,200.58,NA,NA
+2019,"Hyde County Health Department","Single","Hyde",1262387.66,5181,243.66,NA,NA
+2020,"Hyde County Health Department","Single","Hyde",1432867.79,5156,277.9,NA,NA
+2006,"Mecklenburg County Health Department","Single","Mecklenburg",28231523.25,837685,33.7,NA,NA
+2007,"Mecklenburg County Health Department","Single","Mecklenburg",28673187.43,870393,32.94,NA,NA
+2008,"Mecklenburg County Health Department","Single","Mecklenburg",32077463.24,888730,36.09,NA,NA
+2009,"Mecklenburg County Health Department","Single","Mecklenburg",33222938.35,906473,36.65,NA,NA
+2010,"Mecklenburg County Health Department","Single","Mecklenburg",37122799.41,919628,40.37,NA,NA
+2011,"Mecklenburg County Health Department","Single","Mecklenburg",38392329.59,940887,40.8,NA,NA
+2012,"Mecklenburg County Health Department","Single","Mecklenburg",35538036.78,961255,36.97,NA,NA
+2013,"Mecklenburg County Health Department","Single","Mecklenburg",38529966.98,990504,38.9,NA,NA
+2014,"Mecklenburg County Health Department","Single","Mecklenburg",37664036.99,1010400,37.28,NA,NA
+2015,"Mecklenburg County Health Department","Single","Mecklenburg",49579744.97,1033682,47.96,NA,NA
+2016,"Mecklenburg County Health Department","Single","Mecklenburg",64778295.73,1054613,61.42,NA,NA
+2017,"Mecklenburg County Health Department","Single","Mecklenburg",69546706.07,1073159,64.81,NA,NA
+2018,"Mecklenburg County Health Department","Single","Mecklenburg",73079043.96,1088350,67.15,NA,NA
+2019,"Mecklenburg County Health Department","Single","Mecklenburg",76803874.85,1108107,69.31,NA,NA
+2020,"Mecklenburg County Health Department","Single","Mecklenburg",75976723.65,1131342,67.16,NA,NA
+2008,"Rockingham County Health Department","Single","Rockingham",5369741,92783,57.87,NA,NA
+2009,"Rockingham County Health Department","Single","Rockingham",5250195,93273,56.29,NA,NA
+2010,"Rockingham County Health Department","Single","Rockingham",5206017,93643,55.59,NA,NA
+2011,"Rockingham County Health Department","Single","Rockingham",5182041,93276,55.56,NA,NA
+2012,"Rockingham County Health Department","Single","Rockingham",5159261,92800,55.6,NA,NA
+2013,"Rockingham County Health Department","Single","Rockingham",5405212,92210,58.62,NA,NA
+2014,"Rockingham County Health Department","Single","Rockingham",5339450,92441,57.76,NA,NA
+2015,"Rockingham County Health Department","Single","Rockingham",5251099,92055,57.04,NA,NA
+2016,"Rockingham County Health Department","Single","Rockingham",5223283,91936,56.81,NA,NA
+2017,"Rockingham County Health Department","Single","Rockingham",5511305,91447,60.27,NA,NA
+2018,"Rockingham County Health Department","Single","Rockingham",5431356,91746,59.2,NA,NA
+2019,"Rockingham County Health Department","Single","Rockingham",5362831,91788,58.43,NA,NA
+2010,"Chatham County Health Department","Single","Chatham",5462292,63505,86.01,NA,NA
+2011,"Chatham County Health Department","Single","Chatham",5658604,64396,87.87,NA,NA
+2012,"Chatham County Health Department","Single","Chatham",4925679,65152,75.6,NA,NA
+2013,"Chatham County Health Department","Single","Chatham",5190327,66117,78.5,NA,NA
+2014,"Chatham County Health Department","Single","Chatham",5316609,67373,78.91,NA,NA
+2015,"Chatham County Health Department","Single","Chatham",5318325,69228,76.82,NA,NA
+2016,"Chatham County Health Department","Single","Chatham",5544477,70746,78.37,NA,NA
+2017,"Chatham County Health Department","Single","Chatham",5510396,72570,75.93,NA,NA
+2018,"Chatham County Health Department","Single","Chatham",5905474,74264,79.52,NA,NA
+2019,"Chatham County Health Department","Single","Chatham",5327426,75994,70.1,NA,NA
+2020,"Chatham County Health Department","Single","Chatham",5431334,77713,69.89,NA,NA
+2017,"Onslow County Health Department","Single","Onslow",7299937.59,196535,37.14,NA,NA
+2018,"Onslow County Health Department","Single","Onslow",7252608.85,198740,36.49,NA,NA
+2019,"Onslow County Health Department","Single","Onslow",9544997.9,201548,47.36,NA,NA
+2020,"Onslow County Health Department","Single","Onslow",9789015.37,204357,47.9,NA,NA
+2004,"Franklin County Health Department","Single","Franklin",15305304,52766,290.06,NA,NA
+2005,"Franklin County Health Department","Single","Franklin",16292325,53979,301.83,NA,NA
+2006,"Franklin County Health Department","Single","Franklin",17415333,55396,314.38,NA,NA
+2007,"Franklin County Health Department","Single","Franklin",17937867,56762,316.02,NA,NA
+2008,"Franklin County Health Department","Single","Franklin",18410690,58463,314.91,NA,NA
+2009,"Franklin County Health Department","Single","Franklin",17436101,59502,293.03,NA,NA
+2010,"Franklin County Health Department","Single","Franklin",15933092,60619,262.84,NA,NA
+2011,"Franklin County Health Department","Single","Franklin",17011497,60861,279.51,NA,NA
+2012,"Franklin County Health Department","Single","Franklin",16549400,61618,268.58,NA,NA
+2013,"Franklin County Health Department","Single","Franklin",17001115,62473,272.14,NA,NA
+2014,"Franklin County Health Department","Single","Franklin",17409472,63104,275.89,NA,NA
+2015,"Franklin County Health Department","Single","Franklin",17668892,64069,275.78,NA,NA
+2016,"Franklin County Health Department","Single","Franklin",18018799,65260,276.11,NA,NA
+2017,"Franklin County Health Department","Single","Franklin",18794832,66577,282.3,NA,NA
+2018,"Franklin County Health Department","Single","Franklin",16698013,68012,245.52,NA,NA
+2019,"Franklin County Health Department","Single","Franklin",17563608,69112,254.13,NA,NA
+1999,"Forsyth County Health Department","Single","Forsyth",10871877,303673,35.8,NA,NA
+2000,"Forsyth County Health Department","Single","Forsyth",11626578,307008,37.87,NA,NA
+2001,"Forsyth County Health Department","Single","Forsyth",12320366,310717,39.65,NA,NA
+2002,"Forsyth County Health Department","Single","Forsyth",12775123,313803,40.71,NA,NA
+2003,"Forsyth County Health Department","Single","Forsyth",13989324,316323,44.22,NA,NA
+2004,"Forsyth County Health Department","Single","Forsyth",15659148,319220,49.05,NA,NA
+2005,"Forsyth County Health Department","Single","Forsyth",16922247,324372,52.17,NA,NA
+2006,"Forsyth County Health Department","Single","Forsyth",17794101,330935,53.77,NA,NA
+2007,"Forsyth County Health Department","Single","Forsyth",17835638,337159,52.9,NA,NA
+2008,"Forsyth County Health Department","Single","Forsyth",19194681,342975,55.97,NA,NA
+2009,"Forsyth County Health Department","Single","Forsyth",20231084,347333,58.25,NA,NA
+2010,"Forsyth County Health Department","Single","Forsyth",21184605,350670,60.41,NA,NA
+2011,"Forsyth County Health Department","Single","Forsyth",21011505,354384,59.29,NA,NA
+2012,"Forsyth County Health Department","Single","Forsyth",20104876,357490,56.24,NA,NA
+2013,"Forsyth County Health Department","Single","Forsyth",19971047,359892,55.49,NA,NA
+2014,"Forsyth County Health Department","Single","Forsyth",20423056,363212,56.23,NA,NA
+2015,"Forsyth County Health Department","Single","Forsyth",19925586,365378,54.53,NA,NA
+2016,"Forsyth County Health Department","Single","Forsyth",20807420,369029,56.38,NA,NA
+2017,"Forsyth County Health Department","Single","Forsyth",21634584,372845,58.03,NA,NA
+2018,"Forsyth County Health Department","Single","Forsyth",22295963,376309,59.25,NA,NA
+2019,"Forsyth County Health Department","Single","Forsyth",21981114,379693,57.89,NA,NA
+2020,"Forsyth County Health Department","Single","Forsyth",22934487,383123,59.86,NA,NA
+2003,"Orange County Health Department","Single","Orange",6053459,120368,50.29,NA,NA
+2004,"Orange County Health Department","Single","Orange",7420413,121053,61.3,NA,NA
+2005,"Orange County Health Department","Single","Orange",6759296,122613,55.13,NA,NA
+2006,"Orange County Health Department","Single","Orange",6323932,124593,50.76,NA,NA
+2007,"Orange County Health Department","Single","Orange",6666353,127278,52.38,NA,NA
+2008,"Orange County Health Department","Single","Orange",7085936,129584,54.68,NA,NA
+2009,"Orange County Health Department","Single","Orange",7122479,132215,53.87,NA,NA
+2010,"Orange County Health Department","Single","Orange",7293214,133801,54.51,NA,NA
+2011,"Orange County Health Department","Single","Orange",7101731,135287,52.49,NA,NA
+2012,"Orange County Health Department","Single","Orange",6932715,138300,50.13,NA,NA
+2013,"Orange County Health Department","Single","Orange",7435288,139427,53.33,NA,NA
+2014,"Orange County Health Department","Single","Orange",7718188,140103,55.09,NA,NA
+2015,"Orange County Health Department","Single","Orange",8069020,140678,57.36,NA,NA
+2016,"Orange County Health Department","Single","Orange",8692992,142148,61.15,NA,NA
+2017,"Orange County Health Department","Single","Orange",9166051,142597,64.28,NA,NA
+2018,"Orange County Health Department","Single","Orange",9797459,145574,67.3,NA,NA
+2019,"Orange County Health Department","Single","Orange",10290730,147039,69.99,NA,NA
+2004,"Brunswick County Health Department","Single","Brunswick",5234618,83910,62.38,NA,NA
+2005,"Brunswick County Health Department","Single","Brunswick",5724387,88039,65.02,NA,NA
+2006,"Brunswick County Health Department","Single","Brunswick",6684283,93756,71.29,NA,NA
+2007,"Brunswick County Health Department","Single","Brunswick",6589978,98557,66.86,NA,NA
+2009,"Brunswick County Health Department","Single","Brunswick",7629918,105226,72.51,NA,NA
+2010,"Brunswick County Health Department","Single","Brunswick",7734922,107431,72,NA,NA
+2011,"Brunswick County Health Department","Single","Brunswick",7521945,110148,68.29,NA,NA
+2012,"Brunswick County Health Department","Single","Brunswick",7163256,112409,63.72,NA,NA
+2013,"Brunswick County Health Department","Single","Brunswick",6383573,115284,55.37,NA,NA
+2014,"Brunswick County Health Department","Single","Brunswick",6593003,119050,55.38,NA,NA
+2015,"Brunswick County Health Department","Single","Brunswick",6844763,122957,55.67,NA,NA
+2016,"Brunswick County Health Department","Single","Brunswick",6399328,127152,50.33,NA,NA
+2017,"Brunswick County Health Department","Single","Brunswick",6981970,131644,53.04,NA,NA
+2018,"Brunswick County Health Department","Single","Brunswick",7041307,137103,51.36,NA,NA
+2019,"Brunswick County Health Department","Single","Brunswick",7492998,142088,52.73,NA,NA
+1999,"Richmond County Health Department","Single","Richmond",2496715,46331,53.89,NA,NA
+2000,"Richmond County Health Department","Single","Richmond",2620223,46557,56.28,NA,NA
+2001,"Richmond County Health Department","Single","Richmond",2721767,46510,58.52,NA,NA
+2002,"Richmond County Health Department","Single","Richmond",2944108,46391,63.46,NA,NA
+2003,"Richmond County Health Department","Single","Richmond",2878198,46053,62.5,NA,NA
+2004,"Richmond County Health Department","Single","Richmond",3181871,45894,69.33,NA,NA
+2005,"Richmond County Health Department","Single","Richmond",3324134,46060,72.17,NA,NA
+2006,"Richmond County Health Department","Single","Richmond",3478422,46177,75.33,NA,NA
+2007,"Richmond County Health Department","Single","Richmond",3512077,46449,75.61,NA,NA
+2008,"Richmond County Health Department","Single","Richmond",3770740,46675,80.79,NA,NA
+2009,"Richmond County Health Department","Single","Richmond",4017405,46685,86.05,NA,NA
+2010,"Richmond County Health Department","Single","Richmond",4073929,46639,87.35,NA,NA
+2011,"Richmond County Health Department","Single","Richmond",4081635,46610,87.57,NA,NA
+2012,"Richmond County Health Department","Single","Richmond",4274141,46146,92.62,NA,NA
+2013,"Richmond County Health Department","Single","Richmond",4315499,45924,93.97,NA,NA
+2014,"Richmond County Health Department","Single","Richmond",4729615,45439,104.09,NA,NA
+2015,"Richmond County Health Department","Single","Richmond",4332125,45353,95.52,NA,NA
+2016,"Richmond County Health Department","Single","Richmond",4897206,44957,108.93,NA,NA
+2017,"Richmond County Health Department","Single","Richmond",5092253,45155,112.77,NA,NA
+2018,"Richmond County Health Department","Single","Richmond",5393344,45199,119.32,NA,NA
+2019,"Richmond County Health Department","Single","Richmond",5604262,45079,124.32,NA,NA
+2002,"Craven County Health Department","Single","Craven",7020765,93067,75.44,NA,NA
+2003,"Craven County Health Department","Single","Craven",7254987,92906,78.09,NA,NA
+2004,"Craven County Health Department","Single","Craven",7762736,94134,82.46,NA,NA
+2005,"Craven County Health Department","Single","Craven",8142709,94729,85.96,NA,NA
+2006,"Craven County Health Department","Single","Craven",8170173,97345,83.93,NA,NA
+2007,"Craven County Health Department","Single","Craven",8547659,97825,87.38,NA,NA
+2008,"Craven County Health Department","Single","Craven",9351879,99626,93.87,NA,NA
+2009,"Craven County Health Department","Single","Craven",9538653,101923,93.59,NA,NA
+2010,"Craven County Health Department","Single","Craven",9517457,103505,91.95,NA,NA
+2011,"Craven County Health Department","Single","Craven",9743417,104831,92.94,NA,NA
+2012,"Craven County Health Department","Single","Craven",9699866,105170,92.23,NA,NA
+2013,"Craven County Health Department","Single","Craven",9841143,104285,94.37,NA,NA
+2014,"Craven County Health Department","Single","Craven",9349643,104069,89.84,NA,NA
+2015,"Craven County Health Department","Single","Craven",8888543,104450,85.1,NA,NA
+2016,"Craven County Health Department","Single","Craven",9510727,103184,92.17,NA,NA
+2017,"Craven County Health Department","Single","Craven",9470651,102492,92.4,NA,NA
+2018,"Craven County Health Department","Single","Craven",10279698,103594,99.23,NA,NA
+2019,"Craven County Health Department","Single","Craven",10914425,103779,105.17,NA,NA
+2020,"Craven County Health Department","Single","Craven",11656144,103983,112.1,NA,NA
+1999,"Jackson County Health Department","Single","Jackson",2351694,32492,72.38,NA,NA
+2000,"Jackson County Health Department","Single","Jackson",2345196,33121,70.81,NA,NA
+2001,"Jackson County Health Department","Single","Jackson",2612625,33892,77.09,NA,NA
+2002,"Jackson County Health Department","Single","Jackson",2738753,34570,79.22,NA,NA
+2003,"Jackson County Health Department","Single","Jackson",2980996,35594,83.75,NA,NA
+2004,"Jackson County Health Department","Single","Jackson",2953954,36381,81.19,NA,NA
+2005,"Jackson County Health Department","Single","Jackson",3195040,36751,86.94,NA,NA
+2006,"Jackson County Health Department","Single","Jackson",3435472,37849,90.77,NA,NA
+2007,"Jackson County Health Department","Single","Jackson",3672056,38181,96.17,NA,NA
+2008,"Jackson County Health Department","Single","Jackson",3908666,38659,101.11,NA,NA
+2009,"Jackson County Health Department","Single","Jackson",4049887,39483,102.57,NA,NA
+2010,"Jackson County Health Department","Single","Jackson",4098089.44,40271,101.76,NA,NA
+2011,"Jackson County Health Department","Single","Jackson",4279163.3,40383,105.96,NA,NA
+2012,"Jackson County Health Department","Single","Jackson",4292195,40706,105.44,NA,NA
+2013,"Jackson County Health Department","Single","Jackson",4464273.05,40826,109.35,NA,NA
+2014,"Jackson County Health Department","Single","Jackson",4382283,41131,106.54,NA,NA
+2015,"Jackson County Health Department","Single","Jackson",4166957.24,41590,100.19,NA,NA
+2016,"Jackson County Health Department","Single","Jackson",4331697.13,43003,100.73,NA,NA
+2017,"Jackson County Health Department","Single","Jackson",4479261.92,43544,102.87,NA,NA
+2018,"Jackson County Health Department","Single","Jackson",4463653.24,43819,101.87,NA,NA
+2019,"Jackson County Health Department","Single","Jackson",4947832.89,44335,111.6,NA,NA
+2020,"Jackson County Health Department","Single","Jackson",4784580.84,44848,106.68,NA,NA
+1999,"Translyvania County Health Department","Single","Translyvania",1198401,29068,41.23,NA,NA
+2000,"Translyvania County Health Department","Single","Translyvania",1307527,29334,44.57,NA,NA
+2001,"Translyvania County Health Department","Single","Translyvania",1381154,29483,46.85,NA,NA
+2002,"Translyvania County Health Department","Single","Translyvania",1350861,29728,45.44,NA,NA
+2003,"Translyvania County Health Department","Single","Translyvania",1432830,29879,47.95,NA,NA
+2004,"Translyvania County Health Department","Single","Translyvania",1517665,30249,50.17,NA,NA
+2005,"Translyvania County Health Department","Single","Translyvania",1491319,30623,48.7,NA,NA
+2006,"Translyvania County Health Department","Single","Translyvania",1631018,31375,51.98,NA,NA
+2007,"Translyvania County Health Department","Single","Translyvania",1884708,31973,58.95,NA,NA
+2008,"Translyvania County Health Department","Single","Translyvania",1951437,32413,60.21,NA,NA
+2009,"Translyvania County Health Department","Single","Translyvania",2042609,32788,62.3,NA,NA
+2010,"Translyvania County Health Department","Single","Translyvania",1855463,33090,56.07,NA,NA
+2011,"Translyvania County Health Department","Single","Translyvania",1841788,33007,55.8,NA,NA
+2012,"Translyvania County Health Department","Single","Translyvania",1816020,33020,55,NA,NA
+2013,"Translyvania County Health Department","Single","Translyvania",1901827,33115,57.43,NA,NA
+2014,"Translyvania County Health Department","Single","Translyvania",1983090,33400,59.37,NA,NA
+2015,"Translyvania County Health Department","Single","Translyvania",2231676,33725,66.17,NA,NA
+2016,"Translyvania County Health Department","Single","Translyvania",2269212,34074,66.6,NA,NA
+2017,"Translyvania County Health Department","Single","Translyvania",2409408,34495,69.85,NA,NA
+2018,"Translyvania County Health Department","Single","Translyvania",2352879,35115,67,NA,NA
+1999,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",3070987.37,49828,61.63,NA,NA
+2000,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",2892910.56,50638,57.13,NA,NA
+2001,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",3989362.51,51381,77.64,NA,NA
+2002,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4342292.25,51324,84.61,NA,NA
+2003,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4749687.96,51203,92.76,NA,NA
+2004,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5136176.71,51161,100.39,NA,NA
+2005,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5326221.48,50998,104.44,NA,NA
+2006,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4834996.32,51232,94.37,NA,NA
+2007,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5096082.06,51407,99.13,NA,NA
+2008,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4923941.18,51400,95.8,NA,NA
+2009,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5151725.26,51320,100.38,NA,NA
+2010,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5493127.31,51194,107.3,NA,NA
+2011,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5400497.06,51085,105.72,NA,NA
+2012,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5504317.41,51033,107.86,NA,NA
+2013,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5840264.61,51071,114.36,NA,NA
+2014,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5342117.34,51017,104.71,NA,NA
+2015,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5224538.55,50883,102.68,NA,NA
+2016,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4583246.17,51095,89.7,NA,NA
+2017,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4420352.51,51426,85.96,NA,NA
+2018,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4248446.01,51903,81.85,NA,NA
+2019,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",3669448.94,51884,70.72,NA,NA
+2020,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4019861.74,52087,77.18,NA,NA
+2002,"Union County Health Department","Single","Union",5074971,138896,36.54,NA,NA
+2003,"Union County Health Department","Single","Union",5354146,144139,37.15,NA,NA
+2004,"Union County Health Department","Single","Union",5420127,151102,35.87,NA,NA
+2005,"Union County Health Department","Single","Union",5689220,160260,35.5,NA,NA
+2006,"Union County Health Department","Single","Union",6328108,171307,36.94,NA,NA
+2007,"Union County Health Department","Single","Union",7336064,183036,40.08,NA,NA
+2008,"Union County Health Department","Single","Union",7886519,192305,41.01,NA,NA
+2009,"Union County Health Department","Single","Union",8002664,197373,40.55,NA,NA
+2010,"Union County Health Department","Single","Union",8187069,201292,40.67,NA,NA
+2011,"Union County Health Department","Single","Union",8351741,204332,40.87,NA,NA
+2012,"Union County Health Department","Single","Union",8424560,207438,40.61,NA,NA
+2013,"Union County Health Department","Single","Union",8539057,210937,40.48,NA,NA
+2014,"Union County Health Department","Single","Union",7686944,215312,35.7,8694206,NA
+2015,"Union County Health Department","Single","Union",8509862,219243,38.81,8509861,9518495
+2016,"Union County Health Department","Single","Union",9002363,223663,40.25,9002363,10007831
+2017,"Union County Health Department","Single","Union",9084694,228061,39.83,9084694,NA
+2018,"Union County Health Department","Single","Union",7652358,232465,32.92,NA,NA
+2019,"Union County Health Department","Single","Union",8834259,237287,37.23,NA,NA
+1999,"Lee County Health Department","Single","Lee",1837865,48926,37.56,NA,NA
+2000,"Lee County Health Department","Single","Lee",2024757,49170,41.18,NA,NA
+2001,"Lee County Health Department","Single","Lee",2561500,50277,50.95,NA,NA
+2002,"Lee County Health Department","Single","Lee",2294034,50782,45.17,NA,NA
+2003,"Lee County Health Department","Single","Lee",2319318,51420,45.11,NA,NA
+2004,"Lee County Health Department","Single","Lee",2655771.27,52460,50.62,NA,NA
+2005,"Lee County Health Department","Single","Lee",2846061.53,53320,53.38,NA,NA
+2006,"Lee County Health Department","Single","Lee",2873287,54390,52.83,NA,NA
+2007,"Lee County Health Department","Single","Lee",3416298,55334,61.74,NA,NA
+2008,"Lee County Health Department","Single","Lee",3138364,56505,55.54,NA,NA
+2009,"Lee County Health Department","Single","Lee",3042637,57297,53.1,NA,NA
+2010,"Lee County Health Department","Single","Lee",2730273,57866,47.18,NA,NA
+2011,"Lee County Health Department","Single","Lee",2538417,58294,43.55,NA,NA
+2012,"Lee County Health Department","Single","Lee",2635486,58820,44.81,NA,NA
+2013,"Lee County Health Department","Single","Lee",2883198,59028,48.84,NA,NA
+2014,"Lee County Health Department","Single","Lee",2707876,58930,45.95,NA,NA
+2015,"Lee County Health Department","Single","Lee",2785050,58711,47.44,NA,NA
+2016,"Lee County Health Department","Single","Lee",3028487,59181,51.17,NA,NA
+2017,"Lee County Health Department","Single","Lee",3020591,59810,50.5,NA,NA
+2018,"Lee County Health Department","Single","Lee",3076395,60878,50.53,NA,NA
+2019,"Lee County Health Department","Single","Lee",3161580.88,61690,51.25,NA,NA
+2020,"Lee County Health Department","Single","Lee",2855191.4,62429,45.74,NA,NA
+2008,"Burke County Health Department","Single","Burke",4247320,89984,47.2,NA,NA
+2009,"Burke County Health Department","Single","Burke",4054646,90521,44.79,NA,NA
+2010,"Burke County Health Department","Single","Burke",3551815,90912,39.07,NA,NA
+2011,"Burke County Health Department","Single","Burke",3343688,90203,37.07,NA,NA
+2012,"Burke County Health Department","Single","Burke",3094637,89619,34.53,NA,NA
+2013,"Burke County Health Department","Single","Burke",2958593,89151,33.19,NA,NA
+2014,"Burke County Health Department","Single","Burke",2964915,89151,33.26,NA,NA
+2015,"Burke County Health Department","Single","Burke",3028424,89321,33.9,NA,NA
+2016,"Burke County Health Department","Single","Burke",2958051,90123,32.82,NA,NA
+2017,"Burke County Health Department","Single","Burke",2961867,91402,32.4,NA,NA
+2018,"Burke County Health Department","Single","Burke",3099064,91810,33.76,NA,NA
+2019,"Burke County Health Department","Single","Burke",3212055,91934,34.94,NA,NA
+2005,"Moore County Health Department","Single","Moore",4041286,80388,50.27,NA,NA
+2006,"Moore County Health Department","Single","Moore",4272969,82347,51.89,NA,NA
+2007,"Moore County Health Department","Single","Moore",4512321,84393,53.47,NA,NA
+2008,"Moore County Health Department","Single","Moore",4739038,85954,55.13,NA,NA
+2009,"Moore County Health Department","Single","Moore",5188070,97227,53.36,NA,NA
+2010,"Moore County Health Department","Single","Moore",5023285,88247,56.92,NA,NA
+2011,"Moore County Health Department","Single","Moore",4516788,89291,50.59,NA,NA
+2012,"Moore County Health Department","Single","Moore",4486158,90560,49.54,NA,NA
+2013,"Moore County Health Department","Single","Moore",4004598,91721,43.66,NA,NA
+2014,"Moore County Health Department","Single","Moore",3570719,92903,38.43,NA,NA
+2015,"Moore County Health Department","Single","Moore",3610009,94159,38.34,NA,NA
+2016,"Moore County Health Department","Single","Moore",3658433,95812,38.18,NA,NA
+2017,"Moore County Health Department","Single","Moore",3348163,97625,34.3,NA,NA
+2018,"Moore County Health Department","Single","Moore",3539264,99390,35.61,NA,NA
+2019,"Moore County Health Department","Single","Moore",3821816,101180,37.77,NA,NA
+1999,"Stanly County Health Department","Single","Stanly",1871126,57153,32.74,NA,NA
+2000,"Stanly County Health Department","Single","Stanly",1275845,58100,21.96,NA,NA
+2001,"Stanly County Health Department","Single","Stanly",1257349,58720,21.41,NA,NA
+2002,"Stanly County Health Department","Single","Stanly",1274819,58838,21.67,NA,NA
+2003,"Stanly County Health Department","Single","Stanly",1390450,58739,23.67,NA,NA
+2004,"Stanly County Health Department","Single","Stanly",1611841,58640,27.49,NA,NA
+2005,"Stanly County Health Department","Single","Stanly",1702046,58588,29.05,NA,NA
+2006,"Stanly County Health Department","Single","Stanly",1806362,58791,30.73,NA,NA
+2007,"Stanly County Health Department","Single","Stanly",1909434,59203,32.25,NA,NA
+2008,"Stanly County Health Department","Single","Stanly",2074068,59906,34.62,NA,NA
+2009,"Stanly County Health Department","Single","Stanly",2171709.05,60205,36.07,NA,NA
+2010,"Stanly County Health Department","Single","Stanly",2191594.15,60585,36.17,NA,NA
+2011,"Stanly County Health Department","Single","Stanly",2316979.36,60605,38.23,NA,NA
+2012,"Stanly County Health Department","Single","Stanly",2396147.06,60363,39.7,NA,NA
+2013,"Stanly County Health Department","Single","Stanly",2373878.93,60586,39.18,NA,NA
+2014,"Stanly County Health Department","Single","Stanly",2372101.01,61026,38.87,NA,NA
+2015,"Stanly County Health Department","Single","Stanly",2475795.02,61212,40.45,NA,NA
+2016,"Stanly County Health Department","Single","Stanly",2467129.67,61696,39.99,NA,NA
+2017,"Stanly County Health Department","Single","Stanly",2492321.7,62736,39.73,NA,NA
+2018,"Stanly County Health Department","Single","Stanly",2593025.86,63328,40.95,NA,NA
+2019,"Stanly County Health Department","Single","Stanly",2710590.81,63727,42.53,NA,NA
+2020,"Stanly County Health Department","Single","Stanly",2886105,64236,44.93,NA,NA
+2018,"Surry County Health Department","Single","Surry",13434038,73232,183.44,NA,NA
+2019,"Surry County Health Department","Single","Surry",13887427,73232,189.64,NA,NA
+2020,"Surry County Health Department","Single","Surry",14695867,73231,200.68,NA,NA
+2018,"Wilkes County Health Department","Single","Wilkes",5791841.07,69913,82.84,NA,NA
+2019,"Wilkes County Health Department","Single","Wilkes",6231349.85,70200,88.77,NA,NA
+2020,"Wilkes County Health Department","Single","Wilkes",6340371.95,70490,89.95,NA,NA
+1999,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7387676,43421,170.14,NA,NA
+2000,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5897575,43418,135.83,NA,NA
+2001,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5862105,43090,136.04,NA,NA
+2002,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5951460,42891,138.76,NA,NA
+2003,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7074978,42733,165.56,NA,NA
+2004,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7541548,42480,177.53,NA,NA
+2005,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",8253957,42312,195.07,NA,NA
+2006,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7890618,42300,186.54,NA,NA
+2007,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7253528,42084,172.36,NA,NA
+2008,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6887891,42234,163.09,NA,NA
+2009,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7315583,42161,173.52,NA,NA
+2010,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7828145,42140,185.77,NA,NA
+2011,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7855919,41478,189.4,NA,NA
+2012,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7590651,40708,186.47,NA,NA
+2013,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7543462,40520,186.17,NA,NA
+2014,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7437421,40323,184.45,NA,NA
+2015,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6301365,40290,156.4,NA,NA
+2016,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5916762,39970,148.03,NA,NA
+2017,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5999164,39926,150.26,NA,NA
+2018,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6028625,39677,151.94,NA,NA
+2019,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6560934,39480,166.18,NA,NA
+2009,"Wake County Health Department","Single","Wake",76972076,882344,87.24,NA,NA
+2010,"Wake County Health Department","Single","Wake",79391383,900993,88.12,NA,NA
+2011,"Wake County Health Department","Single","Wake",79490552,924330,86,NA,NA
+2012,"Wake County Health Department","Single","Wake",74369935,944622,78.73,NA,NA
+2013,"Wake County Health Department","Single","Wake",39852467,963856,41.35,NA,NA
+2014,"Wake County Health Department","Single","Wake",38099704,983918,38.72,NA,NA
+2015,"Wake County Health Department","Single","Wake",40516034,1006139,40.27,NA,NA
+2016,"Wake County Health Department","Single","Wake",42869438,1028509,41.68,NA,NA
+2017,"Wake County Health Department","Single","Wake",43397601,1049943,41.33,NA,NA
+2018,"Wake County Health Department","Single","Wake",46664534,1070197,43.6,NA,NA
+2019,"Wake County Health Department","Single","Wake",50374341,1089579,46.23,NA,NA
