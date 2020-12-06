@@ -26,19 +26,8 @@ health_department_combined_expenditures.csv
   Combined expenditures from each department we received data from.
   
 LocalHealthDepartments.csv
-    Data from the KHN story that inspired this project, including      full-time expenditures.
+    Data from the KHN story that inspired this project, including full-time expenditures.
 
-## Technical
-
-An outline of the basic project structure is available at https://github.com/associatedpress/cookiecutter-r-project
-
-### Project setup instructions
-
-After cloning the git repo:
-
-`datakit data pull` to rerieve the data files.
-
-Open `new-project.Rproj` in RStudio.
 
 ## Data notes
 
