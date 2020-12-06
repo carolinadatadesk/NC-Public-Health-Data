@@ -22,10 +22,10 @@ Jamie Krantz: jakrantz@live.unc.edu
 
 To collect data, we sent out public records requests to every local health department in North Carolina, requesting expenditure data. We heard back from more than 50 of them. Population data was retrieved from the U.S. Census Bureau and the North Carolina Office of State Budget and Management.
 
-health_department_combined_expenditures.csv
+[health_department_combined_expenditures.csv](https://github.com/carolinadatadesk/NC-Public-Health-Data/blob/master/data/handmade/health_department_combined_expenditures.csv)
   Combined expenditures from each department we received data from.
   
-LocalHealthDepartments.csv
+[LocalHealthDepartments.csv](https://github.com/carolinadatadesk/NC-Public-Health-Data/blob/master/data/handmade/LocalHealthDepartments.csv)
     Data from the KHN story that inspired this project, including full-time expenditures.
 
 
