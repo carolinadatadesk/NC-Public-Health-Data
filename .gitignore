@@ -1,7 +1,7 @@
 *.vim
 .DS_Store
 
-data/
+!data/
 !data/documentation/.gitkeep
 !data/html_reports/.gitkeep
 !data/source/.gitkeep
