@@ -1,0 +1,154 @@
+---
+title: "North Carolina Local Health Departments"
+date: "12/15/2020"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+    code_folding: hide
+knit: (function(i, encoding) {apstyle::render(i, encoding)})
+---
+<!-- Timestamp: leave this in to automatically track when a file is rendered -->
+*Rendered at `r format(Sys.time(), '%I:%M %p, %b. %d, %Y')`*
+
+<!-- Contact info: leave author/reporter/editor contact info here -->
+*Firstname Lastname (<email@domain.com>)*
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE
+  )
+
+knitr::opts_knit$set(
+  root.dir = rprojroot::find_rstudio_root_file()
+  )
+```
+
+```{r initialize}
+# Load files, environment variables, libraries, etc. here
+library(tidyverse)
+library(apstyle)
+library(DT)
+```
+
+## Overview
+
+Overall description TK.
+
+## Loading Data
+This story was inspired by [reporting done by the Kaiser Health News service](https://github.com/khnews/2020-underfunded-under-threat-data/) and begins by using the data they collected and cleaned.
+
+```{r class.source = 'fold-show'}
+khn_state_public_health_agencies <- read_csv("https://raw.githubusercontent.com/khnews/2020-underfunded-under-threat-data/master/data/01-state-public-health-agencies.csv")
+```
+
+## State Level Spending
+
+### Changes From 2010-2018
+**Spending on public health at the state level in North Carolina dropped by more than 27%. This is spending per capita, adjusted for inflation, between 2010 and 2018.**
+
+
+```{r}
+khn_state_public_health_agencies %>%
+  filter(state_code =="NC", year %in% c(2010, 2018)) %>%
+  select(year, expenditures_infl_per_capita) %>%
+  pivot_wider(names_from = "year", values_from = "expenditures_infl_per_capita", names_prefix="year") %>%
+  mutate(pct_change = (year2018 - year2010) / year2010)
+  
+```
+
+**Raw expenditures dropped about 6%.**
+```{r}
+khn_state_public_health_agencies %>%
+  filter(state_code =="NC", year %in% c(2010, 2018)) %>%
+  select(year, expenditures) %>%
+  pivot_wider(names_from = "year", values_from = "expenditures", names_prefix="year") %>%
+  mutate(pct_change = (year2018 - year2010) / year2010)
+  
+```
+
+**But when you adjust those raw numbers for the states population increase during that time, the decline goes to 13%.**
+```{r}
+khn_state_public_health_agencies %>%
+  filter(state_code =="NC", year %in% c(2010, 2018)) %>%
+  select(year, expenditures_per_capita) %>%
+  pivot_wider(names_from = "year", values_from = "expenditures_per_capita", names_prefix="year") %>%
+  mutate(pct_change = (year2018 - year2010) / year2010)
+  
+```
+
+
+### Compared to Other States
+**The national decline in state-level public health spending of 16%.**
+
+```{r}
+khn_state_public_health_agencies %>%
+  filter(year %in% c(2010, 2018)) %>%
+  #KHN excluded Missouri, Michigan, Texas and Wyoming 
+  filter(!(state_code %in% c("MO","MI","TX","WY"))) %>%
+  group_by(year) %>%
+  summarise(total_expenditures = sum(expenditures_infl), total_pop = sum(population)) %>%
+  mutate(national_expenditures_infl_per_capita = total_expenditures / total_pop) %>%
+  select(year, national_expenditures_infl_per_capita) %>%
+  pivot_wider(names_from = "year", values_from = "national_expenditures_infl_per_capita", names_prefix="year") %>%
+  mutate(pct_change = (year2018 - year2010) / year2010) 
+```
+
+**North Carolina's per-person spending on state-level public health declined at a higher rate than all but six states -- Texas, South Carolina, Nevada, Kentucky, Arkansas and Alabama.**
+
+```{r}
+khn_state_public_health_agencies %>%
+  filter(year %in% c(2010, 2018)) %>%
+  select(state_code, year, expenditures_infl_per_capita) %>%
+  pivot_wider(names_from = "year", values_from = "expenditures_infl_per_capita", names_prefix="year") %>%
+  mutate(pct_change = (year2018 - year2010) / year2010) %>%
+  arrange(pct_change) %>%
+  datatable()
+  
+```
+
+**North Carolina state government spent about $72 per person on public health in 2018, which is less than all but 13 other states.**
+
+```{r}
+khn_state_public_health_agencies %>%
+  filter(!(state_code %in% c("MO", "MI", "TX", "WY"))) %>%
+    #KHN excluded Missouri, Michigan, Texas and Wyoming 
+  filter(year == 2018) %>%
+  select(state_code, expenditures_infl_per_capita) %>%
+  arrange(expenditures_infl_per_capita)%>%
+  datatable(options = list(pageLength = 15))
+```
+
+**Ten years ago, North Carolina spent just over $100 per person and ranked 12 places higher compared to other states.**
+
+```{r}
+khn_state_public_health_agencies %>%
+  filter(!(state_code %in% c("MO", "MI", "TX", "WY"))) %>%
+    #KHN excluded Missouri, Michigan, Texas and Wyoming 
+  filter(year == 2010) %>%
+  select(state_code, expenditures_infl_per_capita) %>%
+  arrange(expenditures_infl_per_capita)%>%
+  datatable(options = list(pageLength = 50))
+```
+
+## Local Health Department Spending in N.C.
+
+## References
+
+<!-- This section is for including references to related material -->
+
+- Infaltion Adjustment
+
+- KHN GitHub Repository
+
+<!-- This section is for a tests code block -->
+
+```{r tests}
+# Leave this block of code at the end of the file
+# If a test fails it will stop the Rmd document from knitting
+# Run tests like so:
+# source("tests/etl_test.R")
+```
