@@ -27,11 +27,12 @@ knitr::opts_knit$set(
   )
 ```
 
-```{r initialize}
+```{r initialize class.source = 'fold-show'}
 # Load files, environment variables, libraries, etc. here
 library(tidyverse)
 library(apstyle)
 library(DT)
+library(gsheet)
 ```
 
 ## Overview
@@ -135,6 +136,88 @@ khn_state_public_health_agencies %>%
 ```
 
 ## Local Health Department Spending in N.C.
+UNC students requested expenditures from all 85 local health department in North Carolina. They entered the data in a spreadsheet that matches the format of the Kaiser Health News expenditure data.  
+
+```{r class.source = 'fold-show'}
+CompiledLHDExpenditures <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Zc10pam92Y1218F90eXn9ri7-a4GQI1vhzING33nNSI/edit#gid=0")
+```
+
+
+They received data from 51 local health departments representing 56 counties, and there was some variance in the years each health department was able to provide.
+
+```{r}
+CompiledLHDExpenditures %>%
+  group_by(lhd_name, county_name) %>%
+  summarize(years_provided = n()) %>% 
+  arrange(lhd_name) %>%
+  datatable()
+```
+
+
+Forty-six health departments representing 51 counties provided full data spanning from 2010-2018.
+
+```{r}
+CompiledLHDExpenditures %>% filter(year >=2010, year<=2018) %>%
+  pivot_wider(id_cols = lhd_name, names_from = year, values_from = expenditures, names_prefix = "year") %>% 
+  filter(!is.na(year2010),
+         !is.na(year2011),
+         !is.na(year2012),
+         !is.na(year2013),
+         !is.na(year2014),
+         !is.na(year2015),
+         !is.na(year2016),
+         !is.na(year2017),
+         !is.na(year2018)) %>%
+  arrange(lhd_name) %>%
+  datatable()
+
+```
+
+
+The population data comes from XXX.
+
+```{r class.source = 'fold-show'}
+
+```
+
+
+These health departments serve about 66% of North Carolina’s population.
+
+```{r class.source = 'fold-show'}
+
+```
+
+From 2009-2017, 62 of the 85 local health departments’ full-time staff decreased. 
+
+
+```{r}
+
+NEED TO PULL KHN DATA ON COUNTY FTES HERE
+
+
+khn_state_public_health_agencies %>%
+  filter(year %in% c('2009', '2017')) %>%
+  pivot_wider(id_cols = -c(fte_per_100000,population), names_from = year, values_from = fte) %>%
+  # DONT NEED NEXT LINE - RT
+ # group_by(lhd_name) %>%
+  mutate(pct_change = 100 * ((`2017` - `2003`)) / `2003`) %>%
+  arrange(desc(pct_change))
+```
+
+```
+
+
+The average decrease in staff across the departments was close to 11%. 
+```{r}
+
+```
+
+
+Thirteen health departments saw their staffing drop by more than a third over the time period. 
+```{r}
+
+```
+
 
 ## References
 
