@@ -33,6 +33,7 @@ library(tidyverse)
 library(apstyle)
 library(DT)
 library(gsheet)
+library(aptheme)
 ```
 
 ## Overview
@@ -71,7 +72,7 @@ khn_state_public_health_agencies %>%
   
 ```
 
-**But when you adjust those raw numbers for the states population increase during that time, the decline goes to 13%.**
+**But when you adjust those raw numbers for the state's population increase during that time, the decline goes to 13%.**
 ```{r}
 khn_state_public_health_agencies %>%
   filter(state_code =="NC", year %in% c(2010, 2018)) %>%
@@ -134,6 +135,8 @@ khn_state_public_health_agencies %>%
   arrange(expenditures_infl_per_capita)%>%
   datatable(options = list(pageLength = 50))
 ```
+
+
 
 ## Local Health Department Spending in N.C.
 UNC students requested expenditures from all 85 local health department in North Carolina. They entered the data in a spreadsheet that matches the format of the Kaiser Health News expenditure data.  
@@ -235,7 +238,119 @@ CompiledLHDExpenditures %>%
   summarize(pct_total_pop = sum(population) / 10389148) #2018 pop. from State Demographer
 ```
 
-*From 2009-2017, 66 of the 85 local health departments’ reported to the state DHHS taht their full-time staff decreased. *
+
+### LHD Per Capita Spending
+```{r}
+CompiledLHDExpenditures <- 
+  CompiledLHDExpenditures %>%
+  filter(!is.na(population), !is.na(expenditures)) %>%
+  mutate(expenditures_per_capita = expenditures / population)
+
+CompiledLHDExpenditures %>%
+  select(year, lhd_name, county_name, expenditures_per_capita) %>%
+  datatable()
+```
+
+
+
+### Inflation rates
+
+In its reporting, Kaiser Health News inflation-adjusted all financial data to 2019 using the Bureau of Economic Analysis' "Government consumption expenditures and gross investment: State and local - implicit price deflator." 
+
+Because this index itself is adjusted periodically, we simply reverse engineered inflation rates from the KHN data so that the data in our story could be used to make apples-to-apples comparisons with the original KHN data.
+
+
+
+
+```{r}
+infl_rates <- 
+  khn_state_public_health_agencies %>%
+  filter(!is.na(expenditures), !is.na(expenditures_infl),) %>%
+  group_by(year) %>%
+  summarize(total_raw = max(expenditures, na.rm=TRUE), total_infl = max(expenditures_infl, na.rm=TRUE)) %>%
+  mutate(multiplier2019 = total_infl/ total_raw)
+
+#Ugh. Have to hand-code two years
+infl_rates <- infl_rates %>%
+  add_row(year = 2012, multiplier2019 = 114.969 / 100) %>%
+  add_row(year = 2013, multiplier2019 = 114.969 / 103.279)
+
+infl_rates %>% 
+  select(year, multiplier2019) %>%
+  arrange(year)
+```
+
+Using the infl_rates data to create a new dataframe of all LHD expenditures, adjusted for inflation.
+```{r}
+CompiledLHDExpenditures <- 
+  left_join(CompiledLHDExpenditures, infl_rates, by=c("year"="year")) %>%
+  mutate(expenditures_infl = expenditures * multiplier2019, 
+         expenditures_infl_per_capita = expenditures_infl / population) %>%
+  select(year, lhd_name, lhd_area_type, county_name, population, expenditures, expenditures_infl, expenditures_per_capita, expenditures_infl_per_capita)
+
+infl_nc_county_by_year <- CompiledLHDExpenditures %>%
+  filter(year >=2010, year<=2018) %>%
+  pivot_wider(id_cols = county_name, names_from = year, values_from = expenditures_infl_per_capita, names_prefix = "year") %>%
+  arrange(county_name)
+
+infl_nc_county_by_year %>% datatable()
+```
+
+
+```{r}
+ggplotly(
+  ggplot(filter(CompiledLHDExpenditures,year>=2010, year<=2019),
+         aes(x=year, 
+             y=expenditures_infl_per_capita, 
+             group=lhd_name, 
+             color=lhd_name)) +
+    geom_line() +
+    scale_y_continuous()+
+    scale_fill_viridis(discrete = TRUE) +
+    theme(legend.position="none") +
+    ggtitle("Trends in Per Capita Local Health Department Expenditures") +
+    theme_ipsum() +
+    theme(
+      legend.position="none",
+      panel.spacing = unit(0.1, "lines"),
+      strip.text.x = element_text(size = 8),
+      plot.title = element_text(size=14)
+    )
+)
+```
+
+
+**County-level spending on public health dropped 22% from 2010-2018 when adjusted for inflation and population increase.**
+```{r}
+CompiledLHDExpenditures %>%
+  filter(year %in% c(2010,2018)) %>%
+  group_by(year) %>%
+  summarise(annual_lhd_total_capita = sum(expenditures_infl) / sum(population)) %>%
+   pivot_wider(names_from = "year", values_from = "annual_lhd_total_capita", names_prefix="year") %>%
+  mutate(pct_change = (year2018 - year2010) / year2010) 
+```
+
+**At least 40 health departments serving 45 counties saw a decline in public health spending from 2010-2018 when adjusted for inflation and population increase.**
+```{r}
+  CompiledLHDExpenditures%>%
+  filter(year %in% c('2010', '2018')) %>%
+  pivot_wider(id_cols = 1:4, names_from = year, values_from = expenditures_infl_per_capita, names_prefix = "year") %>%
+  mutate(pct_change = ((year2018 - year2010)) / year2010) %>%
+  select(lhd_name, year2010, year2018, pct_change)%>%
+  filter(pct_change < 0) %>%
+  arrange(pct_change)
+```
+
+
+
+## Local Health Department Staffing in N.C.
+
+Data comes via Kaiser Health News compilation of data in "[Local Health DepartmentStaffing and Services SummaryFiscal Year 2016–2017](https://schs.dph.ncdhhs.gov/schs/pdf/LHD_2017_FIN_20171120.pdf
+), published by the N.C. Department of Health and Human Services's State Center for Health Statistics. This is the most recent year available for the report, which has been conducted since 1984. It is typically conducted every two years.
+
+
+
+*From 2009-2017, 66 of the 85 local health departments’ reported to the state DHHS that their full-time staff decreased. *
 ```{r}
 
 khn_nc_lhd_fte <- read_csv("https://raw.githubusercontent.com/khnews/2020-underfunded-under-threat-data/master/data/05-local-health-departments-detail.csv", 
@@ -316,6 +431,50 @@ khn_nc_lhd_fte %>%
 ```
 
 
+## Data Viz
+
+```{r}
+infl_nc_county_by_year %>% 
+  filter(!is.na(year2010)) %>% 
+  mutate(pct_change = (year2018 - year2010) / year2010) %>%
+ggplot(
+       aes(x=pct_change, y=fct_reorder(county_name, pct_change))) +
+  geom_segment(
+    aes(x=0,
+        y=fct_reorder(county_name,pct_change),
+        xend= pct_change,
+        yend=fct_reorder(county_name, pct_change)),
+    color="gray50")+
+  geom_point(color="#1d91c0")+
+  labs(x="Percent Change in Per Capita Spending", y="County Health Department", 
+       title = "Percent Change in Per Capita Spending from 2010-2018",
+       caption = "Data Source: County Finance Records (Did not receive data from 41 Health Departments)") +
+  theme_minimal()+
+   theme(panel.border = element_blank(),
+        panel.grid.minor = element_blank()
+   )
+```
+
+
+```{r}
+ggplot(FTE_change_revised_names,
+       aes(x=pct_change, y=fct_reorder(lhd_name, pct_change))) +
+  geom_segment(
+    aes(x=0,
+        y=fct_reorder(lhd_name,pct_change),
+        xend= pct_change,
+        yend=fct_reorder(lhd_name, pct_change)),
+    color="gray50")+
+  geom_point(color="#1d91c0")+
+  labs(x="Percent Change in FTEs", y="County Health Department", 
+       title = "Percent Change in Number of FTEs from 2007-2017",
+       caption = "Data Source: KHN FTE Dataset") +
+  theme_minimal()+
+   theme(panel.border = element_blank(),
+        panel.grid.minor = element_blank()
+   )
+```
+
 
 
 
@@ -323,9 +482,7 @@ khn_nc_lhd_fte %>%
 
 <!-- This section is for including references to related material -->
 
-- Infaltion Adjustment
-
-- KHN GitHub Repository
+- [Kaiser Health News GitHub Repository for "Under Funded and Under Threat" project](https://github.com/khnews/2020-underfunded-under-threat-data)
 
 <!-- This section is for a tests code block -->
 
