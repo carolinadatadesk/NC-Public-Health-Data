@@ -193,15 +193,45 @@ county_pop <- read_delim("https://demography.osbm.nc.gov/explore/dataset/populat
 
 county_pop$county_name <-  str_sub(county_pop$county_name, end = -8)
 
-CompiledLHDExpenditures<- left_join(CompiledLHDExpenditures, county_pop, c("county_name" = "county_name", "year" = "year")) %>% 
+
+county_pop<- county_pop %>%
+  filter(county_name %in% c("Granville","Vance")) %>%
+  group_by(year) %>%
+  summarise(Value=sum(Value)) %>%
+  mutate(county_name = "Granville & Vance") %>%
+  select(county_name, year, Value) %>%
+  union_all(county_pop)
+
+
+county_pop<- county_pop %>%
+  filter(county_name %in% c("Avery", "Mitchell", "Yancey")) %>%
+  group_by(year) %>%
+  summarise(Value=sum(Value)) %>%
+  mutate(county_name = "Avery, Mitchell & Yancey") %>%
+  select(county_name, year, Value) %>%
+  union_all(county_pop)
+
+
+county_pop<- county_pop %>%
+  filter(county_name %in% c("Martin", "Tyrrell", "Washington")) %>%
+  group_by(year) %>%
+  summarise(Value=sum(Value)) %>%
+  mutate(county_name = "Martin, Tyrrell & Washington") %>%
+  select(county_name, year, Value) %>%
+  union_all(county_pop) %>% 
   rename(population=Value)
+
+
+CompiledLHDExpenditures<- left_join(CompiledLHDExpenditures, county_pop, c("county_name" = "county_name", "year" = "year")) 
   
 ```
-
 
 These health departments serve about 66% of North Carolina’s population.
 
 ```{r class.source = 'fold-show'}
+CompiledLHDExpenditures %>%
+  filter(year==2018) 
+
 
 ```
 
