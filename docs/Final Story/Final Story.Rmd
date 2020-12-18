@@ -145,7 +145,8 @@ Local expenditures on public health here include not just funding that comes dir
 If there was any question about which spending to include or exclude, we used the [Financial Statement Template for Districts of Health](https://files.nc.gov/nctreasurer/documents/files/SLGFD/LGC/LocalGovFiscalMngmt/AnnualAud/FinancialStatementResources/IllustrativeFinancialStatements/other-financial-statement-templates-districts-of-health.xls) provided by the N.C. state Treasurer at [https://www.nctreasurer.com/state-and-local-government-finance-division/local-government-commission/other-units-financial-statement-resources](https://www.nctreasurer.com/state-and-local-government-finance-division/local-government-commission/other-units-financial-statement-resources) to guide us.
 
 ```{r class.source = 'fold-show'}
-CompiledLHDExpenditures <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Zc10pam92Y1218F90eXn9ri7-a4GQI1vhzING33nNSI/edit#gid=0")
+CompiledLHDExpenditures <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Zc10pam92Y1218F90eXn9ri7-a4GQI1vhzING33nNSI/edit#gid=0") %>% 
+  select(1:5)
 ```
 
 
@@ -180,7 +181,7 @@ CompiledLHDExpenditures %>% filter(year >=2010, year<=2018) %>%
 ```
 
 
-Population data for each county comes from the website of the State Demographer.
+Population data for each county comes from the website of the State Demographer. We pulled only population from 2010-2018.
 
 ```{r class.source = 'fold-show'}
 county_pop <- read_delim("https://demography.osbm.nc.gov/explore/dataset/population-voting-age-density-migration/download/?format=csv&disjunctive.area_name=true&disjunctive.area_type=true&disjunctive.year=true&disjunctive.data_type=true&disjunctive.vintage=true&refine.variable=Population+(Census%2FEstimate%2FProjection)&refine.year=2018&refine.year=2017&refine.year=2015&refine.year=2012&refine.year=2011&refine.year=2010&refine.year=2013&refine.year=2014&refine.year=2016&refine.area_type=County&timezone=America/New_York&lang=en&use_labels_for_header=true&csv_separator=%3B", 
@@ -191,20 +192,12 @@ county_pop <- read_delim("https://demography.osbm.nc.gov/explore/dataset/populat
 
 
 county_pop$county_name <-  str_sub(county_pop$county_name, end = -8)
+
+CompiledLHDExpenditures<- left_join(CompiledLHDExpenditures, county_pop, c("county_name" = "county_name", "year" = "year")) %>% 
+  rename(population=Value)
   
 ```
 
-```{r}
-new<- left_join(CompiledLHDExpenditures, county_pop, c("county_name" = "county_name", "year" = "year")) %>%
-  
-  
-  new %>%
-  select(county_name, year, population, Value) %>%
-  filter(!is.na(Value)) %>%
-  mutate(pct_diff=100*(Value-population)/population) %>%
-  filter(pct_diff != 0) %>%
-  arrange(desc(pct_diff)) 
-```
 
 These health departments serve about 66% of North Carolina’s population.
 
