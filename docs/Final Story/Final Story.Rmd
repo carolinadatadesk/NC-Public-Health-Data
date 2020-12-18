@@ -138,6 +138,12 @@ khn_state_public_health_agencies %>%
 ## Local Health Department Spending in N.C.
 UNC students requested expenditures from all 85 local health department in North Carolina. They entered the data in a spreadsheet that matches the format of the Kaiser Health News expenditure data.  
 
+The definition of expenditures on public health differ from year to year and from county to county. For example, some counties include veterans services in their public health budget while others do not. For this reporting, we used whatever definition each county used either in its budget or financial statements posted online or in their response to our request for public health expenditures.
+
+Local expenditures on public health here include not just funding that comes directly from county governments. It also includes funding that comes from federal and state sources that are administered by local health departments. Including all these sources is standard practice nationally.
+
+If there was any question about which spending to include or exclude, we used the [Financial Statement Template for Districts of Health](https://files.nc.gov/nctreasurer/documents/files/SLGFD/LGC/LocalGovFiscalMngmt/AnnualAud/FinancialStatementResources/IllustrativeFinancialStatements/other-financial-statement-templates-districts-of-health.xls) provided by the N.C. state Treasurer at [https://www.nctreasurer.com/state-and-local-government-finance-division/local-government-commission/other-units-financial-statement-resources](https://www.nctreasurer.com/state-and-local-government-finance-division/local-government-commission/other-units-financial-statement-resources) to guide us.
+
 ```{r class.source = 'fold-show'}
 CompiledLHDExpenditures <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Zc10pam92Y1218F90eXn9ri7-a4GQI1vhzING33nNSI/edit#gid=0")
 ```
@@ -174,12 +180,31 @@ CompiledLHDExpenditures %>% filter(year >=2010, year<=2018) %>%
 ```
 
 
-The population data comes from XXX.
+Population data for each county comes from the website of the State Demographer.
 
 ```{r class.source = 'fold-show'}
+county_pop <- read_delim("https://demography.osbm.nc.gov/explore/dataset/population-voting-age-density-migration/download/?format=csv&disjunctive.area_name=true&disjunctive.area_type=true&disjunctive.year=true&disjunctive.data_type=true&disjunctive.vintage=true&refine.variable=Population+(Census%2FEstimate%2FProjection)&refine.year=2018&refine.year=2017&refine.year=2015&refine.year=2012&refine.year=2011&refine.year=2010&refine.year=2013&refine.year=2014&refine.year=2016&refine.area_type=County&timezone=America/New_York&lang=en&use_labels_for_header=true&csv_separator=%3B", 
+    ";", escape_double = FALSE, col_types = cols_only(`Area Name` = col_character(), 
+        Year = col_double(), Value = col_double()), 
+    trim_ws = TRUE) %>%
+  rename(county_name = `Area Name`, year = `Year`)
 
+
+county_pop$county_name <-  str_sub(county_pop$county_name, end = -8)
+  
 ```
 
+```{r}
+new<- left_join(CompiledLHDExpenditures, county_pop, c("county_name" = "county_name", "year" = "year")) %>%
+  
+  
+  new %>%
+  select(county_name, year, population, Value) %>%
+  filter(!is.na(Value)) %>%
+  mutate(pct_diff=100*(Value-population)/population) %>%
+  filter(pct_diff != 0) %>%
+  arrange(desc(pct_diff)) 
+```
 
 These health departments serve about 66% of North Carolina’s population.
 
