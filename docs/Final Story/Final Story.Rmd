@@ -226,45 +226,97 @@ CompiledLHDExpenditures<- left_join(CompiledLHDExpenditures, county_pop, c("coun
   
 ```
 
-These health departments serve about 66% of North Carolina’s population.
+*These health departments serve nearly 70% of North Carolina’s population.*
 
 ```{r class.source = 'fold-show'}
 CompiledLHDExpenditures %>%
-  filter(year==2018) 
-
-
+  filter(year==2018) %>%
+  select(population) %>%
+  summarize(pct_total_pop = sum(population) / 10389148) #2018 pop. from State Demographer
 ```
 
-From 2009-2017, 62 of the 85 local health departments’ full-time staff decreased. 
-
-
+*From 2009-2017, 66 of the 85 local health departments’ reported to the state DHHS taht their full-time staff decreased. *
 ```{r}
 
-NEED TO PULL KHN DATA ON COUNTY FTES HERE
+khn_nc_lhd_fte <- read_csv("https://raw.githubusercontent.com/khnews/2020-underfunded-under-threat-data/master/data/05-local-health-departments-detail.csv", 
+    col_types = cols(fips_place = col_character(), 
+        fips_counties = col_character(), 
+        lhd_note = col_character())) %>%
+  filter(state_code=="NC")
 
-
-khn_state_public_health_agencies %>%
+khn_nc_lhd_fte %>%
   filter(year %in% c('2009', '2017')) %>%
-  pivot_wider(id_cols = -c(fte_per_100000,population), names_from = year, values_from = fte) %>%
-  # DONT NEED NEXT LINE - RT
- # group_by(lhd_name) %>%
-  mutate(pct_change = 100 * ((`2017` - `2003`)) / `2003`) %>%
-  arrange(desc(pct_change))
+  pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
+  mutate(pct_change = ((fte2017 - fte2009)) / fte2009) %>%
+  select(lhd_name, fte2009, fte2017, pct_change)%>%
+  arrange(pct_change)
 ```
 
+**The average change in staff across all 85 departments was a decrease of nearly 15%.** 
+```{r}
+khn_nc_lhd_fte %>%
+  filter(year %in% c('2009', '2017')) %>%
+  pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
+  mutate(pct_change = ((fte2017 - fte2009)) / fte2009) %>%
+  summarize(mean(pct_change))
+
 ```
 
 
-The average decrease in staff across the departments was close to 11%. 
+**Thirteen health departments reported to the state DHHS that their staffing drop by more than a third over the time period.** 
 ```{r}
 
+khn_nc_lhd_fte %>%
+  filter(year %in% c('2009', '2017')) %>%
+  pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
+  mutate(pct_change = ((fte2017 - fte2009)) / fte2009) %>%
+  select(lhd_name, fte2009, fte2017, pct_change)%>%
+  filter(pct_change < -0.34) %>%
+  arrange(pct_change)
 ```
+**Wake County divested its mental health programs, leading to a 25% reduction in full-time equivalent staff between 2011 and 2013.**
 
-
-Thirteen health departments saw their staffing drop by more than a third over the time period. 
 ```{r}
-
+khn_nc_lhd_fte %>%
+  filter(year %in% c('2011', '2013'), county_name=="Wake County") %>%
+  pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
+  mutate(pct_change = ((fte2013 - fte2011)) / fte2011) %>%
+  select(lhd_name, fte2011, fte2013, pct_change)
 ```
+
+
+**Data from 2017 shows that Wake County had returned to 95% of its 2011 staffing.** 
+```{r}
+khn_nc_lhd_fte %>%
+  filter(year %in% c('2011', '2017'), county_name=="Wake County") %>%
+  pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
+  mutate(pct_of_2011 = fte2017/fte2011)  %>%
+  select(lhd_name, fte2011, fte2017, pct_of_2011)
+```
+
+
+**Toe River Health District sold its home health program in 2015, leading to nearly a 62% drop in full-time equivalent employees between 2013 and 2017.** 
+
+```{r}
+khn_nc_lhd_fte %>%
+  filter(year %in% c('2013', '2017'), lhd_name=="Toe River District") %>%
+  pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
+  mutate(pct_change = ((fte2017 - fte2013)) / fte2013) %>%
+  select(lhd_name, fte2013, fte2017, pct_change)
+```
+
+
+**Hyde County sold its home health program in 2016, causing it to lose 30% of its full-time equivalent employees.**
+```{r}
+khn_nc_lhd_fte %>%
+  filter(year %in% c('2013', '2017'), county_name=="Hyde County") %>%
+  pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
+  mutate(pct_change = ((fte2017 - fte2013)) / fte2013) %>%
+  select(lhd_name, fte2013, fte2017, pct_change)
+```
+
+
+
 
 
 ## References
