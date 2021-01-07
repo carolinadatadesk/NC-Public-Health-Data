@@ -49,6 +49,9 @@ During the four months we originally worked on collecting expenditure data from 
 
 If you are a public official or local news reporter who would like [to contribute data, you may complete this form](https://forms.gle/7uXxZhSKpYcp5CAX6).
 
+### Detailed Analysis
+R code to replicate [the data reporting and visualizations done for this story](https://carolinadatadesk.github.io/NC-Public-Health-Data/).
+
 ## Staff involved
 The following students reported this project, analyzed the data, wrote the original story and created data visualizations:
 
