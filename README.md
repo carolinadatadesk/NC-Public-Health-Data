@@ -11,7 +11,7 @@ Since 2010, nationwide spending for state public health departments has dropped 
  
 At the state level, North Carolina spent about $72 per person on public health in 2018, which is less than all but 13 other states. For every dollar spent per person on state-level public health nationally in 2010, North Carolina spent 90 cents. By 2018, North Carolina spent only 77 cents per dollar spent nationally.
 
-Based on our analysis of the 44 health departments in North Carolina, county-level spending on public health dropped 21% from 2010-2018 when adjusted for inflation, compounding the 27% spending drop at the state level over the same period. At least 20 health departments serving 24 counties saw a decline in public health spending from 2010-2018.
+Based on our analysis of 44 health departments in North Carolina, county-level spending on public health dropped 21% from 2010-2018 when adjusted for inflation, compounding the 27% spending drop at the state level over the same period. At least 20 health departments serving 24 counties saw a decline in public health spending from 2010-2018.
 
 Because the state does not keep individual health departments’ annual expenditures in one centralized location, the data in this story is the most current and complete picture about spending on local public health in the nation’s ninth most populated state.
 
@@ -25,6 +25,9 @@ Data on expenditures was originally collected by Kaiser Health News and The Asso
 
 Population data was retrieved from the U.S. Census Bureau and the North Carolina Office of State Budget and Management.
 
+### Download the Raw Data
+To promote transparency, support an ongoing data-driven conversation about public health in the state and continue the collaboration among journalists seeking to provide local context for the communities they serve, we are publishing all of the data we collected. 
+
 [health_department_combined_expenditures.csv](https://github.com/carolinadatadesk/NC-Public-Health-Data/blob/master/data/handmade/health_department_combined_expenditures.csv)
   Combined expenditures from each department we received data from.
   
@@ -32,7 +35,7 @@ Population data was retrieved from the U.S. Census Bureau and the North Carolina
     Data from the KHN story that inspired this project, including full-time expenditures.
 
 
-## Data notes
+### Data notes
 
 Our data set does not include revenues for each local health department. This data can often be found in counties' annual audits, which can often be found on the counties' websites.
 
@@ -40,14 +43,17 @@ A limitation to the story is that unlike some other states, North Carolina does 
 
 The state budget passed by the General Assembly includes a line item for how much total money is headed towards counties, but not divided by county.
 
+### Contribute Missing Data
+During the four months we originally worked on collecting expenditure data from local health departments in North Carolina, 29 agencies did not reply to our request. However, we are continuing to collect and publish expenditure data.
+
+If you are a public official or local news reporter who would like [to contribute data, you may complete this form](https://forms.gle/7uXxZhSKpYcp5CAX6).
+
 ## Staff involved
+The following students reported this project, analyzed the data, wrote the original story and created data visualizations:
 
-Rachel Crumpler: rachel22@live.unc.edu
+* Rachel Crumpler: rachel22@live.unc.edu
+* Chrstian Avy: cavy@live.unc.edu
+* Dominick Ferrara: dferrara@live.unc.edu
+* Jamie Krantz: jakrantz@live.unc.edu
 
-Chrstian Avy: cavy@live.unc.edu
-
-Dominick Ferrara: dferrara@live.unc.edu
-
-Jamie Krantz: jakrantz@live.unc.edu
-
-Edited by Ryan Thornburg, Associate Professor at UNC Hussman School of Journalism and Media
+This project is edited by Ryan Thornburg, Associate Professor at UNC Hussman School of Journalism and Media. He can be reached at ryan.thornburg@unc.edu . 
