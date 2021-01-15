@@ -13,7 +13,9 @@ knit: (function(i, encoding) {apstyle::render(i, encoding)})
 *Rendered at `r format(Sys.time(), '%I:%M %p, %b. %d, %Y')`*
 
 <!-- Contact info: leave author/reporter/editor contact info here -->
-*Firstname Lastname (<email@domain.com>)*
+*Edited by Ryan Thornburg (<ryan.thornburg@unc.edu>)*
+
+*Original reporting and analysis done by Christian Avy, Rachel Crumpler, Dominick Ferrara and Jamie Krantz, students at the University of North Carolina at Chapel Hill Hussman School of Journalism and Media working on [a class project during the Fall 2020 Advanced Data Reporting class](https://advanced-data-reporting-fall-2020.github.io/final-project-template-healthdata/).* 
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
@@ -42,7 +44,20 @@ library(viridis)
 
 ## Overview
 
-Overall description TK.
+This project tracks expenditures for local health departments in North Carolina and discusses what they can tell us about each county's preparedness for COVID-19 and other epidemic or pandemic level threats. 
+
+From September to December, 2020, we requested annual expenditure data from 1999 to the present from all 85 local health departments in the state, which serve each of the state’s 100 counties, in an effort to understand local public health spending in North Carolina. We received data from 56 local health departments, and there was some variance in the years each health department was able to provide. Forty-four health departments representing 49 counties provided full data spanning from 2010-2018.
+ 
+Our analysis of local health department spending records represents over half of the total departments in the state. These health departments serve about 66% of North Carolina’s population.
+
+### Main Findings
+Since 2010, nationwide spending for state public health departments has dropped by 16% per capita. The drop has been nearly twice as steep in North Carolina. 
+ 
+At the state level, North Carolina spent about $72 per person on public health in 2018, which is less than all but 13 other states. For every dollar spent per person on state-level public health nationally in 2010, North Carolina spent 90 cents. By 2018, North Carolina spent only 77 cents per dollar spent nationally.
+
+Based on our analysis of 44 health departments in North Carolina, county-level spending on public health dropped 21% from 2010-2018 when adjusted for inflation, compounding the 27% spending drop at the state level over the same period. At least 20 health departments serving 24 counties saw a decline in public health spending from 2010-2018.
+
+Because the state does not keep individual health departments’ annual expenditures in one centralized location, the data in this story is the most current and complete picture about spending on local public health in the nation’s ninth most populated state.
 
 ## Loading Data
 This story was inspired by [reporting done by the Kaiser Health News service](https://github.com/khnews/2020-underfunded-under-threat-data/) and begins by using the data they collected and cleaned.
@@ -225,8 +240,36 @@ county_pop<- county_pop %>%
   summarise(Value=sum(Value)) %>%
   mutate(county_name = "Martin, Tyrrell & Washington") %>%
   select(county_name, year, Value) %>%
-  union_all(county_pop) %>% 
+  union_all(county_pop) 
+  
+ county_pop<- county_pop %>%
+  filter(county_name %in% c("Camden", "Chowan", "Currituck", "Bertie", "Gates", "Hertford","Pasquotank", "Perquimans")) %>%
+  group_by(year) %>%
+  summarise(Value=sum(Value)) %>%
+  mutate(county_name = "Camden, Chowan, Currituck, Bertie, Gates, Hertford,Pasquotank, Perquimans") %>%
+  select(county_name, year, Value) %>%
+  union_all(county_pop)  
+ 
+  county_pop<- county_pop %>%
+  filter(county_name %in% c("Alleghany", "Ashe", "Watauga")) %>%
+  group_by(year) %>%
+  summarise(Value=sum(Value)) %>%
+  mutate(county_name = "Alleghany, Ashe, Watauga") %>%
+  select(county_name, year, Value) %>%
+  union_all(county_pop)  
+
+county_pop<- county_pop %>%
+  filter(county_name %in% c("Rutherford", "Polk", "McDowell")) %>%
+  group_by(year) %>%
+  summarise(Value=sum(Value)) %>%
+  mutate(county_name = "Rutherford, Polk, McDowell") %>%
+  select(county_name, year, Value) %>%
+  union_all(county_pop)%>%
+  
   rename(population=Value)
+
+  #For now we will just omit LHD's for which we have no 
+
 
 
 CompiledLHDExpenditures<- left_join(CompiledLHDExpenditures, county_pop, c("county_name" = "county_name", "year" = "year")) 
@@ -349,7 +392,7 @@ CompiledLHDExpenditures %>%
 
 ## Local Health Department Staffing in N.C.
 
-Data comes via Kaiser Health News compilation of data in "[Local Health DepartmentStaffing and Services SummaryFiscal Year 2016–2017](https://schs.dph.ncdhhs.gov/schs/pdf/LHD_2017_FIN_20171120.pdf
+Data comes via Kaiser Health News compilation of data in "[Local Health Department Staffing and Services Summary Fiscal Year 2016–2017](https://schs.dph.ncdhhs.gov/schs/pdf/LHD_2017_FIN_20171120.pdf
 ), published by the N.C. Department of Health and Human Services's State Center for Health Statistics. This is the most recent year available for the report, which has been conducted since 1984. It is typically conducted every two years.
 
 
@@ -437,7 +480,7 @@ khn_nc_lhd_fte %>%
 
 ## Data Viz
 
-```{r}
+```{r, fig.width=7, fig.asp=1.1}
 infl_nc_county_by_year %>% 
   filter(!is.na(year2010)) %>% 
   mutate(pct_change = (year2018 - year2010) / year2010) %>%
@@ -460,7 +503,7 @@ ggplot(
 ```
 
 
-```{r}
+```{r, fig.width=7, fig.asp=2.5}
 
 
 khn_nc_lhd_fte %>% 
@@ -479,12 +522,18 @@ ggplot(
   labs(x="Percent Change in FTEs", y="County Health Department", 
        title = "Percent Change in Number of FTEs from 2007-2017",
        caption = "Data Source: KHN FTE Dataset") +
+  scale_x_continuous(labels = scales::percent) +
   theme_minimal()+
    theme(panel.border = element_blank(),
-        panel.grid.minor = element_blank()
+        panel.grid.minor = element_blank(),
+        plot.title = element_text(hjust = 3)
    )
 ```
+
 ### Map
+
+#### Change in Per-Capita Spending, Adjusted for Inflation
+Click on one of the health districts to see additional information -- the change in population, change in inflation-adjusted expenditures and changes in FTE.
 
 ```{r}
 #Downloading shapefile of NC counties
@@ -493,13 +542,15 @@ nc_counties <- counties("NC")
 
 
 #First, pivot the infl_CompiledLHDExpenditures on multiple columns ... 
-change_infl_CompiledLHDExpenditures <- CompiledLHDExpenditures %>%
+change_infl_CompiledLHDExpenditures <- 
+#Add populations for counties that didn't have them before ...  
+  left_join(county_pop, CompiledLHDExpenditures,  c("county_name" = "county_name", "year" = "year")) %>%
   #get just the years we want ... 
   filter(year %in% c(2010, 2018)) %>%
   #... and just the columns we want to deal with. (I'm actually taking more than I need in case I want to calculate percent change for these other columns later.)
   dplyr::select(year,
          county_name,
-         population,
+         population = population.x,
          expenditures,
          expenditures_infl,
          expenditures_per_capita,
@@ -527,69 +578,81 @@ change_infl_CompiledLHDExpenditures<- change_infl_CompiledLHDExpenditures %>%
 nc_fte_change<- khn_nc_lhd_fte %>% 
  filter(year %in% c('2009', '2017')) %>%
   pivot_wider(id_cols = -c(fte_per_100000, population), names_from = year, values_from = fte, names_prefix = "fte") %>%
-  mutate(pct_change = (fte2017 - fte2009) / fte2009)
+  mutate(pct_change = (fte2017 - fte2009) / fte2009) %>%
+  select(1:6,8:9,15:17)
+
+nc_fte_change$county_name <-  str_sub(nc_fte_change$county_name, end = -8)
+
+nc_fte_change <- nc_fte_change %>% mutate(multi_county_name = case_when(
+  lhd_name == "Albemarle Regional Health Services" ~ "Camden, Chowan, Currituck, Bertie, Gates, Hertford,Pasquotank, Perquimans",
+  lhd_name == "Appalachian District Health Department" ~ "Alleghany, Ashe, Watauga",
+  lhd_name == "Toe River District" ~ "Avery, Mitchell & Yancey",
+  lhd_name == "Martin Tyrrell Washington District" ~ "Martin, Tyrrell & Washington",
+  lhd_name == "Granville-Vance District Health Department" ~ "Granville & Vance",
+  lhd_name == "Rutherford-Polk-McDowell District" ~ "Rutherford, Polk, McDowell",
+  TRUE ~ county_name)
+ )
 
 #Next, join the two dataframes. Each row is unique by year and county, so we need to use both fields to join. The "nc" dataframe needs to be on the left because it is the only one of the two that has all counties.
 
-a_MappingData<-  left_join(nc_fte_change, change_infl_CompiledLHDExpenditures, by="county_name")
-
+a_MappingData<-  left_join(nc_fte_change, change_infl_CompiledLHDExpenditures, by=c("multi_county_name" = "county_name")) 
 
 #Let's clean up some column names
 a_MappingData<- a_MappingData %>%
   rename (fte_pct_change = pct_change
           ) %>%
   #and just reorder some columns rather than delete them.
-select(lhd_name,
-         county_name,
+select(county_name,
+       lhd_name,
+       multi_county_name,
          fte_pct_change,
+       #Note: Unlike the lollipop charts, these changes are not per capita. Instead we note the population change separately.
          pct_change_expenditures_infl,
          pct_population_change,
          everything())
 
 
+new_lhd_polygons <- nc_counties %>% mutate(multi_county_name = case_when(
+  NAME %in% c("Camden","Pasquotank", "Perquimans", "Chowan", "Currituck", "Bertie", "Gates", "Hertford") ~ "Camden, Chowan, Currituck, Bertie, Gates, Hertford,Pasquotank, Perquimans",
+  NAME %in% c("Alleghany", "Ashe", "Watauga") ~ "Alleghany, Ashe, Watauga",
+  NAME %in% c("Avery", "Mitchell", "Yancey") ~ "Avery, Mitchell & Yancey",
+  NAME %in% c("Martin", "Tyrrell", "Washington") ~"Martin, Tyrrell & Washington",
+  NAME %in% c("Granville", "Vance") ~ "Granville & Vance",
+  NAME %in% c("Rutherford", "Polk", "McDowell") ~ "Rutherford, Polk, McDowell",
+  TRUE ~ NAME)
+) %>%
+  group_by(multi_county_name) %>%
+  summarize()
 
-#Added rows for multi-county data in Google Sheets so those counties get filled in on map. Loading in that data.
-
-MultiCountyData <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Az71mA2PJJ7oJskn_A3eAdfyY5loHcT7CT7g2523odE/edit#gid=0")
-
-
-#Joining data with fte data
-
-test_pct_capita_map <- left_join(nc_counties, MultiCountyData, by=c("NAME"="only_county_name"))
+new_lhd_polygons <- left_join(new_lhd_polygons, a_MappingData, by="multi_county_name") 
 
 
 #Leaflet map where health districts get filled in
 
 
 # Creating a color palette based on the number range in the pct_change column
-pal <- colorNumeric("YlGnBu", domain=test_pct_capita_map$pct_change)
+pal <- colorNumeric("YlGnBu", domain = (new_lhd_polygons$pct_change_expenditures_capita_infl * 100)) 
 
 # Setting up the pop up text
 popup_pctchange <- paste0(
-  "<strong>", test_pct_capita_map$NAMELSAD,
-  "</strong><br /> Population Change: ", as.character(
-    percent(
-      round(test_pct_capita_map$pct_population_change, digits=1),
-      scale=100,
-      big.mark = ",") ),
-  "<br /> Expenditure Change: ",
+  "The population served by the <strong>", new_lhd_polygons$lhd_name,
+  "</strong> changed ", as.character(
+    percent(new_lhd_polygons$pct_population_change, accuracy = 1)
+    ),
+  " while the inflation-adjusted expenditures changed ",
   as.character(
-    percent(
-      round(test_pct_capita_map$pct_change_expenditures_infl, digits=1),
-      scale=100,
-      big.mark = ",") ),
-    "<br /> FTE Change: ",
+    percent(new_lhd_polygons$pct_change_expenditures_infl, accuracy = 1)
+    ),
+    " and the number of FTEs changed ",
   as.character(
-    percent(
-      round(test_pct_capita_map$fte_pct_change, digits=1),
-      scale=100,
-      big.mark = ",") )
+    percent(new_lhd_polygons$fte_pct_change, accuracy = 1)
+  )
 )
  leaflet() %>%
   addProviderTiles("CartoDB.Positron") %>%
   setView(lng=-79.177556, lat=35.481333, zoom = 6) %>%
-    addPolygons(data = test_pct_capita_map, 
-              fillColor = ~pal(test_pct_capita_map$pct_change_expenditures_capita_infl), 
+    addPolygons(data = new_lhd_polygons, 
+              fillColor = ~pal(new_lhd_polygons$pct_change_expenditures_capita_infl *100), 
               fillOpacity = 0.9, 
               weight = 0.2, 
               smoothFactor = 0.2, 
@@ -599,16 +662,18 @@ popup_pctchange <- paste0(
                 fillOpacity = 0.7,
                 bringToFront = TRUE), 
               popup = ~ popup_pctchange) %>%
-  addLegend(pal = pal,
+  addLegend(pal = colorNumeric("YlGnBu", domain = (new_lhd_polygons$pct_change_expenditures_capita_infl * 100), reverse =TRUE) ,
             opacity = 0.9,
-            values = test_pct_capita_map$pct_change_expenditures_capita_infl * 100,
+            values = new_lhd_polygons$pct_change_expenditures_capita_infl * 100,
             position = "bottomleft",
             title = "$ per capita", 
-            labFormat = labelFormat(suffix = "%"),
+            labFormat = labelFormat(suffix = "%", transform = function(x) sort(x, decreasing = TRUE)),
             na.label = "No Data") 
+   
 
 
 #Saving map as html file
+#-> final_map
 #library("htmlwidgets")
 #saveWidget(final_map, file="final_map.html")
 ```
