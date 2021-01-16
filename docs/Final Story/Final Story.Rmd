@@ -46,16 +46,16 @@ library(viridis)
 
 This project tracks expenditures for local health departments in North Carolina and discusses what they can tell us about each county's preparedness for COVID-19 and other epidemic or pandemic level threats. 
 
-From September to December, 2020, we requested annual expenditure data from 1999 to the present from all 85 local health departments in the state, which serve each of the state’s 100 counties, in an effort to understand local public health spending in North Carolina. We received data from 56 local health departments, and there was some variance in the years each health department was able to provide. Forty-four health departments representing 49 counties provided full data spanning from 2010-2018.
+From September to December, 2020, we requested annual expenditure data from 1999 to the present from all 85 local health departments in the state, which serve each of the state’s 100 counties, in an effort to understand local public health spending in North Carolina. We received data from 51 local health departments, and there was some variance in the years each health department was able to provide. Forty-six health departments representing 51 counties provided full data spanning from 2010-2018.
  
-Our analysis of local health department spending records represents over half of the total departments in the state. These health departments serve about 66% of North Carolina’s population.
+Our analysis of local health department spending records represents over half of the total departments in the state. These health departments serve nearly 70% of North Carolina’s population.
 
 ### Main Findings
 Since 2010, nationwide spending for state public health departments has dropped by 16% per capita. The drop has been nearly twice as steep in North Carolina. 
  
 At the state level, North Carolina spent about $72 per person on public health in 2018, which is less than all but 13 other states. For every dollar spent per person on state-level public health nationally in 2010, North Carolina spent 90 cents. By 2018, North Carolina spent only 77 cents per dollar spent nationally.
 
-Based on our analysis of 44 health departments in North Carolina, county-level spending on public health dropped 21% from 2010-2018 when adjusted for inflation, compounding the 27% spending drop at the state level over the same period. At least 20 health departments serving 24 counties saw a decline in public health spending from 2010-2018.
+Based on our analysis of 46 health departments in North Carolina, county-level spending on public health dropped 22% from 2010-2018 when adjusted for inflation, compounding the 27% spending drop at the state level over the same period. At least 40 health departments serving 45 counties saw a decline in inflation-adjusted public health spending from 2010-2018.
 
 Because the state does not keep individual health departments’ annual expenditures in one centralized location, the data in this story is the most current and complete picture about spending on local public health in the nation’s ninth most populated state.
 
@@ -397,7 +397,7 @@ Data comes via Kaiser Health News compilation of data in "[Local Health Departme
 
 
 
-*From 2009-2017, 66 of the 85 local health departments’ reported to the state DHHS that their full-time staff decreased. *
+*From 2009-2017, 62 of the 85 local health departments’ reported to the state DHHS that their full-time staff decreased. *
 ```{r}
 
 khn_nc_lhd_fte <- read_csv("https://raw.githubusercontent.com/khnews/2020-underfunded-under-threat-data/master/data/05-local-health-departments-detail.csv", 
@@ -495,7 +495,7 @@ ggplot(
   geom_point(color="#1d91c0")+
   labs(x="Percent Change in Per Capita Spending", y="County Health Department", 
        title = "Percent Change in Per Capita Spending from 2010-2018",
-       caption = "Data Source: County Finance Records (Did not receive data from 41 Health Departments)") +
+       caption = "Data Source: County Finance Records (Did not receive data from 34 health departments)") +
   theme_minimal()+
    theme(panel.border = element_blank(),
         panel.grid.minor = element_blank()
