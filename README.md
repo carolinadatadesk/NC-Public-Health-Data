@@ -7,19 +7,19 @@ The work on this project was done by Christian Avy, Rachel Crumpler, Dominick Fe
 This project tracks expenditures for local health departments in North Carolina and discusses what they can tell us about each county's preparedness for COVID-19 and other epidemic or pandemic level threats. It was inspired by and uses data from "[Under Funded and Under Threat](https://github.com/khnews/2020-underfunded-under-threat-data)," a collaboration between [Kaiser Health News](https://khn.org/about-us/) and [The Associated Press](https://www.ap.org/about/news-values-and-principles/).
 
 ## Main Findings
-Since 2010, nationwide spending for state public health departments has dropped by 16% per capita. The drop has been nearly twice as steep in North Carolina. 
+Spending on public health at the state level from 2010 to 2018 dropped by more than 27% when adjusted for inflation and population increase. This spending decline is even steeper than the national slide of 16% across all states.
  
-At the state level, North Carolina spent about $72 per person on public health in 2018, which is less than all but 13 other states. For every dollar spent per person on state-level public health nationally in 2010, North Carolina spent 90 cents. By 2018, North Carolina spent only 77 cents per dollar spent nationally.
+At the state level, North Carolina spent about $72 per person on public health in 2018, which is less than all but 13 other states. For every dollar spent per person on state-level public health nationally in 2010, North Carolina spent 90 cents. By 2018, North Carolina spent only 78 cents per dollar spent nationally.
 
-Based on our analysis of 46 health departments in North Carolina, county-level spending on public health dropped 22% from 2010-2018 when adjusted for inflation, compounding the 27% spending drop at the state level over the same period. At least 40 health departments serving 45 counties saw a decline in inflation-adjusted public health spending from 2010-2018.
+Based on our analysis of 46 health departments in North Carolina, county-level spending on public health dropped 22% from 2010-2018 when adjusted for inflation, compounding the 27% spending drop at the state level over the same period. At least 40 health departments serving 45 counties saw a decline in inflation-adjusted public health spending per person from 2010-2018.
 
 Because the state does not keep individual health departments’ annual expenditures in one centralized location, the data in this story is the most current and complete picture about spending on local public health in the nation’s ninth most populated state.
 
 
 ## Data sources
-Starting in September, we requested annual expenditure data from 1999 to the present from all 84 local health departments in the state, which serve each of the state’s 100 counties, in an effort to understand local public health spending in North Carolina. We received data from 51 local health departments, and there was some variance in the years each health department was able to provide. Forty-six health departments representing 51 counties provided full data spanning from 2010-2018.
+Starting in September, we requested annual expenditure data from 1999 to the present from all 85 local health departments in the state, which serve each of the state’s 100 counties, in an effort to understand local public health spending in North Carolina. We received data from 51 local health departments, and there was some variance in the years each health department was able to provide. Forty-six health departments representing 51 counties provided full data spanning from 2010-2018.
  
-Our analysis of local health department spending records represents over half of the total departments in the state. These health departments serve nearly 70% of North Carolina’s population.
+Our analysis of local health department spending records represents over half of the total departments in the state. These health departments serve about 70% of North Carolina’s population.
 
 Data on expenditures was originally collected by Kaiser Health News and The Associated Press.
 
