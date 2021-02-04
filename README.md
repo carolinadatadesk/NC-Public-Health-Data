@@ -21,7 +21,7 @@ Starting in September, we requested annual expenditure data from 1999 to the pre
  
 Our analysis of local health department spending records represents over half of the total departments in the state. These health departments serve about 70% of North Carolina’s population.
 
-Data on expenditures was originally collected by Kaiser Health News and The Associated Press.
+Data on expenditures and employees was originally collected by Kaiser Health News and The Associated Press.
 
 Population data was retrieved from the U.S. Census Bureau and the North Carolina Office of State Budget and Management.
 
@@ -33,7 +33,7 @@ To promote transparency, support an ongoing data-driven conversation about publi
   Annual expenditures from each department. (Updated: Dec. 3, 2020)
   
 [LocalHealthDepartments.csv](https://github.com/carolinadatadesk/NC-Public-Health-Data/blob/master/data/handmade/LocalHealthDepartments.csv)
-    Data from the KHN story that inspired this project, including full-time expenditures.
+    Data from the KHN story that inspired this project, including full-time employees.
 
 
 ### Data notes
