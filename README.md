@@ -32,7 +32,7 @@ To promote transparency, support an ongoing data-driven conversation about publi
 [health_department_combined_expenditures.csv](https://raw.githubusercontent.com/carolinadatadesk/NC-Public-Health-Data/master/data/handmade/CompiledLHDExpenditures.csv)
   Annual expenditures from each department. (Updated: Dec. 3, 2020)
   
-[LocalHealthDepartments.csv](https://github.com/carolinadatadesk/NC-Public-Health-Data/blob/master/data/handmade/LocalHealthDepartments.csv)
+[https://raw.githubusercontent.com/khnews/2020-underfunded-under-threat-data/master/data/05-local-health-departments-detail.csv](https://raw.githubusercontent.com/khnews/2020-underfunded-under-threat-data/master/data/05-local-health-departments-detail.csv)
     Data from the KHN story that inspired this project, including full-time employees.
 
 
