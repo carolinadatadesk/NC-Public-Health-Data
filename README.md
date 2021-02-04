@@ -29,7 +29,7 @@ Population data was retrieved from the U.S. Census Bureau and the North Carolina
 ### Download the Raw Data
 To promote transparency, support an ongoing data-driven conversation about public health in the state and continue the collaboration among journalists seeking to provide local context for the communities they serve, we are publishing all of the data we collected. 
 
-[health_department_combined_expenditures.csv](https://github.com/carolinadatadesk/NC-Public-Health-Data/blob/master/data/handmade/health_department_combined_expenditures.csv)
+[health_department_combined_expenditures.csv](https://raw.githubusercontent.com/carolinadatadesk/NC-Public-Health-Data/master/data/handmade/CompiledLHDExpenditures.csv)
   Annual expenditures from each department. (Updated: Dec. 3, 2020)
   
 [LocalHealthDepartments.csv](https://github.com/carolinadatadesk/NC-Public-Health-Data/blob/master/data/handmade/LocalHealthDepartments.csv)
