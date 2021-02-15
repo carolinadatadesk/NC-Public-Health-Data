@@ -1,0 +1,63 @@
+---
+title: "Individual LHD Reports"
+author: "Ryan Thornburg"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: html_document
+params:
+  county: default
+  lhd: default   
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE)
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(plotly))
+suppressPackageStartupMessages(library(dplyr))
+suppressPackageStartupMessages(library(tidyr))
+suppressPackageStartupMessages(library(scales))
+suppressPackageStartupMessages(library(scales))
+
+
+county <- params$county
+lhd <- params$lhd
+
+
+onedata <- pagedata %>% 
+  filter(county_name == county)
+
+# Is it single county or multi-county?
+what<- case_when(
+    onedata$lhd_area_type=="single" ~ "County is",
+    onedata$lhd_area_type=="multi-county" ~ "counties are",
+    TRUE ~ ""
+  )
+  
+  
+  
+
+
+
+getverb <- function(mychange){
+  myverb <- case_when(
+    mychange > 0 ~ "rose",
+    mychange < 0 ~ "fell",
+    TRUE ~ "was unchanged"
+  )
+  return(myverb)
+}
+
+
+rawchange <- onedata$year2018 - onedata$year2010
+
+
+
+```
+
+
+`r county` `r what` served by the `r lhd`. From 2010 to 2018 the department's spending `r getverb(rawchange)` by `r scales::percent(abs(rawchange / onedata$year2010))`. 
+
+
+
+
+
