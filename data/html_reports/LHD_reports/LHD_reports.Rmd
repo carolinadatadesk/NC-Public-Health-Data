@@ -19,17 +19,16 @@ suppressPackageStartupMessages(library(scales))
 suppressPackageStartupMessages(library(scales))
 
 
-county <- params$county
 lhd <- params$lhd
 
 
-onedata <- pagedata %>% 
-  filter(county_name == county)
+pagedata <- wide_CompiledLHDExpenditures %>% 
+  filter(county_name == county) 
 
 # Is it single county or multi-county?
 what<- case_when(
-    onedata$lhd_area_type=="single" ~ "County is",
-    onedata$lhd_area_type=="multi-county" ~ "counties are",
+    pagedata$lhd_area_type=="single" ~ "County is",
+    pagedata$lhd_area_type=="multi-county" ~ "counties are",
     TRUE ~ ""
   )
   
@@ -48,14 +47,17 @@ getverb <- function(mychange){
 }
 
 
-rawchange <- onedata$year2018 - onedata$year2010
+inflspendchange_raw <- pagedata$expenditures_infl_2018 - pagedata$expenditures_infl_2010
+inflspendchange_pct <- (pagedata$expenditures_infl_2018 - pagedata$expenditures_infl_2010) / pagedata$expenditures_infl_2010
 
+popchange_pct <- (pagedata$population_2018 - pagedata$population_2010) / pagedata$population_2010
 
+expenditures_infl_per_capita_change_pct <- (pagedata$expenditures_infl_per_capita_2018 - pagedata$expenditures_infl_per_capita_2010) / pagedata$expenditures_infl_per_capita_2010
 
 ```
 
 
-`r county` `r what` served by the `r lhd`. From 2010 to 2018 the department's spending `r getverb(rawchange)` by `r scales::percent(abs(rawchange / onedata$year2010))`. 
+`r county` `r what` served by the `r lhd`. From 2010 to 2018 the department's spending `r getverb(inflspendchange_raw)` by `r scales::percent(abs(inflspendchange_pct))`, when adjusted for inflation. During that same time, the population served by the `r lhd` `r getverb(popchange_pct)` by `r scales::percent(abs(popchange_pct))`. When taking that population change into account, the per-person spending `r getverb(expenditures_infl_per_capita_change_pct)` `r scales::percent(abs(expenditures_infl_per_capita_change_pct))`.    
 
 
 

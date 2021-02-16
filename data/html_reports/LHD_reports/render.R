@@ -7,4 +7,4 @@ get_LHD_page <- function(county, lhd){
 }
 
 library(purrr)
-walk2(pagedata$county_name, pagedata$lhd_name, get_LHD_page)
+walk2(wide_CompiledLHDExpenditures$county_name, wide_CompiledLHDExpenditures$lhd_name, get_LHD_page)
