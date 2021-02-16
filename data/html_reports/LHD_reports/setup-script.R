@@ -123,8 +123,13 @@ filter(!is.na(expenditures_2010),
          !is.na(expenditures_2010),
          !is.na(expenditures_2010),
          !is.na(expenditures_2010)) %>%
+  mutate(
+    per_cap_rank_2010 = rank(expenditures_infl_per_capita_2010),
+    per_cap_rank_2018 = rank(expenditures_infl_per_capita_2018)) %>%
   arrange(lhd_name)
 
 yearmeans<-wide_CompiledLHDExpenditures %>% summarise_if(is.numeric, mean)
+
+denominator <- nrow(wide_CompiledLHDExpenditures)
 
 setwd("./data/html_reports/LHD_reports")

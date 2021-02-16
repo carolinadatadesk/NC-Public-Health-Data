@@ -54,12 +54,16 @@ popchange_pct <- (pagedata$population_2018 - pagedata$population_2010) / pagedat
 
 expenditures_infl_per_capita_change_pct <- (pagedata$expenditures_infl_per_capita_2018 - pagedata$expenditures_infl_per_capita_2010) / pagedata$expenditures_infl_per_capita_2010
 
+
+
+
+
 ```
 
 
 `r county` `r what` served by the `r lhd`. From 2010 to 2018 the department's spending `r getverb(inflspendchange_raw)` by `r scales::percent(abs(inflspendchange_pct))`, when adjusted for inflation. During that same time, the population served by the `r lhd` `r getverb(popchange_pct)` by `r scales::percent(abs(popchange_pct))`. When taking that population change into account, the per-person spending `r getverb(expenditures_infl_per_capita_change_pct)` `r scales::percent(abs(expenditures_infl_per_capita_change_pct))`.    
 
 
-
+In 2010, the `r lhd` ranked `r pagedata$per_cap_rank_2010` in per-person spending among the `r denominator` health departments for which we have complete data. In 2018, it ranked `r pagedata$per_cap_rank_2018`.
 
 
