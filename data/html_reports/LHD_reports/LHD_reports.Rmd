@@ -1,12 +1,13 @@
 ---
-title: "Individual LHD Reports"
-author: "Ryan Thornburg"
+title: "`r params$lhd`"
+author: "Ryan Thornburg, Carolina Data Desk"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-output: html_document
+output: 
+  html_document:
+    css: styles.css
 params:
   county: default
   lhd: default   
-  
 ---
 
 ```{r setup, include=FALSE}

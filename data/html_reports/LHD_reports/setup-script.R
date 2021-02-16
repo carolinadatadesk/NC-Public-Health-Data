@@ -130,6 +130,13 @@ filter(!is.na(expenditures_2010),
 
 yearmeans<-wide_CompiledLHDExpenditures %>% summarise_if(is.numeric, mean)
 
+graphmeans<- yearmeans %>%
+  select(starts_with("expenditures_infl_per_capita_")) %>%
+  pivot_longer(cols = starts_with("expenditures_infl_per_capita_"),
+               names_to = "year",
+               names_prefix = "expenditures_infl_per_capita_",
+               values_to = "avg_expenditures_infl_per_capita")
+
 denominator <- nrow(wide_CompiledLHDExpenditures)
 
 setwd("./data/html_reports/LHD_reports")
