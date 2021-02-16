@@ -1,0 +1,53 @@
+---
+title: "Untitled"
+date: "MM/DD/YYYY"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+knit: (function(i, encoding) {apstyle::render(i, encoding)})
+---
+<!-- Timestamp: leave this in to automatically track when a file is rendered -->
+*Rendered at `r format(Sys.time(), '%I:%M %p, %b. %d, %Y')`*
+
+<!-- Contact info: leave author/reporter/editor contact info here -->
+*Firstname Lastname (<email@domain.com>)*
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+  )
+
+knitr::opts_knit$set(
+  root.dir = rprojroot::find_rstudio_root_file()
+  )
+```
+```{r initialize}
+# Load files, environment variables, libraries, etc. here
+library(tidyverse)
+library(apstyle)
+```
+
+## Overview
+
+<!-- This section is for presenting the key takeaways and wire-ready content -->
+
+## References
+
+<!-- This section is for including references to related material -->
+
+- CREDO National Charter School Study 2013: http://credo.stanford.edu/documents/NCSS%202013%20Final%20Draft.pdf
+
+- NBER Working Paper No. 23947: The Labor Market Effects of Offshoring by U.S. Multinational Firms: Evidence from Changes in Global Tax Policies: http://www.nber.org/papers/w23947
+
+<!-- This section is for a tests code block -->
+
+```{r tests}
+# Leave this block of code at the end of the file
+# If a test fails it will stop the Rmd document from knitting
+# Run tests like so:
+# source("tests/etl_test.R")
+```
