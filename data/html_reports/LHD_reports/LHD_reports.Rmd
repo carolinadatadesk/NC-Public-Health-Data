@@ -67,7 +67,7 @@ expenditures_infl_per_capita_change_pct <- (pagedata$expenditures_infl_per_capit
 
 In 2010, the `r lhd` ranked `r pagedata$per_cap_rank_2010` in per-person spending among the `r denominator` health departments for which we have complete data. In 2018, it ranked `r pagedata$per_cap_rank_2018`.
 
-Across the state, county-level spending on public health dropped 22% from 2010-2018 when adjusted for inflation and population increase.
+Across the state, county-level spending on public health dropped 22% from 2010-2018 when adjusted for inflation and the change in population.
 
 
 ```{r spending_graph, warning=FALSE, message=FALSE}
