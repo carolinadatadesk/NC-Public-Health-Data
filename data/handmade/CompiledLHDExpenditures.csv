@@ -1,849 +1,960 @@
 "year","lhd_name","lhd_area_type","county_name","expenditures"
-2003,"Alexander County Health Department","Single","Alexander",1781515.38
-2004,"Alexander County Health Department","Single","Alexander",1995524.86
-2005,"Alexander County Health Department","Single","Alexander",2091490.77
-2006,"Alexander County Health Department","Single","Alexander",2247851.61
-2007,"Alexander County Health Department","Single","Alexander",2513023.16
-2008,"Alexander County Health Department","Single","Alexander",2638066.45
-2009,"Alexander County Health Department","Single","Alexander",2687628.82
-2010,"Alexander County Health Department","Single","Alexander",2763317.61
-2011,"Alexander County Health Department","Single","Alexander",2784167.67
-2012,"Alexander County Health Department","Single","Alexander",2911935.13
-2013,"Alexander County Health Department","Single","Alexander",2833210.35
-2014,"Alexander County Health Department","Single","Alexander",2807105.01
-2015,"Alexander County Health Department","Single","Alexander",2876189
-2016,"Alexander County Health Department","Single","Alexander",2574226.35
-2017,"Alexander County Health Department","Single","Alexander",2191004.95
-2018,"Alexander County Health Department","Single","Alexander",2376515.17
-2019,"Alexander County Health Department","Single","Alexander",2637631.08
-2020,"Alexander County Health Department","Single","Alexander",2603067.32
-2014,"Anson County Health Department","Single","Anson",1315510
-2015,"Anson County Health Department","Single","Anson",1702442
-2016,"Anson County Health Department","Single","Anson",1822380
-2017,"Anson County Health Department","Single","Anson",1688691
-2018,"Anson County Health Department","Single","Anson",1830782
-2019,"Anson County Health Department","Single","Anson",1806511
-2020,"Anson County Health Department","Single","Anson",1617610
-2002,"Cabarrus County Health Department","Single","Cabarrus",11909867
-2003,"Cabarrus County Health Department","Single","Cabarrus",11821377
-2004,"Cabarrus County Health Department","Single","Cabarrus",13504496
-2005,"Cabarrus County Health Department","Single","Cabarrus",13996385
-2006,"Cabarrus County Health Department","Single","Cabarrus",15570641
-2007,"Cabarrus County Health Department","Single","Cabarrus",16451712
-2008,"Cabarrus County Health Department","Single","Cabarrus",17973741
-2009,"Cabarrus County Health Department","Single","Cabarrus",19771535
-2010,"Cabarrus County Health Department","Single","Cabarrus",17523630
-2011,"Cabarrus County Health Department","Single","Cabarrus",18765286
-2012,"Cabarrus County Health Department","Single","Cabarrus",23110516
-2013,"Cabarrus County Health Department","Single","Cabarrus",17764524
-2014,"Cabarrus County Health Department","Single","Cabarrus",17570282
-2015,"Cabarrus County Health Department","Single","Cabarrus",18723536
-2016,"Cabarrus County Health Department","Single","Cabarrus",19997570
-2017,"Cabarrus County Health Department","Single","Cabarrus",22705092
-2018,"Cabarrus County Health Department","Single","Cabarrus",23687208
-2019,"Cabarrus County Health Department","Single","Cabarrus",23889921
-2020,"Cabarrus County Health Department","Single","Cabarrus",22556709
-2008,"Carteret County Health Department","Single","Carteret",4342724
-2009,"Carteret County Health Department","Single","Carteret",4075011
-2010,"Carteret County Health Department","Single","Carteret",4036435
-2011,"Carteret County Health Department","Single","Carteret",4098918
-2012,"Carteret County Health Department","Single","Carteret",3908984
-2013,"Carteret County Health Department","Single","Carteret",3903723
-2014,"Carteret County Health Department","Single","Carteret",3791361
-2015,"Carteret County Health Department","Single","Carteret",4217568
-2016,"Carteret County Health Department","Single","Carteret",4171422
-2017,"Carteret County Health Department","Single","Carteret",4426639
-2018,"Carteret County Health Department","Single","Carteret",4574248
-2019,"Carteret County Health Department","Single","Carteret",4772600
-2000,"Catawba County Health Department","Single","Catawba",8447178.34
-2001,"Catawba County Health Department","Single","Catawba",8344982.12
-2002,"Catawba County Health Department","Single","Catawba",8228326.77
-2003,"Catawba County Health Department","Single","Catawba",8667763.67
-2004,"Catawba County Health Department","Single","Catawba",9529712.54
-2005,"Catawba County Health Department","Single","Catawba",9876423.41
-2006,"Catawba County Health Department","Single","Catawba",10101579.82
-2007,"Catawba County Health Department","Single","Catawba",10693790.86
-2008,"Catawba County Health Department","Single","Catawba",11485844.87
-2009,"Catawba County Health Department","Single","Catawba",11733288.42
-2010,"Catawba County Health Department","Single","Catawba",11986881.9
-2011,"Catawba County Health Department","Single","Catawba",12135389.81
-2012,"Catawba County Health Department","Single","Catawba",11656649.76
-2013,"Catawba County Health Department","Single","Catawba",11285374.96
-2014,"Catawba County Health Department","Single","Catawba",10566019.54
-2015,"Catawba County Health Department","Single","Catawba",10277227.42
-2016,"Catawba County Health Department","Single","Catawba",9087885.76
-2017,"Catawba County Health Department","Single","Catawba",8031711.24
-2018,"Catawba County Health Department","Single","Catawba",8294862.33
-2019,"Catawba County Health Department","Single","Catawba",8586966.55
-1999,"Cleveland County Health Department","Single","Cleveland",6557638
-2000,"Cleveland County Health Department","Single","Cleveland",7840915
-2001,"Cleveland County Health Department","Single","Cleveland",7762713
-2002,"Cleveland County Health Department","Single","Cleveland",7274927
-2003,"Cleveland County Health Department","Single","Cleveland",7319696
-2004,"Cleveland County Health Department","Single","Cleveland",7308482
-2005,"Cleveland County Health Department","Single","Cleveland",8090304
-2006,"Cleveland County Health Department","Single","Cleveland",8504757
-2007,"Cleveland County Health Department","Single","Cleveland",9150789
-2008,"Cleveland County Health Department","Single","Cleveland",10172097
-2009,"Cleveland County Health Department","Single","Cleveland",11556679
-2010,"Cleveland County Health Department","Single","Cleveland",11072680
-2011,"Cleveland County Health Department","Single","Cleveland",10521718
-2012,"Cleveland County Health Department","Single","Cleveland",11535948
-2013,"Cleveland County Health Department","Single","Cleveland",9077198
-2014,"Cleveland County Health Department","Single","Cleveland",11538680
-2015,"Cleveland County Health Department","Single","Cleveland",12571783
-2016,"Cleveland County Health Department","Single","Cleveland",13138090
-2017,"Cleveland County Health Department","Single","Cleveland",12515588
-2018,"Cleveland County Health Department","Single","Cleveland",13504062
-2019,"Cleveland County Health Department","Single","Cleveland",13915952
-1999,"Dare County Health Department","Single","Dare",2574499
-2000,"Dare County Health Department","Single","Dare",2634308
-2001,"Dare County Health Department","Single","Dare",2886561
-2002,"Dare County Health Department","Single","Dare",3190525
-2003,"Dare County Health Department","Single","Dare",3817593
-2004,"Dare County Health Department","Single","Dare",4009107
-2005,"Dare County Health Department","Single","Dare",4292679
-2006,"Dare County Health Department","Single","Dare",4816212
-2007,"Dare County Health Department","Single","Dare",5213994
-2008,"Dare County Health Department","Single","Dare",5827643
-2009,"Dare County Health Department","Single","Dare",6811119
-2010,"Dare County Health Department","Single","Dare",6453184
-2011,"Dare County Health Department","Single","Dare",6373311
-2012,"Dare County Health Department","Single","Dare",6489834
-2013,"Dare County Health Department","Single","Dare",6406513
-2014,"Dare County Health Department","Single","Dare",7023583
-2015,"Dare County Health Department","Single","Dare",6957162
-2016,"Dare County Health Department","Single","Dare",7014680
-2017,"Dare County Health Department","Single","Dare",7481726
-2018,"Dare County Health Department","Single","Dare",7623594
-2019,"Dare County Health Department","Single","Dare",7917300
-2002,"Swain County Health Department","Single","Swain",2811706.19
-2003,"Swain County Health Department","Single","Swain",2092495.52
-2004,"Swain County Health Department","Single","Swain",1828425.7
-2005,"Swain County Health Department","Single","Swain",1886895.31
-2006,"Swain County Health Department","Single","Swain",1871853.17
-2007,"Swain County Health Department","Single","Swain",1680830.36
-2008,"Swain County Health Department","Single","Swain",1923205.39
-2009,"Swain County Health Department","Single","Swain",1817113.55
-2010,"Swain County Health Department","Single","Swain",1845786.29
-2011,"Swain County Health Department","Single","Swain",1955888.44
-2012,"Swain County Health Department","Single","Swain",1882044.82
-2013,"Swain County Health Department","Single","Swain",1855333.87
-2014,"Swain County Health Department","Single","Swain",1734318.43
-2015,"Swain County Health Department","Single","Swain",1619503.1
-2016,"Swain County Health Department","Single","Swain",1699887.77
-2017,"Swain County Health Department","Single","Swain",1642487.53
-2018,"Swain County Health Department","Single","Swain",1604353.88
-2019,"Swain County Health Department","Single","Swain",1631436.5
-2020,"Swain County Health Department","Single","Swain",1598719.39
-1999,"Yadkin County Health Department","Single","Yadkin",1264242
-2000,"Yadkin County Health Department","Single","Yadkin",1438763
-2001,"Yadkin County Health Department","Single","Yadkin",1566970
-2002,"Yadkin County Health Department","Single","Yadkin",1605051
-2003,"Yadkin County Health Department","Single","Yadkin",1618746
-2004,"Yadkin County Health Department","Single","Yadkin",1588706
-2005,"Yadkin County Health Department","Single","Yadkin",1739445
-2006,"Yadkin County Health Department","Single","Yadkin",1762133
-2007,"Yadkin County Health Department","Single","Yadkin",1868367
-2008,"Yadkin County Health Department","Single","Yadkin",2110173
-2009,"Yadkin County Health Department","Single","Yadkin",2595523.64
-2010,"Yadkin County Health Department","Single","Yadkin",2716611.21
-2011,"Yadkin County Health Department","Single","Yadkin",2614934.35
-2012,"Yadkin County Health Department","Single","Yadkin",2219118.02
-2013,"Yadkin County Health Department","Single","Yadkin",1782521.95
-2014,"Yadkin County Health Department","Single","Yadkin",1329810.29
-2015,"Yadkin County Health Department","Single","Yadkin",1359909.53
-2016,"Yadkin County Health Department","Single","Yadkin",1408674.77
-2017,"Yadkin County Health Department","Single","Yadkin",1702505
-2018,"Yadkin County Health Department","Single","Yadkin",1467770.5
-2019,"Yadkin County Health Department","Single","Yadkin",1305296.58
-2020,"Yadkin County Health Department","Single","Yadkin",1407855.73
-2000,"Wayne County Health Department","Single","Wayne",4958586.8
-2001,"Wayne County Health Department","Single","Wayne",5887619.29
-2002,"Wayne County Health Department","Single","Wayne",5980424.57
-2003,"Wayne County Health Department","Single","Wayne",6008438.04
-2004,"Wayne County Health Department","Single","Wayne",6262271.67
-2005,"Wayne County Health Department","Single","Wayne",6443977.97
-2006,"Wayne County Health Department","Single","Wayne",6454414.31
-2007,"Wayne County Health Department","Single","Wayne",6784564.63
-2008,"Wayne County Health Department","Single","Wayne",6886665.09
-2009,"Wayne County Health Department","Single","Wayne",7169592.05
-2010,"Wayne County Health Department","Single","Wayne",7299846.99
-2011,"Wayne County Health Department","Single","Wayne",7520977.52
-2012,"Wayne County Health Department","Single","Wayne",7654409.92
-2013,"Wayne County Health Department","Single","Wayne",7638654.78
-2014,"Wayne County Health Department","Single","Wayne",7545670.09
-2015,"Wayne County Health Department","Single","Wayne",7381571.6
-2016,"Wayne County Health Department","Single","Wayne",7180526.86
-2017,"Wayne County Health Department","Single","Wayne",6867042.66
-2018,"Wayne County Health Department","Single","Wayne",7437700.24
-2019,"Wayne County Health Department","Single","Wayne",7531200.31
-2020,"Wayne County Health Department","Single","Wayne",7357447.33
-2000,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4149703
-2001,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4287499
-2002,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4400298
-2003,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4399918
-2004,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4714279
-2005,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4952997
-2006,"Granville-Vance District Health Department","Multi-county","Granville & Vance",4758035
-2007,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5002770
-2008,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5380923
-2009,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5396026
-2010,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5572060
-2011,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5466449
-2012,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5474729
-2013,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5704252
-2014,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6180133
-2015,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6055629
-2016,"Granville-Vance District Health Department","Multi-county","Granville & Vance",5968541
-2017,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6072389
-2018,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6592721
-2019,"Granville-Vance District Health Department","Multi-county","Granville & Vance",6662220
-2000,"Greene Health Department","Single","Greene",1015216.68
-2001,"Greene Health Department","Single","Greene",941375.26
-2002,"Greene Health Department","Single","Greene",954526.51
-2003,"Greene Health Department","Single","Greene",1005979.27
-2004,"Greene Health Department","Single","Greene",1135021.4
-2005,"Greene Health Department","Single","Greene",1272460.86
-2006,"Greene Health Department","Single","Greene",1423119.81
-2007,"Greene Health Department","Single","Greene",1539580.42
-2008,"Greene Health Department","Single","Greene",1595064.21
-2009,"Greene Health Department","Single","Greene",1709736.25
-2010,"Greene Health Department","Single","Greene",1741202.26
-2011,"Greene Health Department","Single","Greene",1474702.76
-2012,"Greene Health Department","Single","Greene",1722153.53
-2013,"Greene Health Department","Single","Greene",1603802.12
-2014,"Greene Health Department","Single","Greene",1459167.85
-2015,"Greene Health Department","Single","Greene",1441363.02
-2016,"Greene Health Department","Single","Greene",1429305.59
-2017,"Greene Health Department","Single","Greene",1523737.73
-2018,"Greene Health Department","Single","Greene",1673625.01
-2019,"Greene Health Department","Single","Greene",1685232.94
-2003,"Montgomery County Health Department","Single","Montgomery",1621910
-2004,"Montgomery County Health Department","Single","Montgomery",1749836
-2005,"Montgomery County Health Department","Single","Montgomery",1813391
-2006,"Montgomery County Health Department","Single","Montgomery",1658627
-2007,"Montgomery County Health Department","Single","Montgomery",2015587
-2008,"Montgomery County Health Department","Single","Montgomery",2234246
-2009,"Montgomery County Health Department","Single","Montgomery",2067824
-2010,"Montgomery County Health Department","Single","Montgomery",2062147
-2011,"Montgomery County Health Department","Single","Montgomery",1752104
-2012,"Montgomery County Health Department","Single","Montgomery",1851399
-2013,"Montgomery County Health Department","Single","Montgomery",1848198
-2014,"Montgomery County Health Department","Single","Montgomery",1849089
-2015,"Montgomery County Health Department","Single","Montgomery",1741791
-2016,"Montgomery County Health Department","Single","Montgomery",1857275
-2017,"Montgomery County Health Department","Single","Montgomery",1870445
-2018,"Montgomery County Health Department","Single","Montgomery",1887144
-2019,"Montgomery County Health Department","Single","Montgomery",1816312
-2017,"Pender County Health Department","Single","Pender",4997120.99
-2018,"Pender County Health Department","Single","Pender",5907017.95
-2019,"Pender County Health Department","Single","Pender",5413373.12
-2020,"Pender County Health Department","Single","Pender",5498142.06
-1999,"Person County Health Department","Single","Person",2855509
-2000,"Person County Health Department","Single","Person",2846473
-2001,"Person County Health Department","Single","Person",3151512
-2002,"Person County Health Department","Single","Person",3066940
-2003,"Person County Health Department","Single","Person",3256738
-2004,"Person County Health Department","Single","Person",3515646
-2005,"Person County Health Department","Single","Person",3645113
-2006,"Person County Health Department","Single","Person",4095892
-2007,"Person County Health Department","Single","Person",4290096
-2008,"Person County Health Department","Single","Person",4562825
-2009,"Person County Health Department","Single","Person",4481513
-2010,"Person County Health Department","Single","Person",4268046
-2011,"Person County Health Department","Single","Person",4158153
-2012,"Person County Health Department","Single","Person",4148843
-2013,"Person County Health Department","Single","Person",4776353
-2014,"Person County Health Department","Single","Person",4615460
-2015,"Person County Health Department","Single","Person",4182492
-2016,"Person County Health Department","Single","Person",4082394
-2017,"Person County Health Department","Single","Person",3927991
-2018,"Person County Health Department","Single","Person",3564406
-2019,"Person County Health Department","Single","Person",3014546
-1999,"Rowan County Health Department","Single","Rowan",3259473
-2000,"Rowan County Health Department","Single","Rowan",3510640
-2001,"Rowan County Health Department","Single","Rowan",3680918
-2002,"Rowan County Health Department","Single","Rowan",3717671
-2003,"Rowan County Health Department","Single","Rowan",3960901
-2004,"Rowan County Health Department","Single","Rowan",4472536
-2005,"Rowan County Health Department","Single","Rowan",4478524
-2006,"Rowan County Health Department","Single","Rowan",4478722
-2007,"Rowan County Health Department","Single","Rowan",4717116
-2008,"Rowan County Health Department","Single","Rowan",5245882
-2009,"Rowan County Health Department","Single","Rowan",5673984
-2010,"Rowan County Health Department","Single","Rowan",5629894
-2011,"Rowan County Health Department","Single","Rowan",5831706
-2012,"Rowan County Health Department","Single","Rowan",5468188
-2013,"Rowan County Health Department","Single","Rowan",5626549
-2014,"Rowan County Health Department","Single","Rowan",5278684
-2015,"Rowan County Health Department","Single","Rowan",5274882
-2016,"Rowan County Health Department","Single","Rowan",5336371
-2017,"Rowan County Health Department","Single","Rowan",5508316
-2018,"Rowan County Health Department","Single","Rowan",5587848
-2019,"Rowan County Health Department","Single","Rowan",5836872
-2009,"Harnett County Health Department","Single","Harnett",6320479.55
-2010,"Harnett County Health Department","Single","Harnett",6458474.04
-2011,"Harnett County Health Department","Single","Harnett",6191713.34
-2012,"Harnett County Health Department","Single","Harnett",6030424
-2013,"Harnett County Health Department","Single","Harnett",5881778.82
-2014,"Harnett County Health Department","Single","Harnett",5614483.57
-2015,"Harnett County Health Department","Single","Harnett",6014263.98
-2016,"Harnett County Health Department","Single","Harnett",5869797.94
-2017,"Harnett County Health Department","Single","Harnett",5565133.94
-2018,"Harnett County Health Department","Single","Harnett",5558680.01
-2019,"Harnett County Health Department","Single","Harnett",5784231.16
-2020,"Harnett County Health Department","Single","Harnett",5510900.45
-2001,"Madison County Health Department","Single","Madison",889814.73
-2002,"Madison County Health Department","Single","Madison",963567.04
-2003,"Madison County Health Department","Single","Madison",1175505.1
-2004,"Madison County Health Department","Single","Madison",1053106.66
-2005,"Madison County Health Department","Single","Madison",1166634.4
-2006,"Madison County Health Department","Single","Madison",1332078.95
-2007,"Madison County Health Department","Single","Madison",1243229.39
-2008,"Madison County Health Department","Single","Madison",1714720.4
-2009,"Madison County Health Department","Single","Madison",2211913.8
-2010,"Madison County Health Department","Single","Madison",2490454.83
-2011,"Madison County Health Department","Single","Madison",2360427.22
-2012,"Madison County Health Department","Single","Madison",2188734.06
-2013,"Madison County Health Department","Single","Madison",2657316.35
-2014,"Madison County Health Department","Single","Madison",2778522.55
-2015,"Madison County Health Department","Single","Madison",2765190.67
-2016,"Madison County Health Department","Single","Madison",2820975.58
-2017,"Madison County Health Department","Single","Madison",2888826.9
-2018,"Madison County Health Department","Single","Madison",2754209.59
-2019,"Madison County Health Department","Single","Madison",3059660.38
-2020,"Madison County Health Department","Single","Madison",2935162.16
-1999,"Guilford County Health Department","Single","Guilford",25876074
-2000,"Guilford County Health Department","Single","Guilford",28403151
-2001,"Guilford County Health Department","Single","Guilford",28652689
-2002,"Guilford County Health Department","Single","Guilford",29306129
-2003,"Guilford County Health Department","Single","Guilford",30318024
-2004,"Guilford County Health Department","Single","Guilford",31413976
-2005,"Guilford County Health Department","Single","Guilford",32698025
-2006,"Guilford County Health Department","Single","Guilford",34095107
-2007,"Guilford County Health Department","Single","Guilford",34621959
-2008,"Guilford County Health Department","Single","Guilford",36124028
-2009,"Guilford County Health Department","Single","Guilford",37030338
-2010,"Guilford County Health Department","Single","Guilford",36994870
-2011,"Guilford County Health Department","Single","Guilford",34915224
-2012,"Guilford County Health Department","Single","Guilford",30741310
-2013,"Guilford County Health Department","Single","Guilford",31257273
-2014,"Guilford County Health Department","Single","Guilford",29323811
-2015,"Guilford County Health Department","Single","Guilford",29812115
-2016,"Guilford County Health Department","Single","Guilford",30106801
-2017,"Guilford County Health Department","Single","Guilford",30893221
-2018,"Guilford County Health Department","Single","Guilford",31664164
-2019,"Guilford County Health Department","Single","Guilford",33529676
-1999,"Henderson County Health Department","Single","Henderson",3447901
-2000,"Henderson County Health Department","Single","Henderson",3724018
-2001,"Henderson County Health Department","Single","Henderson",3961636
-2002,"Henderson County Health Department","Single","Henderson",4094184
-2003,"Henderson County Health Department","Single","Henderson",4561118
-2004,"Henderson County Health Department","Single","Henderson",4917759
-2005,"Henderson County Health Department","Single","Henderson",5079229
-2006,"Henderson County Health Department","Single","Henderson",4524543
-2007,"Henderson County Health Department","Single","Henderson",5123841
-2008,"Henderson County Health Department","Single","Henderson",5189325
-2009,"Henderson County Health Department","Single","Henderson",5756425
-2010,"Henderson County Health Department","Single","Henderson",5844857
-2011,"Henderson County Health Department","Single","Henderson",5907205
-2012,"Henderson County Health Department","Single","Henderson",5415206
-2013,"Henderson County Health Department","Single","Henderson",5554933
-2014,"Henderson County Health Department","Single","Henderson",5438219
-2015,"Henderson County Health Department","Single","Henderson",5705652
-2016,"Henderson County Health Department","Single","Henderson",6230056
-2017,"Henderson County Health Department","Single","Henderson",6401837
-2018,"Henderson County Health Department","Single","Henderson",6687190
-2019,"Henderson County Health Department","Single","Henderson",6998090
-1999,"Iredell County Health Department","Single","Iredell",3958273
-2000,"Iredell County Health Department","Single","Iredell",4101054
-2001,"Iredell County Health Department","Single","Iredell",4368675
-2002,"Iredell County Health Department","Single","Iredell",4591632
-2003,"Iredell County Health Department","Single","Iredell",5010066
-2004,"Iredell County Health Department","Single","Iredell",5264056
-2005,"Iredell County Health Department","Single","Iredell",5451654
-2006,"Iredell County Health Department","Single","Iredell",6020144
-2007,"Iredell County Health Department","Single","Iredell",6664076
-2008,"Iredell County Health Department","Single","Iredell",7461442
-2009,"Iredell County Health Department","Single","Iredell",7743202
-2010,"Iredell County Health Department","Single","Iredell",7844950
-2011,"Iredell County Health Department","Single","Iredell",7442226
-2012,"Iredell County Health Department","Single","Iredell",7599940
-2013,"Iredell County Health Department","Single","Iredell",7318916
-2014,"Iredell County Health Department","Single","Iredell",7556585
-2015,"Iredell County Health Department","Single","Iredell",7416907
-2016,"Iredell County Health Department","Single","Iredell",7625208
-2017,"Iredell County Health Department","Single","Iredell",7993880
-2018,"Iredell County Health Department","Single","Iredell",8250859
-2019,"Iredell County Health Department","Single","Iredell",8593066
-2005,"Johnston County Health Department","Single","Johnston",5847556
-2007,"Johnston County Health Department","Single","Johnston",6718864
-2008,"Johnston County Health Department","Single","Johnston",7329873
-2009,"Johnston County Health Department","Single","Johnston",7613409
-2010,"Johnston County Health Department","Single","Johnston",7462867
-2011,"Johnston County Health Department","Single","Johnston",7541941
-2012,"Johnston County Health Department","Single","Johnston",7223443
-2013,"Johnston County Health Department","Single","Johnston",9141410
-2014,"Johnston County Health Department","Single","Johnston",11272374
-2015,"Johnston County Health Department","Single","Johnston",11825260
-2016,"Johnston County Health Department","Single","Johnston",12683961
-2017,"Johnston County Health Department","Single","Johnston",13240554
-2018,"Johnston County Health Department","Single","Johnston",13977295
-2019,"Johnston County Health Department","Single","Johnston",14206353
-2020,"Johnston County Health Department","Single","Johnston",13533468
-1998,"Lincoln County Health Department","Single","Lincoln",2832336
-1999,"Lincoln County Health Department","Single","Lincoln",2932898
-2000,"Lincoln County Health Department","Single","Lincoln",3081100
-2001,"Lincoln County Health Department","Single","Lincoln",3135560
-2002,"Lincoln County Health Department","Single","Lincoln",3314015
-2003,"Lincoln County Health Department","Single","Lincoln",3574920
-2004,"Lincoln County Health Department","Single","Lincoln",3897704
-2005,"Lincoln County Health Department","Single","Lincoln",3881751
-2006,"Lincoln County Health Department","Single","Lincoln",4312805
-2007,"Lincoln County Health Department","Single","Lincoln",4840531
-2008,"Lincoln County Health Department","Single","Lincoln",4999244
-2009,"Lincoln County Health Department","Single","Lincoln",5089200
-2010,"Lincoln County Health Department","Single","Lincoln",5301387
-2011,"Lincoln County Health Department","Single","Lincoln",5432456
-2012,"Lincoln County Health Department","Single","Lincoln",5182597
-2013,"Lincoln County Health Department","Single","Lincoln",5255870
-2014,"Lincoln County Health Department","Single","Lincoln",5067177
-2015,"Lincoln County Health Department","Single","Lincoln",4991734
-2016,"Lincoln County Health Department","Single","Lincoln",4327825
-2017,"Lincoln County Health Department","Single","Lincoln",4348133
-2018,"Lincoln County Health Department","Single","Lincoln",4417331
-2019,"Lincoln County Health Department","Single","Lincoln",4847658
-2020,"Lincoln County Health Department","Single","Lincoln",5161890
-2003,"Pitt County Health Department","Single","Pitt",6184924
-2004,"Pitt County Health Department","Single","Pitt",6683792
-2005,"Pitt County Health Department","Single","Pitt",7082746
-2006,"Pitt County Health Department","Single","Pitt",7415076
-2007,"Pitt County Health Department","Single","Pitt",7830224
-2008,"Pitt County Health Department","Single","Pitt",8720549
-2009,"Pitt County Health Department","Single","Pitt",9421656
-2010,"Pitt County Health Department","Single","Pitt",10280075
-2011,"Pitt County Health Department","Single","Pitt",9924185
-2012,"Pitt County Health Department","Single","Pitt",9505483
-2013,"Pitt County Health Department","Single","Pitt",8904408
-2014,"Pitt County Health Department","Single","Pitt",8997360
-2015,"Pitt County Health Department","Single","Pitt",8968160
-2016,"Pitt County Health Department","Single","Pitt",9174193
-2017,"Pitt County Health Department","Single","Pitt",9718345
-2018,"Pitt County Health Department","Single","Pitt",10544823
-2019,"Pitt County Health Department","Single","Pitt",10493986
-2010,"Halifax County Health Department","Single","Halifax",6306343
-2011,"Halifax County Health Department","Single","Halifax",6081777
-2012,"Halifax County Health Department","Single","Halifax",6401144
-2013,"Halifax County Health Department","Single","Halifax",6317273
-2014,"Halifax County Health Department","Single","Halifax",5762022
-2015,"Halifax County Health Department","Single","Halifax",5964937
-2016,"Halifax County Health Department","Single","Halifax",5951925
-2017,"Halifax County Health Department","Single","Halifax",6143916
-2018,"Halifax County Health Department","Single","Halifax",6098914
-2019,"Halifax County Health Department","Single","Halifax",6182756
-2005,"Jones County Health Department","Single","Jones",1057467
-2006,"Jones County Health Department","Single","Jones",948979
-2007,"Jones County Health Department","Single","Jones",847751
-2008,"Jones County Health Department","Single","Jones",1029169
-2009,"Jones County Health Department","Single","Jones",1166437
-2010,"Jones County Health Department","Single","Jones",1273596
-2011,"Jones County Health Department","Single","Jones",1113625
-2012,"Jones County Health Department","Single","Jones",1041434
-2013,"Jones County Health Department","Single","Jones",949014
-2014,"Jones County Health Department","Single","Jones",949693
-2015,"Jones County Health Department","Single","Jones",892946
-2016,"Jones County Health Department","Single","Jones",974741
-2017,"Jones County Health Department","Single","Jones",924449
-2018,"Jones County Health Department","Single","Jones",900836
-2019,"Jones County Health Department","Single","Jones",1010820
-2008,"Lenoir County Health Department","Single","Lenoir",3063748
-2009,"Lenoir County Health Department","Single","Lenoir",3103985
-2010,"Lenoir County Health Department","Single","Lenoir",3103421
-2011,"Lenoir County Health Department","Single","Lenoir",3266534
-2012,"Lenoir County Health Department","Single","Lenoir",3442435
-2013,"Lenoir County Health Department","Single","Lenoir",3352090
-2014,"Lenoir County Health Department","Single","Lenoir",3396399
-2015,"Lenoir County Health Department","Single","Lenoir",3689023
-2016,"Lenoir County Health Department","Single","Lenoir",3880719
-2017,"Lenoir County Health Department","Single","Lenoir",3532664
-2018,"Lenoir County Health Department","Single","Lenoir",3463486
-2019,"Lenoir County Health Department","Single","Lenoir",3866269
-1999,"Gaston County Health Department","Single","Gaston",12449342
-2000,"Gaston County Health Department","Single","Gaston",12928362
-2001,"Gaston County Health Department","Single","Gaston",13121589
-2002,"Gaston County Health Department","Single","Gaston",12469844
-2003,"Gaston County Health Department","Single","Gaston",13332100
-2004,"Gaston County Health Department","Single","Gaston",13587489
-2005,"Gaston County Health Department","Single","Gaston",14924734
-2006,"Gaston County Health Department","Single","Gaston",15966394
-2007,"Gaston County Health Department","Single","Gaston",17322768
-2008,"Gaston County Health Department","Single","Gaston",17132323
-2009,"Gaston County Health Department","Single","Gaston",17777220
-2010,"Gaston County Health Department","Single","Gaston",21823121
-2011,"Gaston County Health Department","Single","Gaston",19405555
-2012,"Gaston County Health Department","Single","Gaston",16813265
-2013,"Gaston County Health Department","Single","Gaston",18228656
-2014,"Gaston County Health Department","Single","Gaston",18679751
-2015,"Gaston County Health Department","Single","Gaston",16527317
-2016,"Gaston County Health Department","Single","Gaston",16965807
-2017,"Gaston County Health Department","Single","Gaston",17046558
-2018,"Gaston County Health Department","Single","Gaston",17854499
-2019,"Gaston County Health Department","Single","Gaston",17668100
-2009,"Hyde County Health Department","Single","Hyde",1192675.79
-2010,"Hyde County Health Department","Single","Hyde",1589018.18
-2011,"Hyde County Health Department","Single","Hyde",1462649.57
-2012,"Hyde County Health Department","Single","Hyde",1516007.17
-2013,"Hyde County Health Department","Single","Hyde",1474192.33
-2014,"Hyde County Health Department","Single","Hyde",1413173.52
-2015,"Hyde County Health Department","Single","Hyde",1458499.4
-2016,"Hyde County Health Department","Single","Hyde",1560293.57
-2017,"Hyde County Health Department","Single","Hyde",1257665.11
-2018,"Hyde County Health Department","Single","Hyde",1042601.95
-2019,"Hyde County Health Department","Single","Hyde",1262387.66
-2020,"Hyde County Health Department","Single","Hyde",1432867.79
-2006,"Mecklenburg County Health Department","Single","Mecklenburg",28231523.25
-2007,"Mecklenburg County Health Department","Single","Mecklenburg",28673187.43
-2008,"Mecklenburg County Health Department","Single","Mecklenburg",32077463.24
-2009,"Mecklenburg County Health Department","Single","Mecklenburg",33222938.35
-2010,"Mecklenburg County Health Department","Single","Mecklenburg",37122799.41
-2011,"Mecklenburg County Health Department","Single","Mecklenburg",38392329.59
-2012,"Mecklenburg County Health Department","Single","Mecklenburg",35538036.78
-2013,"Mecklenburg County Health Department","Single","Mecklenburg",38529966.98
-2014,"Mecklenburg County Health Department","Single","Mecklenburg",37664036.99
-2015,"Mecklenburg County Health Department","Single","Mecklenburg",49579744.97
-2016,"Mecklenburg County Health Department","Single","Mecklenburg",64778295.73
-2017,"Mecklenburg County Health Department","Single","Mecklenburg",69546706.07
-2018,"Mecklenburg County Health Department","Single","Mecklenburg",73079043.96
-2019,"Mecklenburg County Health Department","Single","Mecklenburg",76803874.85
-2020,"Mecklenburg County Health Department","Single","Mecklenburg",75976723.65
-2008,"Rockingham County Health Department","Single","Rockingham",5369741
-2009,"Rockingham County Health Department","Single","Rockingham",5250195
-2010,"Rockingham County Health Department","Single","Rockingham",5206016
-2011,"Rockingham County Health Department","Single","Rockingham",5182041
-2012,"Rockingham County Health Department","Single","Rockingham",5159261
-2013,"Rockingham County Health Department","Single","Rockingham",5405212
-2014,"Rockingham County Health Department","Single","Rockingham",5339450
-2015,"Rockingham County Health Department","Single","Rockingham",5251099
-2016,"Rockingham County Health Department","Single","Rockingham",5223283
-2017,"Rockingham County Health Department","Single","Rockingham",5511305
-2018,"Rockingham County Health Department","Single","Rockingham",5431356
-2019,"Rockingham County Health Department","Single","Rockingham",5362831
-2010,"Chatham County Health Department","Single","Chatham",5462292
-2011,"Chatham County Health Department","Single","Chatham",5658604
-2012,"Chatham County Health Department","Single","Chatham",4925679
-2013,"Chatham County Health Department","Single","Chatham",5190327
-2014,"Chatham County Health Department","Single","Chatham",5316609
-2015,"Chatham County Health Department","Single","Chatham",5318325
-2016,"Chatham County Health Department","Single","Chatham",5544477
-2017,"Chatham County Health Department","Single","Chatham",5510396
-2018,"Chatham County Health Department","Single","Chatham",5905474
-2019,"Chatham County Health Department","Single","Chatham",5327426
-2020,"Chatham County Health Department","Single","Chatham",5431334
-2017,"Onslow County Health Department","Single","Onslow",7299937.59
-2018,"Onslow County Health Department","Single","Onslow",7252608.85
-2019,"Onslow County Health Department","Single","Onslow",9544997.9
-2020,"Onslow County Health Department","Single","Onslow",9789015.37
-2004,"Franklin County Health Department","Single","Franklin",NA
-2005,"Franklin County Health Department","Single","Franklin",NA
-2006,"Franklin County Health Department","Single","Franklin",NA
-2007,"Franklin County Health Department","Single","Franklin",NA
-2008,"Franklin County Health Department","Single","Franklin",NA
-2009,"Franklin County Health Department","Single","Franklin",NA
-2010,"Franklin County Health Department","Single","Franklin",4999647
-2011,"Franklin County Health Department","Single","Franklin",5275723
-2012,"Franklin County Health Department","Single","Franklin",5006148
-2013,"Franklin County Health Department","Single","Franklin",5148977
-2014,"Franklin County Health Department","Single","Franklin",5120582
-2015,"Franklin County Health Department","Single","Franklin",4660728
-2016,"Franklin County Health Department","Single","Franklin",4660609
-2017,"Franklin County Health Department","Single","Franklin",4820802
-2018,"Franklin County Health Department","Single","Franklin",5186174
-2019,"Franklin County Health Department","Single","Franklin",5456152
-1999,"Forsyth County Health Department","Single","Forsyth",10871877
-2000,"Forsyth County Health Department","Single","Forsyth",11626578
-2001,"Forsyth County Health Department","Single","Forsyth",12320366
-2002,"Forsyth County Health Department","Single","Forsyth",12775123
-2003,"Forsyth County Health Department","Single","Forsyth",13979324
-2004,"Forsyth County Health Department","Single","Forsyth",15659148
-2005,"Forsyth County Health Department","Single","Forsyth",16922247
-2006,"Forsyth County Health Department","Single","Forsyth",17794101
-2007,"Forsyth County Health Department","Single","Forsyth",17835638
-2008,"Forsyth County Health Department","Single","Forsyth",19194681
-2009,"Forsyth County Health Department","Single","Forsyth",20231084
-2010,"Forsyth County Health Department","Single","Forsyth",21184605
-2011,"Forsyth County Health Department","Single","Forsyth",21011505
-2012,"Forsyth County Health Department","Single","Forsyth",20104876
-2013,"Forsyth County Health Department","Single","Forsyth",19971047
-2014,"Forsyth County Health Department","Single","Forsyth",20423056
-2015,"Forsyth County Health Department","Single","Forsyth",19925586
-2016,"Forsyth County Health Department","Single","Forsyth",20807420
-2017,"Forsyth County Health Department","Single","Forsyth",21634584
-2018,"Forsyth County Health Department","Single","Forsyth",22295963
-2019,"Forsyth County Health Department","Single","Forsyth",21981114
-2020,"Forsyth County Health Department","Single","Forsyth",22934487
-2003,"Orange County Health Department","Single","Orange",6053459
-2004,"Orange County Health Department","Single","Orange",7420413
-2005,"Orange County Health Department","Single","Orange",6759296
-2006,"Orange County Health Department","Single","Orange",6323932
-2007,"Orange County Health Department","Single","Orange",6666353
-2008,"Orange County Health Department","Single","Orange",7085936
-2009,"Orange County Health Department","Single","Orange",7122479
-2010,"Orange County Health Department","Single","Orange",7293214
-2011,"Orange County Health Department","Single","Orange",7101731
-2012,"Orange County Health Department","Single","Orange",6932715
-2013,"Orange County Health Department","Single","Orange",7435288
-2014,"Orange County Health Department","Single","Orange",7718188
-2015,"Orange County Health Department","Single","Orange",8069020
-2016,"Orange County Health Department","Single","Orange",8692992
-2017,"Orange County Health Department","Single","Orange",9166051
-2018,"Orange County Health Department","Single","Orange",9797459
-2019,"Orange County Health Department","Single","Orange",10290730
-2004,"Brunswick County Health Department","Single","Brunswick",5234618
-2005,"Brunswick County Health Department","Single","Brunswick",5724387
-2006,"Brunswick County Health Department","Single","Brunswick",6684283
-2007,"Brunswick County Health Department","Single","Brunswick",6589978
-2008,"Brunswick County Health Department","Single","Brunswick",7305431
-2009,"Brunswick County Health Department","Single","Brunswick",7629918
-2010,"Brunswick County Health Department","Single","Brunswick",7734922
-2011,"Brunswick County Health Department","Single","Brunswick",7521945
-2012,"Brunswick County Health Department","Single","Brunswick",7163256
-2013,"Brunswick County Health Department","Single","Brunswick",6383573
-2014,"Brunswick County Health Department","Single","Brunswick",6593003
-2015,"Brunswick County Health Department","Single","Brunswick",6844763
-2016,"Brunswick County Health Department","Single","Brunswick",6399328
-2017,"Brunswick County Health Department","Single","Brunswick",6981970
-2018,"Brunswick County Health Department","Single","Brunswick",7041307
-2019,"Brunswick County Health Department","Single","Brunswick",7492998
-1999,"Richmond County Health Department","Single","Richmond",2496715
-2000,"Richmond County Health Department","Single","Richmond",2620223
-2001,"Richmond County Health Department","Single","Richmond",2721767
-2002,"Richmond County Health Department","Single","Richmond",2944108
-2003,"Richmond County Health Department","Single","Richmond",2878198
-2004,"Richmond County Health Department","Single","Richmond",3181871
-2005,"Richmond County Health Department","Single","Richmond",3324134
-2006,"Richmond County Health Department","Single","Richmond",3478422
-2007,"Richmond County Health Department","Single","Richmond",3512077
-2008,"Richmond County Health Department","Single","Richmond",3770740
-2009,"Richmond County Health Department","Single","Richmond",4017405
-2010,"Richmond County Health Department","Single","Richmond",4073929
-2011,"Richmond County Health Department","Single","Richmond",4081635
-2012,"Richmond County Health Department","Single","Richmond",4274141
-2013,"Richmond County Health Department","Single","Richmond",4315499
-2014,"Richmond County Health Department","Single","Richmond",4729615
-2015,"Richmond County Health Department","Single","Richmond",4332125
-2016,"Richmond County Health Department","Single","Richmond",4897206
-2017,"Richmond County Health Department","Single","Richmond",5092253
-2018,"Richmond County Health Department","Single","Richmond",5393344
-2019,"Richmond County Health Department","Single","Richmond",5604262
-2002,"Craven County Health Department","Single","Craven",7020765
-2003,"Craven County Health Department","Single","Craven",7254987
-2004,"Craven County Health Department","Single","Craven",7762736
-2005,"Craven County Health Department","Single","Craven",8142709
-2006,"Craven County Health Department","Single","Craven",8170173
-2007,"Craven County Health Department","Single","Craven",8547659
-2008,"Craven County Health Department","Single","Craven",9351879
-2009,"Craven County Health Department","Single","Craven",9538653
-2010,"Craven County Health Department","Single","Craven",9517457
-2011,"Craven County Health Department","Single","Craven",9743417
-2012,"Craven County Health Department","Single","Craven",9699866
-2013,"Craven County Health Department","Single","Craven",9841143
-2014,"Craven County Health Department","Single","Craven",9349643
-2015,"Craven County Health Department","Single","Craven",8888543
-2016,"Craven County Health Department","Single","Craven",9510727
-2017,"Craven County Health Department","Single","Craven",9470651
-2018,"Craven County Health Department","Single","Craven",10279698
-2019,"Craven County Health Department","Single","Craven",10914425
-2020,"Craven County Health Department","Single","Craven",11656144
-1999,"Jackson County Health Department","Single","Jackson",2351694
-2000,"Jackson County Health Department","Single","Jackson",2345196
-2001,"Jackson County Health Department","Single","Jackson",2612625
-2002,"Jackson County Health Department","Single","Jackson",2738753
-2003,"Jackson County Health Department","Single","Jackson",2980996
-2004,"Jackson County Health Department","Single","Jackson",2953954
-2005,"Jackson County Health Department","Single","Jackson",3195040
-2006,"Jackson County Health Department","Single","Jackson",3435472
-2007,"Jackson County Health Department","Single","Jackson",3672056
-2008,"Jackson County Health Department","Single","Jackson",3908666
-2009,"Jackson County Health Department","Single","Jackson",4049887
-2010,"Jackson County Health Department","Single","Jackson",4098089.44
-2011,"Jackson County Health Department","Single","Jackson",4279163.3
-2012,"Jackson County Health Department","Single","Jackson",4292195
-2013,"Jackson County Health Department","Single","Jackson",4464273.05
-2014,"Jackson County Health Department","Single","Jackson",4382283
-2015,"Jackson County Health Department","Single","Jackson",4166957.24
-2016,"Jackson County Health Department","Single","Jackson",4331697.13
-2017,"Jackson County Health Department","Single","Jackson",4479261.92
-2018,"Jackson County Health Department","Single","Jackson",4463653.24
-2019,"Jackson County Health Department","Single","Jackson",4947832.89
-2020,"Jackson County Health Department","Single","Jackson",4784580.84
-1999,"Transylvania County Health Department","Single","Transylvania",1198401
-2000,"Transylvania County Health Department","Single","Transylvania",1307527
-2001,"Transylvania County Health Department","Single","Transylvania",1381154
-2002,"Transylvania County Health Department","Single","Transylvania",1350861
-2003,"Transylvania County Health Department","Single","Transylvania",1432830
-2004,"Transylvania County Health Department","Single","Transylvania",1517665
-2005,"Transylvania County Health Department","Single","Transylvania",1491319
-2006,"Transylvania County Health Department","Single","Transylvania",1631018
-2007,"Transylvania County Health Department","Single","Transylvania",1884708
-2008,"Transylvania County Health Department","Single","Transylvania",1951437
-2009,"Transylvania County Health Department","Single","Transylvania",2042609
-2010,"Transylvania County Health Department","Single","Transylvania",1855463
-2011,"Transylvania County Health Department","Single","Transylvania",1841788
-2012,"Transylvania County Health Department","Single","Transylvania",1816020
-2013,"Transylvania County Health Department","Single","Transylvania",1901827
-2014,"Transylvania County Health Department","Single","Transylvania",1983090
-2015,"Transylvania County Health Department","Single","Transylvania",2231676
-2016,"Transylvania County Health Department","Single","Transylvania",2269212
-2017,"Transylvania County Health Department","Single","Transylvania",2409408
-2018,"Transylvania County Health Department","Single","Transylvania",2352879
-1999,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",3070987.37
-2000,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",2892910.56
-2001,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",3989362.51
-2002,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4342292.25
-2003,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4749687.96
-2004,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5136176.71
-2005,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5326221.48
-2006,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4834996.32
-2007,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5096082.06
-2008,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4923941.18
-2009,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5151725.26
-2010,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5493127.31
-2011,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5400497.06
-2012,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5504317.41
-2013,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5840264.61
-2014,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5342117.34
-2015,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",5224538.55
-2016,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4583246.17
-2017,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4420352.51
-2018,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4248446.01
-2019,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",3669448.94
-2020,"Toe River Health District","Multi-County","Avery, Mitchell & Yancey",4019861.74
-2002,"Union County Health Department","Single","Union",5074971
-2003,"Union County Health Department","Single","Union",5354146
-2004,"Union County Health Department","Single","Union",5420127
-2005,"Union County Health Department","Single","Union",5689220
-2006,"Union County Health Department","Single","Union",6328108
-2007,"Union County Health Department","Single","Union",7336064
-2008,"Union County Health Department","Single","Union",7886519
-2009,"Union County Health Department","Single","Union",8002664
-2010,"Union County Health Department","Single","Union",8187069
-2011,"Union County Health Department","Single","Union",8351741
-2012,"Union County Health Department","Single","Union",8424560
-2013,"Union County Health Department","Single","Union",8539057
-2014,"Union County Health Department","Single","Union",7686943
-2015,"Union County Health Department","Single","Union",8509862
-2016,"Union County Health Department","Single","Union",9002363
-2017,"Union County Health Department","Single","Union",9084694
-2018,"Union County Health Department","Single","Union",7652358
-2019,"Union County Health Department","Single","Union",8834259
-2020,"Union County Health Department","Single","Union",10234129
-1999,"Lee County Health Department","Single","Lee",1837865
-2000,"Lee County Health Department","Single","Lee",2024757
-2001,"Lee County Health Department","Single","Lee",2561500
-2002,"Lee County Health Department","Single","Lee",2294034
-2003,"Lee County Health Department","Single","Lee",2319318
-2004,"Lee County Health Department","Single","Lee",2655771.27
-2005,"Lee County Health Department","Single","Lee",2846061.53
-2006,"Lee County Health Department","Single","Lee",2873287
-2007,"Lee County Health Department","Single","Lee",3416298
-2008,"Lee County Health Department","Single","Lee",3138364
-2009,"Lee County Health Department","Single","Lee",3042637
-2010,"Lee County Health Department","Single","Lee",2730273
-2011,"Lee County Health Department","Single","Lee",2538417
-2012,"Lee County Health Department","Single","Lee",2635486
-2013,"Lee County Health Department","Single","Lee",2883198
-2014,"Lee County Health Department","Single","Lee",2707876
-2015,"Lee County Health Department","Single","Lee",2785050
-2016,"Lee County Health Department","Single","Lee",3028487
-2017,"Lee County Health Department","Single","Lee",3020591
-2018,"Lee County Health Department","Single","Lee",3076395
-2019,"Lee County Health Department","Single","Lee",3161580.88
-2020,"Lee County Health Department","Single","Lee",2855191.4
-2008,"Burke County Health Department","Single","Burke",4247320
-2009,"Burke County Health Department","Single","Burke",4054646
-2010,"Burke County Health Department","Single","Burke",3551815
-2011,"Burke County Health Department","Single","Burke",3343688
-2012,"Burke County Health Department","Single","Burke",3094637
-2013,"Burke County Health Department","Single","Burke",2958593
-2014,"Burke County Health Department","Single","Burke",2964915
-2015,"Burke County Health Department","Single","Burke",3028424
-2016,"Burke County Health Department","Single","Burke",2958051
-2017,"Burke County Health Department","Single","Burke",2961867
-2018,"Burke County Health Department","Single","Burke",3099064
-2019,"Burke County Health Department","Single","Burke",3212055
-2005,"Moore County Health Department","Single","Moore",4041286
-2006,"Moore County Health Department","Single","Moore",4272969
-2007,"Moore County Health Department","Single","Moore",4512321
-2008,"Moore County Health Department","Single","Moore",4739038
-2009,"Moore County Health Department","Single","Moore",5188070
-2010,"Moore County Health Department","Single","Moore",5023285
-2011,"Moore County Health Department","Single","Moore",4516788
-2012,"Moore County Health Department","Single","Moore",4486158
-2013,"Moore County Health Department","Single","Moore",4004598
-2014,"Moore County Health Department","Single","Moore",3570719
-2015,"Moore County Health Department","Single","Moore",3610009
-2016,"Moore County Health Department","Single","Moore",3658433
-2017,"Moore County Health Department","Single","Moore",3348163
-2018,"Moore County Health Department","Single","Moore",3539264
-2019,"Moore County Health Department","Single","Moore",3821816
-1999,"Stanly County Health Department","Single","Stanly",1871126
-2000,"Stanly County Health Department","Single","Stanly",1275845
-2001,"Stanly County Health Department","Single","Stanly",1257349
-2002,"Stanly County Health Department","Single","Stanly",1274819
-2003,"Stanly County Health Department","Single","Stanly",1390450
-2004,"Stanly County Health Department","Single","Stanly",1611841
-2005,"Stanly County Health Department","Single","Stanly",1702046
-2006,"Stanly County Health Department","Single","Stanly",1806362
-2007,"Stanly County Health Department","Single","Stanly",1909434
-2008,"Stanly County Health Department","Single","Stanly",2074068
-2009,"Stanly County Health Department","Single","Stanly",2171709.05
-2010,"Stanly County Health Department","Single","Stanly",2191594.15
-2011,"Stanly County Health Department","Single","Stanly",2316979.36
-2012,"Stanly County Health Department","Single","Stanly",2396147.06
-2013,"Stanly County Health Department","Single","Stanly",2373878.93
-2014,"Stanly County Health Department","Single","Stanly",2372101.01
-2015,"Stanly County Health Department","Single","Stanly",2475795.02
-2016,"Stanly County Health Department","Single","Stanly",2467129.67
-2017,"Stanly County Health Department","Single","Stanly",2492321.7
-2018,"Stanly County Health Department","Single","Stanly",2593025.86
-2019,"Stanly County Health Department","Single","Stanly",2710590.81
-2020,"Stanly County Health Department","Single","Stanly",2886105
-2018,"Surry County Health Department","Single","Surry",13434038
-2019,"Surry County Health Department","Single","Surry",13887427
-2020,"Surry County Health Department","Single","Surry",14695867
-2018,"Wilkes County Health Department","Single","Wilkes",5791841.07
-2019,"Wilkes County Health Department","Single","Wilkes",6231349.85
-2020,"Wilkes County Health Department","Single","Wilkes",6340371.95
-1999,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7387676
-2000,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5897575
-2001,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5862105
-2002,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5951460
-2003,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7074978
-2004,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7541548
-2005,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",8253957
-2006,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7890618
-2007,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7253528
-2008,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6887891
-2009,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7315583
-2010,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7828145
-2011,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7855919
-2012,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7590651
-2013,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7543462
-2014,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",7437421
-2015,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6301365
-2016,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5916762
-2017,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",5999164
-2018,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6028625
-2019,"Martin-Tyrrell-Washington District Health","Multi-County","Martin, Tyrrell & Washington",6560934
-2009,"Wake County Health Department","Single","Wake",76972076
-2010,"Wake County Health Department","Single","Wake",79391383
-2011,"Wake County Health Department","Single","Wake",79490552
-2012,"Wake County Health Department","Single","Wake",74369935
-2013,"Wake County Health Department","Single","Wake",39852467
-2014,"Wake County Health Department","Single","Wake",38099704
-2015,"Wake County Health Department","Single","Wake",40516034
-2016,"Wake County Health Department","Single","Wake",42869438
-2017,"Wake County Health Department","Single","Wake",43397601
-2018,"Wake County Health Department","Single","Wake",46664534
-2019,"Wake County Health Department","Single","Wake",50374341
+2000,"Alamance County Health Department","single","Alamance",4352958
+2001,"Alamance County Health Department","single","Alamance",4314089
+2002,"Alamance County Health Department","single","Alamance",4515596
+2003,"Alamance County Health Department","single","Alamance",4559553
+2004,"Alamance County Health Department","single","Alamance",4917551
+2005,"Alamance County Health Department","single","Alamance",4845550
+2006,"Alamance County Health Department","single","Alamance",5331214
+2007,"Alamance County Health Department","single","Alamance",5958252
+2008,"Alamance County Health Department","single","Alamance",6222759
+2009,"Alamance County Health Department","single","Alamance",6392230
+2010,"Alamance County Health Department","single","Alamance",6488686
+2011,"Alamance County Health Department","single","Alamance",6175350
+2012,"Alamance County Health Department","single","Alamance",6476620
+2013,"Alamance County Health Department","single","Alamance",6829289
+2014,"Alamance County Health Department","single","Alamance",6798242
+2015,"Alamance County Health Department","single","Alamance",7235969
+2016,"Alamance County Health Department","single","Alamance",6952964
+2017,"Alamance County Health Department","single","Alamance",7223957
+2018,"Alamance County Health Department","single","Alamance",7817859
+2019,"Alamance County Health Department","single","Alamance",7777295
+2020,"Alamance County Health Department","single","Alamance",7833694
+2003,"Alexander County Health Department","single","Alexander",1781515.38
+2004,"Alexander County Health Department","single","Alexander",1995524.86
+2005,"Alexander County Health Department","single","Alexander",2091490.77
+2006,"Alexander County Health Department","single","Alexander",2247851.61
+2007,"Alexander County Health Department","single","Alexander",2513023.16
+2008,"Alexander County Health Department","single","Alexander",2638066.45
+2009,"Alexander County Health Department","single","Alexander",2687628.82
+2010,"Alexander County Health Department","single","Alexander",2763317.61
+2011,"Alexander County Health Department","single","Alexander",2784167.67
+2012,"Alexander County Health Department","single","Alexander",2911935.13
+2013,"Alexander County Health Department","single","Alexander",2833210.35
+2014,"Alexander County Health Department","single","Alexander",2807105.01
+2015,"Alexander County Health Department","single","Alexander",2876189
+2016,"Alexander County Health Department","single","Alexander",2574226.35
+2017,"Alexander County Health Department","single","Alexander",2191004.95
+2018,"Alexander County Health Department","single","Alexander",2376515.17
+2019,"Alexander County Health Department","single","Alexander",2637631.08
+2020,"Alexander County Health Department","single","Alexander",2603067.32
+2014,"Anson County Health Department","single","Anson",1315510
+2015,"Anson County Health Department","single","Anson",1702442
+2016,"Anson County Health Department","single","Anson",1822380
+2017,"Anson County Health Department","single","Anson",1688691
+2018,"Anson County Health Department","single","Anson",1830782
+2019,"Anson County Health Department","single","Anson",1806511
+2020,"Anson County Health Department","single","Anson",1617610
+2011,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",6204356
+2012,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",7128977
+2013,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",8753778
+2014,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",8016490
+2015,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",7133666
+2016,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",6518894
+2017,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",8157356
+2018,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",8227717
+2019,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",8612759
+2020,"Appalachian District Health Department","multi-county","Alleghany, Ashe, Watauga",706699
+2004,"Brunswick County Health Department","single","Brunswick",5234618
+2005,"Brunswick County Health Department","single","Brunswick",5724387
+2006,"Brunswick County Health Department","single","Brunswick",6684283
+2007,"Brunswick County Health Department","single","Brunswick",6589978
+2008,"Brunswick County Health Department","single","Brunswick",7305431
+2009,"Brunswick County Health Department","single","Brunswick",7629918
+2010,"Brunswick County Health Department","single","Brunswick",7734922
+2011,"Brunswick County Health Department","single","Brunswick",7521945
+2012,"Brunswick County Health Department","single","Brunswick",7163256
+2013,"Brunswick County Health Department","single","Brunswick",6383573
+2014,"Brunswick County Health Department","single","Brunswick",6593003
+2015,"Brunswick County Health Department","single","Brunswick",6844763
+2016,"Brunswick County Health Department","single","Brunswick",6399328
+2017,"Brunswick County Health Department","single","Brunswick",6981970
+2018,"Brunswick County Health Department","single","Brunswick",7041307
+2019,"Brunswick County Health Department","single","Brunswick",7492998
+2008,"Burke County Health Department","single","Burke",4247320
+2009,"Burke County Health Department","single","Burke",4054646
+2010,"Burke County Health Department","single","Burke",3551815
+2011,"Burke County Health Department","single","Burke",3343688
+2012,"Burke County Health Department","single","Burke",3094637
+2013,"Burke County Health Department","single","Burke",2958593
+2014,"Burke County Health Department","single","Burke",2964915
+2015,"Burke County Health Department","single","Burke",3028424
+2016,"Burke County Health Department","single","Burke",2958051
+2017,"Burke County Health Department","single","Burke",2961867
+2018,"Burke County Health Department","single","Burke",3099064
+2019,"Burke County Health Department","single","Burke",3212055
+2002,"Cabarrus County Health Department","single","Cabarrus",11909867
+2003,"Cabarrus County Health Department","single","Cabarrus",11821377
+2004,"Cabarrus County Health Department","single","Cabarrus",13504496
+2005,"Cabarrus County Health Department","single","Cabarrus",13996385
+2006,"Cabarrus County Health Department","single","Cabarrus",15570641
+2007,"Cabarrus County Health Department","single","Cabarrus",16451712
+2008,"Cabarrus County Health Department","single","Cabarrus",17973741
+2009,"Cabarrus County Health Department","single","Cabarrus",19771535
+2010,"Cabarrus County Health Department","single","Cabarrus",17523630
+2011,"Cabarrus County Health Department","single","Cabarrus",18765286
+2012,"Cabarrus County Health Department","single","Cabarrus",23110516
+2013,"Cabarrus County Health Department","single","Cabarrus",17764524
+2014,"Cabarrus County Health Department","single","Cabarrus",17570282
+2015,"Cabarrus County Health Department","single","Cabarrus",18723536
+2016,"Cabarrus County Health Department","single","Cabarrus",19997570
+2017,"Cabarrus County Health Department","single","Cabarrus",22705092
+2018,"Cabarrus County Health Department","single","Cabarrus",23687208
+2019,"Cabarrus County Health Department","single","Cabarrus",23889921
+2020,"Cabarrus County Health Department","single","Cabarrus",22556709
+2008,"Carteret County Health Department","single","Carteret",4342724
+2009,"Carteret County Health Department","single","Carteret",4075011
+2010,"Carteret County Health Department","single","Carteret",4036435
+2011,"Carteret County Health Department","single","Carteret",4098918
+2012,"Carteret County Health Department","single","Carteret",3908984
+2013,"Carteret County Health Department","single","Carteret",3903723
+2014,"Carteret County Health Department","single","Carteret",3791361
+2015,"Carteret County Health Department","single","Carteret",4217568
+2016,"Carteret County Health Department","single","Carteret",4171422
+2017,"Carteret County Health Department","single","Carteret",4426639
+2018,"Carteret County Health Department","single","Carteret",4574248
+2019,"Carteret County Health Department","single","Carteret",4772600
+2000,"Catawba County Health Department","single","Catawba",8447178.34
+2001,"Catawba County Health Department","single","Catawba",8344982.12
+2002,"Catawba County Health Department","single","Catawba",8228326.77
+2003,"Catawba County Health Department","single","Catawba",8667763.67
+2004,"Catawba County Health Department","single","Catawba",9529712.54
+2005,"Catawba County Health Department","single","Catawba",9876423.41
+2006,"Catawba County Health Department","single","Catawba",10101579.82
+2007,"Catawba County Health Department","single","Catawba",10693790.86
+2008,"Catawba County Health Department","single","Catawba",11485844.87
+2009,"Catawba County Health Department","single","Catawba",11733288.42
+2010,"Catawba County Health Department","single","Catawba",11986881.9
+2011,"Catawba County Health Department","single","Catawba",12135389.81
+2012,"Catawba County Health Department","single","Catawba",11656649.76
+2013,"Catawba County Health Department","single","Catawba",11285374.96
+2014,"Catawba County Health Department","single","Catawba",10566019.54
+2015,"Catawba County Health Department","single","Catawba",10277227.42
+2016,"Catawba County Health Department","single","Catawba",9087885.76
+2017,"Catawba County Health Department","single","Catawba",8031711.24
+2018,"Catawba County Health Department","single","Catawba",8294862.33
+2019,"Catawba County Health Department","single","Catawba",8586966.55
+2010,"Chatham County Health Department","single","Chatham",5462292
+2011,"Chatham County Health Department","single","Chatham",5658604
+2012,"Chatham County Health Department","single","Chatham",4925679
+2013,"Chatham County Health Department","single","Chatham",5190327
+2014,"Chatham County Health Department","single","Chatham",5316609
+2015,"Chatham County Health Department","single","Chatham",5318325
+2016,"Chatham County Health Department","single","Chatham",5544477
+2017,"Chatham County Health Department","single","Chatham",5510396
+2018,"Chatham County Health Department","single","Chatham",5905474
+2019,"Chatham County Health Department","single","Chatham",5327426
+2020,"Chatham County Health Department","single","Chatham",5431334
+1999,"Cleveland County Health Department","single","Cleveland",6557638
+2000,"Cleveland County Health Department","single","Cleveland",7840915
+2001,"Cleveland County Health Department","single","Cleveland",7762713
+2002,"Cleveland County Health Department","single","Cleveland",7274927
+2003,"Cleveland County Health Department","single","Cleveland",7319696
+2004,"Cleveland County Health Department","single","Cleveland",7308482
+2005,"Cleveland County Health Department","single","Cleveland",8090304
+2006,"Cleveland County Health Department","single","Cleveland",8504757
+2007,"Cleveland County Health Department","single","Cleveland",9150789
+2008,"Cleveland County Health Department","single","Cleveland",10172097
+2009,"Cleveland County Health Department","single","Cleveland",11556679
+2010,"Cleveland County Health Department","single","Cleveland",11072680
+2011,"Cleveland County Health Department","single","Cleveland",10521718
+2012,"Cleveland County Health Department","single","Cleveland",11535948
+2013,"Cleveland County Health Department","single","Cleveland",9077198
+2014,"Cleveland County Health Department","single","Cleveland",11538680
+2015,"Cleveland County Health Department","single","Cleveland",12571783
+2016,"Cleveland County Health Department","single","Cleveland",13138090
+2017,"Cleveland County Health Department","single","Cleveland",12515588
+2018,"Cleveland County Health Department","single","Cleveland",13504062
+2019,"Cleveland County Health Department","single","Cleveland",13915952
+2009,"Columbus County Health Department","single","Columbus",6620845.62
+2010,"Columbus County Health Department","single","Columbus",6283417.03
+2011,"Columbus County Health Department","single","Columbus",6110752.98
+2012,"Columbus County Health Department","single","Columbus",6258398.02
+2013,"Columbus County Health Department","single","Columbus",6145347.81
+2014,"Columbus County Health Department","single","Columbus",5846580.47
+2015,"Columbus County Health Department","single","Columbus",5723989.01
+2016,"Columbus County Health Department","single","Columbus",5290803.08
+2017,"Columbus County Health Department","single","Columbus",4895976.96
+2018,"Columbus County Health Department","single","Columbus",4238057.5
+2019,"Columbus County Health Department","single","Columbus",4244751.14
+2020,"Columbus County Health Department","single","Columbus",4734861.23
+2002,"Craven County Health Department","single","Craven",7020765
+2003,"Craven County Health Department","single","Craven",7254987
+2004,"Craven County Health Department","single","Craven",7762736
+2005,"Craven County Health Department","single","Craven",8142709
+2006,"Craven County Health Department","single","Craven",8170173
+2007,"Craven County Health Department","single","Craven",8547659
+2008,"Craven County Health Department","single","Craven",9351879
+2009,"Craven County Health Department","single","Craven",9538653
+2010,"Craven County Health Department","single","Craven",9517457
+2011,"Craven County Health Department","single","Craven",9743417
+2012,"Craven County Health Department","single","Craven",9699866
+2013,"Craven County Health Department","single","Craven",9841143
+2014,"Craven County Health Department","single","Craven",9349643
+2015,"Craven County Health Department","single","Craven",8888543
+2016,"Craven County Health Department","single","Craven",9510727
+2017,"Craven County Health Department","single","Craven",9470651
+2018,"Craven County Health Department","single","Craven",10279698
+2019,"Craven County Health Department","single","Craven",10914425
+2020,"Craven County Health Department","single","Craven",11656144
+1999,"Dare County Health Department","single","Dare",2574499
+2000,"Dare County Health Department","single","Dare",2634308
+2001,"Dare County Health Department","single","Dare",2886561
+2002,"Dare County Health Department","single","Dare",3190525
+2003,"Dare County Health Department","single","Dare",3817593
+2004,"Dare County Health Department","single","Dare",4009107
+2005,"Dare County Health Department","single","Dare",4292679
+2006,"Dare County Health Department","single","Dare",4816212
+2007,"Dare County Health Department","single","Dare",5213994
+2008,"Dare County Health Department","single","Dare",5827643
+2009,"Dare County Health Department","single","Dare",6811119
+2010,"Dare County Health Department","single","Dare",6453184
+2011,"Dare County Health Department","single","Dare",6373311
+2012,"Dare County Health Department","single","Dare",6489834
+2013,"Dare County Health Department","single","Dare",6406513
+2014,"Dare County Health Department","single","Dare",7023583
+2015,"Dare County Health Department","single","Dare",6957162
+2016,"Dare County Health Department","single","Dare",7014680
+2017,"Dare County Health Department","single","Dare",7481726
+2018,"Dare County Health Department","single","Dare",7623594
+2019,"Dare County Health Department","single","Dare",7917300
+2010,"Davidson County Health Department","single","Davidson",6566563
+2011,"Davidson County Health Department","single","Davidson",6907749
+2012,"Davidson County Health Department","single","Davidson",6644743
+1999,"Forsyth County Health Department","single","Forsyth",10871877
+2000,"Forsyth County Health Department","single","Forsyth",11626578
+2001,"Forsyth County Health Department","single","Forsyth",12320366
+2002,"Forsyth County Health Department","single","Forsyth",12775123
+2003,"Forsyth County Health Department","single","Forsyth",13979324
+2004,"Forsyth County Health Department","single","Forsyth",15659148
+2005,"Forsyth County Health Department","single","Forsyth",16922247
+2006,"Forsyth County Health Department","single","Forsyth",17794101
+2007,"Forsyth County Health Department","single","Forsyth",17835638
+2008,"Forsyth County Health Department","single","Forsyth",19194681
+2009,"Forsyth County Health Department","single","Forsyth",20231084
+2010,"Forsyth County Health Department","single","Forsyth",21184605
+2011,"Forsyth County Health Department","single","Forsyth",21011505
+2012,"Forsyth County Health Department","single","Forsyth",20104876
+2013,"Forsyth County Health Department","single","Forsyth",19971047
+2014,"Forsyth County Health Department","single","Forsyth",20423056
+2015,"Forsyth County Health Department","single","Forsyth",19925586
+2016,"Forsyth County Health Department","single","Forsyth",20807420
+2017,"Forsyth County Health Department","single","Forsyth",21634584
+2018,"Forsyth County Health Department","single","Forsyth",22295963
+2019,"Forsyth County Health Department","single","Forsyth",21981114
+2020,"Forsyth County Health Department","single","Forsyth",22934487
+2004,"Franklin County Health Department","single","Franklin",NA
+2005,"Franklin County Health Department","single","Franklin",NA
+2006,"Franklin County Health Department","single","Franklin",NA
+2007,"Franklin County Health Department","single","Franklin",NA
+2008,"Franklin County Health Department","single","Franklin",NA
+2009,"Franklin County Health Department","single","Franklin",NA
+2010,"Franklin County Health Department","single","Franklin",4999647
+2011,"Franklin County Health Department","single","Franklin",5275723
+2012,"Franklin County Health Department","single","Franklin",5006148
+2013,"Franklin County Health Department","single","Franklin",5148977
+2014,"Franklin County Health Department","single","Franklin",5120582
+2015,"Franklin County Health Department","single","Franklin",4660728
+2016,"Franklin County Health Department","single","Franklin",4660609
+2017,"Franklin County Health Department","single","Franklin",4820802
+2018,"Franklin County Health Department","single","Franklin",5186174
+2019,"Franklin County Health Department","single","Franklin",5456152
+1999,"Gaston County Health Department","single","Gaston",12449342
+2000,"Gaston County Health Department","single","Gaston",12928362
+2001,"Gaston County Health Department","single","Gaston",13121589
+2002,"Gaston County Health Department","single","Gaston",12469844
+2003,"Gaston County Health Department","single","Gaston",13332100
+2004,"Gaston County Health Department","single","Gaston",13587489
+2005,"Gaston County Health Department","single","Gaston",14924734
+2006,"Gaston County Health Department","single","Gaston",15966394
+2007,"Gaston County Health Department","single","Gaston",17322768
+2008,"Gaston County Health Department","single","Gaston",17132323
+2009,"Gaston County Health Department","single","Gaston",17777220
+2010,"Gaston County Health Department","single","Gaston",21823121
+2011,"Gaston County Health Department","single","Gaston",19405555
+2012,"Gaston County Health Department","single","Gaston",16813265
+2013,"Gaston County Health Department","single","Gaston",18228656
+2014,"Gaston County Health Department","single","Gaston",18679751
+2015,"Gaston County Health Department","single","Gaston",16527317
+2016,"Gaston County Health Department","single","Gaston",16965807
+2017,"Gaston County Health Department","single","Gaston",17046558
+2018,"Gaston County Health Department","single","Gaston",17854499
+2019,"Gaston County Health Department","single","Gaston",17668100
+2000,"Granville-Vance District Health Department","multi-county","Granville & Vance",4149703
+2001,"Granville-Vance District Health Department","multi-county","Granville & Vance",4287499
+2002,"Granville-Vance District Health Department","multi-county","Granville & Vance",4400298
+2003,"Granville-Vance District Health Department","multi-county","Granville & Vance",4399918
+2004,"Granville-Vance District Health Department","multi-county","Granville & Vance",4714279
+2005,"Granville-Vance District Health Department","multi-county","Granville & Vance",4952997
+2006,"Granville-Vance District Health Department","multi-county","Granville & Vance",4758035
+2007,"Granville-Vance District Health Department","multi-county","Granville & Vance",5002770
+2008,"Granville-Vance District Health Department","multi-county","Granville & Vance",5380923
+2009,"Granville-Vance District Health Department","multi-county","Granville & Vance",5396026
+2010,"Granville-Vance District Health Department","multi-county","Granville & Vance",5572060
+2011,"Granville-Vance District Health Department","multi-county","Granville & Vance",5466449
+2012,"Granville-Vance District Health Department","multi-county","Granville & Vance",5474729
+2013,"Granville-Vance District Health Department","multi-county","Granville & Vance",5704252
+2014,"Granville-Vance District Health Department","multi-county","Granville & Vance",6180133
+2015,"Granville-Vance District Health Department","multi-county","Granville & Vance",6055629
+2016,"Granville-Vance District Health Department","multi-county","Granville & Vance",5968541
+2017,"Granville-Vance District Health Department","multi-county","Granville & Vance",6072389
+2018,"Granville-Vance District Health Department","multi-county","Granville & Vance",6592721
+2019,"Granville-Vance District Health Department","multi-county","Granville & Vance",6662220
+2000,"Greene Health Department","single","Greene",1015216.68
+2001,"Greene Health Department","single","Greene",941375.26
+2002,"Greene Health Department","single","Greene",954526.51
+2003,"Greene Health Department","single","Greene",1005979.27
+2004,"Greene Health Department","single","Greene",1135021.4
+2005,"Greene Health Department","single","Greene",1272460.86
+2006,"Greene Health Department","single","Greene",1423119.81
+2007,"Greene Health Department","single","Greene",1539580.42
+2008,"Greene Health Department","single","Greene",1595064.21
+2009,"Greene Health Department","single","Greene",1709736.25
+2010,"Greene Health Department","single","Greene",1741202.26
+2011,"Greene Health Department","single","Greene",1474702.76
+2012,"Greene Health Department","single","Greene",1722153.53
+2013,"Greene Health Department","single","Greene",1603802.12
+2014,"Greene Health Department","single","Greene",1459167.85
+2015,"Greene Health Department","single","Greene",1441363.02
+2016,"Greene Health Department","single","Greene",1429305.59
+2017,"Greene Health Department","single","Greene",1523737.73
+2018,"Greene Health Department","single","Greene",1673625.01
+2019,"Greene Health Department","single","Greene",1685232.94
+1999,"Guilford County Health Department","single","Guilford",25876074
+2000,"Guilford County Health Department","single","Guilford",28403151
+2001,"Guilford County Health Department","single","Guilford",28652689
+2002,"Guilford County Health Department","single","Guilford",29306129
+2003,"Guilford County Health Department","single","Guilford",30318024
+2004,"Guilford County Health Department","single","Guilford",31413976
+2005,"Guilford County Health Department","single","Guilford",32698025
+2006,"Guilford County Health Department","single","Guilford",34095107
+2007,"Guilford County Health Department","single","Guilford",34621959
+2008,"Guilford County Health Department","single","Guilford",36124028
+2009,"Guilford County Health Department","single","Guilford",37030338
+2010,"Guilford County Health Department","single","Guilford",36994870
+2011,"Guilford County Health Department","single","Guilford",34915224
+2012,"Guilford County Health Department","single","Guilford",30741310
+2013,"Guilford County Health Department","single","Guilford",31257273
+2014,"Guilford County Health Department","single","Guilford",29323811
+2015,"Guilford County Health Department","single","Guilford",29812115
+2016,"Guilford County Health Department","single","Guilford",30106801
+2017,"Guilford County Health Department","single","Guilford",30893221
+2018,"Guilford County Health Department","single","Guilford",31664164
+2019,"Guilford County Health Department","single","Guilford",33529676
+2010,"Halifax County Health Department","single","Halifax",6306343
+2011,"Halifax County Health Department","single","Halifax",6081777
+2012,"Halifax County Health Department","single","Halifax",6401144
+2013,"Halifax County Health Department","single","Halifax",6317273
+2014,"Halifax County Health Department","single","Halifax",5762022
+2015,"Halifax County Health Department","single","Halifax",5964937
+2016,"Halifax County Health Department","single","Halifax",5951925
+2017,"Halifax County Health Department","single","Halifax",6143916
+2018,"Halifax County Health Department","single","Halifax",6098914
+2019,"Halifax County Health Department","single","Halifax",6182756
+2009,"Harnett County Health Department","single","Harnett",6320479.55
+2010,"Harnett County Health Department","single","Harnett",6458474.04
+2011,"Harnett County Health Department","single","Harnett",6191713.34
+2012,"Harnett County Health Department","single","Harnett",6030424
+2013,"Harnett County Health Department","single","Harnett",5881778.82
+2014,"Harnett County Health Department","single","Harnett",5614483.57
+2015,"Harnett County Health Department","single","Harnett",6014263.98
+2016,"Harnett County Health Department","single","Harnett",5869797.94
+2017,"Harnett County Health Department","single","Harnett",5565133.94
+2018,"Harnett County Health Department","single","Harnett",5558680.01
+2019,"Harnett County Health Department","single","Harnett",5784231.16
+2020,"Harnett County Health Department","single","Harnett",5510900.45
+1999,"Henderson County Health Department","single","Henderson",3447901
+2000,"Henderson County Health Department","single","Henderson",3724018
+2001,"Henderson County Health Department","single","Henderson",3961636
+2002,"Henderson County Health Department","single","Henderson",4094184
+2003,"Henderson County Health Department","single","Henderson",4561118
+2004,"Henderson County Health Department","single","Henderson",4917759
+2005,"Henderson County Health Department","single","Henderson",5079229
+2006,"Henderson County Health Department","single","Henderson",4524543
+2007,"Henderson County Health Department","single","Henderson",5123841
+2008,"Henderson County Health Department","single","Henderson",5189325
+2009,"Henderson County Health Department","single","Henderson",5756425
+2010,"Henderson County Health Department","single","Henderson",5844857
+2011,"Henderson County Health Department","single","Henderson",5907205
+2012,"Henderson County Health Department","single","Henderson",5415206
+2013,"Henderson County Health Department","single","Henderson",5554933
+2014,"Henderson County Health Department","single","Henderson",5438219
+2015,"Henderson County Health Department","single","Henderson",5705652
+2016,"Henderson County Health Department","single","Henderson",6230056
+2017,"Henderson County Health Department","single","Henderson",6401837
+2018,"Henderson County Health Department","single","Henderson",6687190
+2019,"Henderson County Health Department","single","Henderson",6998090
+2009,"Hyde County Health Department","single","Hyde",1192675.79
+2010,"Hyde County Health Department","single","Hyde",1589018.18
+2011,"Hyde County Health Department","single","Hyde",1462649.57
+2012,"Hyde County Health Department","single","Hyde",1516007.17
+2013,"Hyde County Health Department","single","Hyde",1474192.33
+2014,"Hyde County Health Department","single","Hyde",1413173.52
+2015,"Hyde County Health Department","single","Hyde",1458499.4
+2016,"Hyde County Health Department","single","Hyde",1560293.57
+2017,"Hyde County Health Department","single","Hyde",1257665.11
+2018,"Hyde County Health Department","single","Hyde",1042601.95
+2019,"Hyde County Health Department","single","Hyde",1262387.66
+2020,"Hyde County Health Department","single","Hyde",1432867.79
+1999,"Iredell County Health Department","single","Iredell",3958273
+2000,"Iredell County Health Department","single","Iredell",4101054
+2001,"Iredell County Health Department","single","Iredell",4368675
+2002,"Iredell County Health Department","single","Iredell",4591632
+2003,"Iredell County Health Department","single","Iredell",5010066
+2004,"Iredell County Health Department","single","Iredell",5264056
+2005,"Iredell County Health Department","single","Iredell",5451654
+2006,"Iredell County Health Department","single","Iredell",6020144
+2007,"Iredell County Health Department","single","Iredell",6664076
+2008,"Iredell County Health Department","single","Iredell",7461442
+2009,"Iredell County Health Department","single","Iredell",7743202
+2010,"Iredell County Health Department","single","Iredell",7844950
+2011,"Iredell County Health Department","single","Iredell",7442226
+2012,"Iredell County Health Department","single","Iredell",7599940
+2013,"Iredell County Health Department","single","Iredell",7318916
+2014,"Iredell County Health Department","single","Iredell",7556585
+2015,"Iredell County Health Department","single","Iredell",7416907
+2016,"Iredell County Health Department","single","Iredell",7625208
+2017,"Iredell County Health Department","single","Iredell",7993880
+2018,"Iredell County Health Department","single","Iredell",8250859
+2019,"Iredell County Health Department","single","Iredell",8593066
+1999,"Jackson County Health Department","single","Jackson",2351694
+2000,"Jackson County Health Department","single","Jackson",2345196
+2001,"Jackson County Health Department","single","Jackson",2612625
+2002,"Jackson County Health Department","single","Jackson",2738753
+2003,"Jackson County Health Department","single","Jackson",2980996
+2004,"Jackson County Health Department","single","Jackson",2953954
+2005,"Jackson County Health Department","single","Jackson",3195040
+2006,"Jackson County Health Department","single","Jackson",3435472
+2007,"Jackson County Health Department","single","Jackson",3672056
+2008,"Jackson County Health Department","single","Jackson",3908666
+2009,"Jackson County Health Department","single","Jackson",4049887
+2010,"Jackson County Health Department","single","Jackson",4098089.44
+2011,"Jackson County Health Department","single","Jackson",4279163.3
+2012,"Jackson County Health Department","single","Jackson",4292195
+2013,"Jackson County Health Department","single","Jackson",4464273.05
+2014,"Jackson County Health Department","single","Jackson",4382283
+2015,"Jackson County Health Department","single","Jackson",4166957.24
+2016,"Jackson County Health Department","single","Jackson",4331697.13
+2017,"Jackson County Health Department","single","Jackson",4479261.92
+2018,"Jackson County Health Department","single","Jackson",4463653.24
+2019,"Jackson County Health Department","single","Jackson",4947832.89
+2020,"Jackson County Health Department","single","Jackson",4784580.84
+2005,"Johnston County Health Department","single","Johnston",5847556
+2007,"Johnston County Health Department","single","Johnston",6718864
+2008,"Johnston County Health Department","single","Johnston",7329873
+2009,"Johnston County Health Department","single","Johnston",7613409
+2010,"Johnston County Health Department","single","Johnston",7462867
+2011,"Johnston County Health Department","single","Johnston",7541941
+2012,"Johnston County Health Department","single","Johnston",7223443
+2013,"Johnston County Health Department","single","Johnston",9141410
+2014,"Johnston County Health Department","single","Johnston",11272374
+2015,"Johnston County Health Department","single","Johnston",11825260
+2016,"Johnston County Health Department","single","Johnston",12683961
+2017,"Johnston County Health Department","single","Johnston",13240554
+2018,"Johnston County Health Department","single","Johnston",13977295
+2019,"Johnston County Health Department","single","Johnston",14206353
+2020,"Johnston County Health Department","single","Johnston",13533468
+2005,"Jones County Health Department","single","Jones",1057467
+2006,"Jones County Health Department","single","Jones",948979
+2007,"Jones County Health Department","single","Jones",847751
+2008,"Jones County Health Department","single","Jones",1029169
+2009,"Jones County Health Department","single","Jones",1166437
+2010,"Jones County Health Department","single","Jones",1273596
+2011,"Jones County Health Department","single","Jones",1113625
+2012,"Jones County Health Department","single","Jones",1041434
+2013,"Jones County Health Department","single","Jones",949014
+2014,"Jones County Health Department","single","Jones",949693
+2015,"Jones County Health Department","single","Jones",892946
+2016,"Jones County Health Department","single","Jones",974741
+2017,"Jones County Health Department","single","Jones",924449
+2018,"Jones County Health Department","single","Jones",900836
+2019,"Jones County Health Department","single","Jones",1010820
+1999,"Lee County Health Department","single","Lee",1837865
+2000,"Lee County Health Department","single","Lee",2024757
+2001,"Lee County Health Department","single","Lee",2561500
+2002,"Lee County Health Department","single","Lee",2294034
+2003,"Lee County Health Department","single","Lee",2319318
+2004,"Lee County Health Department","single","Lee",2655771.27
+2005,"Lee County Health Department","single","Lee",2846061.53
+2006,"Lee County Health Department","single","Lee",2873287
+2007,"Lee County Health Department","single","Lee",3416298
+2008,"Lee County Health Department","single","Lee",3138364
+2009,"Lee County Health Department","single","Lee",3042637
+2010,"Lee County Health Department","single","Lee",2730273
+2011,"Lee County Health Department","single","Lee",2538417
+2012,"Lee County Health Department","single","Lee",2635486
+2013,"Lee County Health Department","single","Lee",2883198
+2014,"Lee County Health Department","single","Lee",2707876
+2015,"Lee County Health Department","single","Lee",2785050
+2016,"Lee County Health Department","single","Lee",3028487
+2017,"Lee County Health Department","single","Lee",3020591
+2018,"Lee County Health Department","single","Lee",3076395
+2019,"Lee County Health Department","single","Lee",3161580.88
+2020,"Lee County Health Department","single","Lee",2855191.4
+2008,"Lenoir County Health Department","single","Lenoir",3063748
+2009,"Lenoir County Health Department","single","Lenoir",3103985
+2010,"Lenoir County Health Department","single","Lenoir",3103421
+2011,"Lenoir County Health Department","single","Lenoir",3266534
+2012,"Lenoir County Health Department","single","Lenoir",3442435
+2013,"Lenoir County Health Department","single","Lenoir",3352090
+2014,"Lenoir County Health Department","single","Lenoir",3396399
+2015,"Lenoir County Health Department","single","Lenoir",3689023
+2016,"Lenoir County Health Department","single","Lenoir",3880719
+2017,"Lenoir County Health Department","single","Lenoir",3532664
+2018,"Lenoir County Health Department","single","Lenoir",3463486
+2019,"Lenoir County Health Department","single","Lenoir",3866269
+1998,"Lincoln County Health Department","single","Lincoln",2832336
+1999,"Lincoln County Health Department","single","Lincoln",2932898
+2000,"Lincoln County Health Department","single","Lincoln",3081100
+2001,"Lincoln County Health Department","single","Lincoln",3135560
+2002,"Lincoln County Health Department","single","Lincoln",3314015
+2003,"Lincoln County Health Department","single","Lincoln",3574920
+2004,"Lincoln County Health Department","single","Lincoln",3897704
+2005,"Lincoln County Health Department","single","Lincoln",3881751
+2006,"Lincoln County Health Department","single","Lincoln",4312805
+2007,"Lincoln County Health Department","single","Lincoln",4840531
+2008,"Lincoln County Health Department","single","Lincoln",4999244
+2009,"Lincoln County Health Department","single","Lincoln",5089200
+2010,"Lincoln County Health Department","single","Lincoln",5301387
+2011,"Lincoln County Health Department","single","Lincoln",5432456
+2012,"Lincoln County Health Department","single","Lincoln",5182597
+2013,"Lincoln County Health Department","single","Lincoln",5255870
+2014,"Lincoln County Health Department","single","Lincoln",5067177
+2015,"Lincoln County Health Department","single","Lincoln",4991734
+2016,"Lincoln County Health Department","single","Lincoln",4327825
+2017,"Lincoln County Health Department","single","Lincoln",4348133
+2018,"Lincoln County Health Department","single","Lincoln",4417331
+2019,"Lincoln County Health Department","single","Lincoln",4847658
+2020,"Lincoln County Health Department","single","Lincoln",5161890
+2001,"Madison County Health Department","single","Madison",889814.73
+2002,"Madison County Health Department","single","Madison",963567.04
+2003,"Madison County Health Department","single","Madison",1175505.1
+2004,"Madison County Health Department","single","Madison",1053106.66
+2005,"Madison County Health Department","single","Madison",1166634.4
+2006,"Madison County Health Department","single","Madison",1332078.95
+2007,"Madison County Health Department","single","Madison",1243229.39
+2008,"Madison County Health Department","single","Madison",1714720.4
+2009,"Madison County Health Department","single","Madison",2211913.8
+2010,"Madison County Health Department","single","Madison",2490454.83
+2011,"Madison County Health Department","single","Madison",2360427.22
+2012,"Madison County Health Department","single","Madison",2188734.06
+2013,"Madison County Health Department","single","Madison",2657316.35
+2014,"Madison County Health Department","single","Madison",2778522.55
+2015,"Madison County Health Department","single","Madison",2765190.67
+2016,"Madison County Health Department","single","Madison",2820975.58
+2017,"Madison County Health Department","single","Madison",2888826.9
+2018,"Madison County Health Department","single","Madison",2754209.59
+2019,"Madison County Health Department","single","Madison",3059660.38
+2020,"Madison County Health Department","single","Madison",2935162.16
+1999,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7387676
+2000,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",5897575
+2001,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",5862105
+2002,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",5951460
+2003,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7074978
+2004,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7541548
+2005,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",8253957
+2006,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7890618
+2007,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7253528
+2008,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",6887891
+2009,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7315583
+2010,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7828145
+2011,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7855919
+2012,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7590651
+2013,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7543462
+2014,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",7437421
+2015,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",6301365
+2016,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",5916762
+2017,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",5999164
+2018,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",6028625
+2019,"Martin-Tyrrell-Washington District Health","multi-county","Martin, Tyrrell & Washington",6560934
+2006,"Mecklenburg County Health Department","single","Mecklenburg",28231523.25
+2007,"Mecklenburg County Health Department","single","Mecklenburg",28673187.43
+2008,"Mecklenburg County Health Department","single","Mecklenburg",32077463.24
+2009,"Mecklenburg County Health Department","single","Mecklenburg",33222938.35
+2010,"Mecklenburg County Health Department","single","Mecklenburg",37122799.41
+2011,"Mecklenburg County Health Department","single","Mecklenburg",38392329.59
+2012,"Mecklenburg County Health Department","single","Mecklenburg",35538036.78
+2013,"Mecklenburg County Health Department","single","Mecklenburg",38529966.98
+2014,"Mecklenburg County Health Department","single","Mecklenburg",37664036.99
+2015,"Mecklenburg County Health Department","single","Mecklenburg",49579744.97
+2016,"Mecklenburg County Health Department","single","Mecklenburg",64778295.73
+2017,"Mecklenburg County Health Department","single","Mecklenburg",69546706.07
+2018,"Mecklenburg County Health Department","single","Mecklenburg",73079043.96
+2019,"Mecklenburg County Health Department","single","Mecklenburg",76803874.85
+2020,"Mecklenburg County Health Department","single","Mecklenburg",75976723.65
+2003,"Montgomery County Health Department","single","Montgomery",1621910
+2004,"Montgomery County Health Department","single","Montgomery",1749836
+2005,"Montgomery County Health Department","single","Montgomery",1813391
+2006,"Montgomery County Health Department","single","Montgomery",1658627
+2007,"Montgomery County Health Department","single","Montgomery",2015587
+2008,"Montgomery County Health Department","single","Montgomery",2234246
+2009,"Montgomery County Health Department","single","Montgomery",2067824
+2010,"Montgomery County Health Department","single","Montgomery",2062147
+2011,"Montgomery County Health Department","single","Montgomery",1752104
+2012,"Montgomery County Health Department","single","Montgomery",1851399
+2013,"Montgomery County Health Department","single","Montgomery",1848198
+2014,"Montgomery County Health Department","single","Montgomery",1849089
+2015,"Montgomery County Health Department","single","Montgomery",1741791
+2016,"Montgomery County Health Department","single","Montgomery",1857275
+2017,"Montgomery County Health Department","single","Montgomery",1870445
+2018,"Montgomery County Health Department","single","Montgomery",1887144
+2019,"Montgomery County Health Department","single","Montgomery",1816312
+2005,"Moore County Health Department","single","Moore",4041286
+2006,"Moore County Health Department","single","Moore",4272969
+2007,"Moore County Health Department","single","Moore",4512321
+2008,"Moore County Health Department","single","Moore",4739038
+2009,"Moore County Health Department","single","Moore",5188070
+2010,"Moore County Health Department","single","Moore",5023285
+2011,"Moore County Health Department","single","Moore",4516788
+2012,"Moore County Health Department","single","Moore",4486158
+2013,"Moore County Health Department","single","Moore",4004598
+2014,"Moore County Health Department","single","Moore",3570719
+2015,"Moore County Health Department","single","Moore",3610009
+2016,"Moore County Health Department","single","Moore",3658433
+2017,"Moore County Health Department","single","Moore",3348163
+2018,"Moore County Health Department","single","Moore",3539264
+2019,"Moore County Health Department","single","Moore",3821816
+2010,"New Hanover County Health Department","single","New Hanover",14786984
+2011,"New Hanover County Health Department","single","New Hanover",14412896
+2012,"New Hanover County Health Department","single","New Hanover",13677840
+2013,"New Hanover County Health Department","single","New Hanover",15135781
+2014,"New Hanover County Health Department","single","New Hanover",13493654
+2015,"New Hanover County Health Department","single","New Hanover",12604079
+2016,"New Hanover County Health Department","single","New Hanover",12654800
+2017,"New Hanover County Health Department","single","New Hanover",12694408
+2018,"New Hanover County Health Department","single","New Hanover",13058753
+2019,"New Hanover County Health Department","single","New Hanover",13598103
+2020,"New Hanover County Health Department","single","New Hanover",13745003
+2017,"Onslow County Health Department","single","Onslow",7299937.59
+2018,"Onslow County Health Department","single","Onslow",7252608.85
+2019,"Onslow County Health Department","single","Onslow",9544997.9
+2020,"Onslow County Health Department","single","Onslow",9789015.37
+2003,"Orange County Health Department","single","Orange",6053459
+2004,"Orange County Health Department","single","Orange",7420413
+2005,"Orange County Health Department","single","Orange",6759296
+2006,"Orange County Health Department","single","Orange",6323932
+2007,"Orange County Health Department","single","Orange",6666353
+2008,"Orange County Health Department","single","Orange",7085936
+2009,"Orange County Health Department","single","Orange",7122479
+2010,"Orange County Health Department","single","Orange",7293214
+2011,"Orange County Health Department","single","Orange",7101731
+2012,"Orange County Health Department","single","Orange",6932715
+2013,"Orange County Health Department","single","Orange",7435288
+2014,"Orange County Health Department","single","Orange",7718188
+2015,"Orange County Health Department","single","Orange",8069020
+2016,"Orange County Health Department","single","Orange",8692992
+2017,"Orange County Health Department","single","Orange",9166051
+2018,"Orange County Health Department","single","Orange",9797459
+2019,"Orange County Health Department","single","Orange",10290730
+2017,"Pender County Health Department","single","Pender",4997120.99
+2018,"Pender County Health Department","single","Pender",5907017.95
+2019,"Pender County Health Department","single","Pender",5413373.12
+2020,"Pender County Health Department","single","Pender",5498142.06
+2016,"Pender County Health Department","single","Pender",5170409
+2015,"Pender County Health Department","single","Pender",5040945
+2014,"Pender County Health Department","single","Pender",5665936
+2013,"Pender County Health Department","single","Pender",3919448
+2012,"Pender County Health Department","single","Pender",3226174
+2011,"Pender County Health Department","single","Pender",4067948
+1999,"Person County Health Department","single","Person",2855509
+2000,"Person County Health Department","single","Person",2846473
+2001,"Person County Health Department","single","Person",3151512
+2002,"Person County Health Department","single","Person",3066940
+2003,"Person County Health Department","single","Person",3256738
+2004,"Person County Health Department","single","Person",3515646
+2005,"Person County Health Department","single","Person",3645113
+2006,"Person County Health Department","single","Person",4095892
+2007,"Person County Health Department","single","Person",4290096
+2008,"Person County Health Department","single","Person",4562825
+2009,"Person County Health Department","single","Person",4481513
+2010,"Person County Health Department","single","Person",4268046
+2011,"Person County Health Department","single","Person",4158153
+2012,"Person County Health Department","single","Person",4148843
+2013,"Person County Health Department","single","Person",4776353
+2014,"Person County Health Department","single","Person",4615460
+2015,"Person County Health Department","single","Person",4182492
+2016,"Person County Health Department","single","Person",4082394
+2017,"Person County Health Department","single","Person",3927991
+2018,"Person County Health Department","single","Person",3564406
+2019,"Person County Health Department","single","Person",3014546
+2003,"Pitt County Health Department","single","Pitt",6184924
+2004,"Pitt County Health Department","single","Pitt",6683792
+2005,"Pitt County Health Department","single","Pitt",7082746
+2006,"Pitt County Health Department","single","Pitt",7415076
+2007,"Pitt County Health Department","single","Pitt",7830224
+2008,"Pitt County Health Department","single","Pitt",8720549
+2009,"Pitt County Health Department","single","Pitt",9421656
+2010,"Pitt County Health Department","single","Pitt",10280075
+2011,"Pitt County Health Department","single","Pitt",9924185
+2012,"Pitt County Health Department","single","Pitt",9505483
+2013,"Pitt County Health Department","single","Pitt",8904408
+2014,"Pitt County Health Department","single","Pitt",8997360
+2015,"Pitt County Health Department","single","Pitt",8968160
+2016,"Pitt County Health Department","single","Pitt",9174193
+2017,"Pitt County Health Department","single","Pitt",9718345
+2018,"Pitt County Health Department","single","Pitt",10544823
+2019,"Pitt County Health Department","single","Pitt",10493986
+1999,"Richmond County Health Department","single","Richmond",2496715
+2000,"Richmond County Health Department","single","Richmond",2620223
+2001,"Richmond County Health Department","single","Richmond",2721767
+2002,"Richmond County Health Department","single","Richmond",2944108
+2003,"Richmond County Health Department","single","Richmond",2878198
+2004,"Richmond County Health Department","single","Richmond",3181871
+2005,"Richmond County Health Department","single","Richmond",3324134
+2006,"Richmond County Health Department","single","Richmond",3478422
+2007,"Richmond County Health Department","single","Richmond",3512077
+2008,"Richmond County Health Department","single","Richmond",3770740
+2009,"Richmond County Health Department","single","Richmond",4017405
+2010,"Richmond County Health Department","single","Richmond",4073929
+2011,"Richmond County Health Department","single","Richmond",4081635
+2012,"Richmond County Health Department","single","Richmond",4274141
+2013,"Richmond County Health Department","single","Richmond",4315499
+2014,"Richmond County Health Department","single","Richmond",4729615
+2015,"Richmond County Health Department","single","Richmond",4332125
+2016,"Richmond County Health Department","single","Richmond",4897206
+2017,"Richmond County Health Department","single","Richmond",5092253
+2018,"Richmond County Health Department","single","Richmond",5393344
+2019,"Richmond County Health Department","single","Richmond",5604262
+2008,"Rockingham County Health Department","single","Rockingham",5369741
+2009,"Rockingham County Health Department","single","Rockingham",5250195
+2010,"Rockingham County Health Department","single","Rockingham",5206016
+2011,"Rockingham County Health Department","single","Rockingham",5182041
+2012,"Rockingham County Health Department","single","Rockingham",5159261
+2013,"Rockingham County Health Department","single","Rockingham",5405212
+2014,"Rockingham County Health Department","single","Rockingham",5339450
+2015,"Rockingham County Health Department","single","Rockingham",5251099
+2016,"Rockingham County Health Department","single","Rockingham",5223283
+2017,"Rockingham County Health Department","single","Rockingham",5511305
+2018,"Rockingham County Health Department","single","Rockingham",5431356
+2019,"Rockingham County Health Department","single","Rockingham",5362831
+1999,"Rowan County Health Department","single","Rowan",3259473
+2000,"Rowan County Health Department","single","Rowan",3510640
+2001,"Rowan County Health Department","single","Rowan",3680918
+2002,"Rowan County Health Department","single","Rowan",3717671
+2003,"Rowan County Health Department","single","Rowan",3960901
+2004,"Rowan County Health Department","single","Rowan",4472536
+2005,"Rowan County Health Department","single","Rowan",4478524
+2006,"Rowan County Health Department","single","Rowan",4478722
+2007,"Rowan County Health Department","single","Rowan",4717116
+2008,"Rowan County Health Department","single","Rowan",5245882
+2009,"Rowan County Health Department","single","Rowan",5673984
+2010,"Rowan County Health Department","single","Rowan",5629894
+2011,"Rowan County Health Department","single","Rowan",5831706
+2012,"Rowan County Health Department","single","Rowan",5468188
+2013,"Rowan County Health Department","single","Rowan",5626549
+2014,"Rowan County Health Department","single","Rowan",5278684
+2015,"Rowan County Health Department","single","Rowan",5274882
+2016,"Rowan County Health Department","single","Rowan",5336371
+2017,"Rowan County Health Department","single","Rowan",5508316
+2018,"Rowan County Health Department","single","Rowan",5587848
+2019,"Rowan County Health Department","single","Rowan",5836872
+1999,"Stanly County Health Department","single","Stanly",1871126
+2000,"Stanly County Health Department","single","Stanly",1275845
+2001,"Stanly County Health Department","single","Stanly",1257349
+2002,"Stanly County Health Department","single","Stanly",1274819
+2003,"Stanly County Health Department","single","Stanly",1390450
+2004,"Stanly County Health Department","single","Stanly",1611841
+2005,"Stanly County Health Department","single","Stanly",1702046
+2006,"Stanly County Health Department","single","Stanly",1806362
+2007,"Stanly County Health Department","single","Stanly",1909434
+2008,"Stanly County Health Department","single","Stanly",2074068
+2009,"Stanly County Health Department","single","Stanly",2171709.05
+2010,"Stanly County Health Department","single","Stanly",2191594.15
+2011,"Stanly County Health Department","single","Stanly",2316979.36
+2012,"Stanly County Health Department","single","Stanly",2396147.06
+2013,"Stanly County Health Department","single","Stanly",2373878.93
+2014,"Stanly County Health Department","single","Stanly",2372101.01
+2015,"Stanly County Health Department","single","Stanly",2475795.02
+2016,"Stanly County Health Department","single","Stanly",2467129.67
+2017,"Stanly County Health Department","single","Stanly",2492321.7
+2018,"Stanly County Health Department","single","Stanly",2593025.86
+2019,"Stanly County Health Department","single","Stanly",2710590.81
+2020,"Stanly County Health Department","single","Stanly",2886105
+2018,"Surry County Health Department","single","Surry",13434038
+2019,"Surry County Health Department","single","Surry",13887427
+2020,"Surry County Health Department","single","Surry",14695867
+2002,"Swain County Health Department","single","Swain",2811706.19
+2003,"Swain County Health Department","single","Swain",2092495.52
+2004,"Swain County Health Department","single","Swain",1828425.7
+2005,"Swain County Health Department","single","Swain",1886895.31
+2006,"Swain County Health Department","single","Swain",1871853.17
+2007,"Swain County Health Department","single","Swain",1680830.36
+2008,"Swain County Health Department","single","Swain",1923205.39
+2009,"Swain County Health Department","single","Swain",1817113.55
+2010,"Swain County Health Department","single","Swain",1845786.29
+2011,"Swain County Health Department","single","Swain",1955888.44
+2012,"Swain County Health Department","single","Swain",1882044.82
+2013,"Swain County Health Department","single","Swain",1855333.87
+2014,"Swain County Health Department","single","Swain",1734318.43
+2015,"Swain County Health Department","single","Swain",1619503.1
+2016,"Swain County Health Department","single","Swain",1699887.77
+2017,"Swain County Health Department","single","Swain",1642487.53
+2018,"Swain County Health Department","single","Swain",1604353.88
+2019,"Swain County Health Department","single","Swain",1631436.5
+2020,"Swain County Health Department","single","Swain",1598719.39
+1999,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",3070987.37
+2000,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",2892910.56
+2001,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",3989362.51
+2002,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4342292.25
+2003,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4749687.96
+2004,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5136176.71
+2005,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5326221.48
+2006,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4834996.32
+2007,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5096082.06
+2008,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4923941.18
+2009,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5151725.26
+2010,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5493127.31
+2011,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5400497.06
+2012,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5504317.41
+2013,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5840264.61
+2014,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5342117.34
+2015,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",5224538.55
+2016,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4583246.17
+2017,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4420352.51
+2018,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4248446.01
+2019,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",3669448.94
+2020,"Toe River Health District","multi-county","Avery, Mitchell & Yancey",4019861.74
+1999,"Transylvania County Health Department","single","Transylvania",1198401
+2000,"Transylvania County Health Department","single","Transylvania",1307527
+2001,"Transylvania County Health Department","single","Transylvania",1381154
+2002,"Transylvania County Health Department","single","Transylvania",1350861
+2003,"Transylvania County Health Department","single","Transylvania",1432830
+2004,"Transylvania County Health Department","single","Transylvania",1517665
+2005,"Transylvania County Health Department","single","Transylvania",1491319
+2006,"Transylvania County Health Department","single","Transylvania",1631018
+2007,"Transylvania County Health Department","single","Transylvania",1884708
+2008,"Transylvania County Health Department","single","Transylvania",1951437
+2009,"Transylvania County Health Department","single","Transylvania",2042609
+2010,"Transylvania County Health Department","single","Transylvania",1855463
+2011,"Transylvania County Health Department","single","Transylvania",1841788
+2012,"Transylvania County Health Department","single","Transylvania",1816020
+2013,"Transylvania County Health Department","single","Transylvania",1901827
+2014,"Transylvania County Health Department","single","Transylvania",1983090
+2015,"Transylvania County Health Department","single","Transylvania",2231676
+2016,"Transylvania County Health Department","single","Transylvania",2269212
+2017,"Transylvania County Health Department","single","Transylvania",2409408
+2018,"Transylvania County Health Department","single","Transylvania",2352879
+2002,"Union County Health Department","single","Union",5074971
+2003,"Union County Health Department","single","Union",5354146
+2004,"Union County Health Department","single","Union",5420127
+2005,"Union County Health Department","single","Union",5689220
+2006,"Union County Health Department","single","Union",6328108
+2007,"Union County Health Department","single","Union",7336064
+2008,"Union County Health Department","single","Union",7886519
+2009,"Union County Health Department","single","Union",8002664
+2010,"Union County Health Department","single","Union",8187069
+2011,"Union County Health Department","single","Union",8351741
+2012,"Union County Health Department","single","Union",8424560
+2013,"Union County Health Department","single","Union",8539057
+2014,"Union County Health Department","single","Union",7686943
+2015,"Union County Health Department","single","Union",8509862
+2016,"Union County Health Department","single","Union",9002363
+2017,"Union County Health Department","single","Union",9084694
+2018,"Union County Health Department","single","Union",7652358
+2019,"Union County Health Department","single","Union",8834259
+2020,"Union County Health Department","single","Union",10234129
+2009,"Wake County Health Department","single","Wake",76972076
+2010,"Wake County Health Department","single","Wake",79391383
+2011,"Wake County Health Department","single","Wake",79490552
+2012,"Wake County Health Department","single","Wake",74369935
+2013,"Wake County Health Department","single","Wake",39852467
+2014,"Wake County Health Department","single","Wake",38099704
+2015,"Wake County Health Department","single","Wake",40516034
+2016,"Wake County Health Department","single","Wake",42869438
+2017,"Wake County Health Department","single","Wake",43397601
+2018,"Wake County Health Department","single","Wake",46664534
+2019,"Wake County Health Department","single","Wake",50374341
+2000,"Wayne County Health Department","single","Wayne",4958586.8
+2001,"Wayne County Health Department","single","Wayne",5887619.29
+2002,"Wayne County Health Department","single","Wayne",5980424.57
+2003,"Wayne County Health Department","single","Wayne",6008438.04
+2004,"Wayne County Health Department","single","Wayne",6262271.67
+2005,"Wayne County Health Department","single","Wayne",6443977.97
+2006,"Wayne County Health Department","single","Wayne",6454414.31
+2007,"Wayne County Health Department","single","Wayne",6784564.63
+2008,"Wayne County Health Department","single","Wayne",6886665.09
+2009,"Wayne County Health Department","single","Wayne",7169592.05
+2010,"Wayne County Health Department","single","Wayne",7299846.99
+2011,"Wayne County Health Department","single","Wayne",7520977.52
+2012,"Wayne County Health Department","single","Wayne",7654409.92
+2013,"Wayne County Health Department","single","Wayne",7638654.78
+2014,"Wayne County Health Department","single","Wayne",7545670.09
+2015,"Wayne County Health Department","single","Wayne",7381571.6
+2016,"Wayne County Health Department","single","Wayne",7180526.86
+2017,"Wayne County Health Department","single","Wayne",6867042.66
+2018,"Wayne County Health Department","single","Wayne",7437700.24
+2019,"Wayne County Health Department","single","Wayne",7531200.31
+2020,"Wayne County Health Department","single","Wayne",7357447.33
+2018,"Wilkes County Health Department","single","Wilkes",5791841.07
+2019,"Wilkes County Health Department","single","Wilkes",6231349.85
+2020,"Wilkes County Health Department","single","Wilkes",6340371.95
+1999,"Yadkin County Health Department","single","Yadkin",1264242
+2000,"Yadkin County Health Department","single","Yadkin",1438763
+2001,"Yadkin County Health Department","single","Yadkin",1566970
+2002,"Yadkin County Health Department","single","Yadkin",1605051
+2003,"Yadkin County Health Department","single","Yadkin",1618746
+2004,"Yadkin County Health Department","single","Yadkin",1588706
+2005,"Yadkin County Health Department","single","Yadkin",1739445
+2006,"Yadkin County Health Department","single","Yadkin",1762133
+2007,"Yadkin County Health Department","single","Yadkin",1868367
+2008,"Yadkin County Health Department","single","Yadkin",2110173
+2009,"Yadkin County Health Department","single","Yadkin",2595523.64
+2010,"Yadkin County Health Department","single","Yadkin",2716611.21
+2011,"Yadkin County Health Department","single","Yadkin",2614934.35
+2012,"Yadkin County Health Department","single","Yadkin",2219118.02
+2013,"Yadkin County Health Department","single","Yadkin",1782521.95
+2014,"Yadkin County Health Department","single","Yadkin",1329810.29
+2015,"Yadkin County Health Department","single","Yadkin",1359909.53
+2016,"Yadkin County Health Department","single","Yadkin",1408674.77
+2017,"Yadkin County Health Department","single","Yadkin",1702505
+2018,"Yadkin County Health Department","single","Yadkin",1467770.5
+2019,"Yadkin County Health Department","single","Yadkin",1305296.58
+2020,"Yadkin County Health Department","single","Yadkin",1407855.73
+2013,"Davidson County Health Department","single","Davidson",6902490
+2014,"Davidson County Health Department","single","Davidson",7131547
+2015,"Davidson County Health Department","single","Davidson",6678159
+2016,"Davidson County Health Department","single","Davidson",6619958
+2017,"Davidson County Health Department","single","Davidson",6583707
+2018,"Davidson County Health Department","single","Davidson",6933606
+2019,"Davidson County Health Department","single","Davidson",6643786
+2007,"Randolph County Health Department","single","Randolph",4751056.33
+2008,"Randolph County Health Department","single","Randolph",5080538.56
+2009,"Randolph County Health Department","single","Randolph",5047206.42
+2010,"Randolph County Health Department","single","Randolph",5135310.5
+2011,"Randolph County Health Department","single","Randolph",4697674.52
+2012,"Randolph County Health Department","single","Randolph",5038658.51
+2013,"Randolph County Health Department","single","Randolph",5215975.32
+2014,"Randolph County Health Department","single","Randolph",5031220.07
+2015,"Randolph County Health Department","single","Randolph",5096488.18
+2016,"Randolph County Health Department","single","Randolph",5062474.17
+2017,"Randolph County Health Department","single","Randolph",5237205.21
+2018,"Randolph County Health Department","single","Randolph",5788140.68
+2019,"Randolph County Health Department","single","Randolph",6244201.44
+2020,"Randolph County Health Department","single","Randolph",6144918.79
+2010,"Robeson County Health Department","single","Robeson",12209607
+2011,"Robeson County Health Department","single","Robeson",11939478
+2012,"Robeson County Health Department","single","Robeson",12067123
+2013,"Robeson County Health Department","single","Robeson",13410789
+2014,"Robeson County Health Department","single","Robeson",12489336
+2015,"Robeson County Health Department","single","Robeson",12352566
+2016,"Robeson County Health Department","single","Robeson",12366208
+2017,"Robeson County Health Department","single","Robeson",12510076
+2018,"Robeson County Health Department","single","Robeson",11938384
+2019,"Robeson County Health Department","single","Robeson",12534439
+2020,"Robeson County Health Department","single","Robeson",13171489
+2020,"Caswell County Health Department","single","Caswell",2698846.6
+2019,"Caswell County Health Department","single","Caswell",2588108.88
+2018,"Caswell County Health Department","single","Caswell",2589844.72
+2017,"Caswell County Health Department","single","Caswell",2365508.08
+2016,"Caswell County Health Department","single","Caswell",2474141.17
+2015,"Caswell County Health Department","single","Caswell",2633568.73
+2014,"Caswell County Health Department","single","Caswell",2893381.82
+2013,"Caswell County Health Department","single","Caswell",2862420.36
+2012,"Caswell County Health Department","single","Caswell",2883008.79
+2011,"Caswell County Health Department","single","Caswell",2819579.4
+2010,"Caswell County Health Department","single","Caswell",2840769.06
+2009,"Caswell County Health Department","single","Caswell",2943519.23
+2008,"Caswell County Health Department","single","Caswell",2779950.9
+2007,"Caswell County Health Department","single","Caswell",2829375.3
+2006,"Caswell County Health Department","single","Caswell",2739437.54
+2005,"Caswell County Health Department","single","Caswell",2868814.84
