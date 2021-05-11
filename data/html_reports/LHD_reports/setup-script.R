@@ -1,12 +1,11 @@
 library(tidyverse)
 library(gsheet)
 
-CompiledLHDExpenditures <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Zc10pam92Y1218F90eXn9ri7-a4GQI1vhzING33nNSI/edit#gid=0") %>%
-  select(1:5)
+CompiledLHDExpenditures <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1Zc10pam92Y1218F90eXn9ri7-a4GQI1vhzING33nNSI/edit#gid=0") %>% select(1:5)
 
 
 # Adding Population Data
-county_pop <- read_delim("https://demography.osbm.nc.gov/explore/dataset/population-voting-age-density-migration/download/?format=csv&disjunctive.area_name=true&disjunctive.area_type=true&disjunctive.year=true&disjunctive.data_type=true&disjunctive.vintage=true&refine.variable=Population+(Census%2FEstimate%2FProjection)&refine.year=2018&refine.year=2017&refine.year=2015&refine.year=2012&refine.year=2011&refine.year=2010&refine.year=2013&refine.year=2014&refine.year=2016&refine.area_type=County&timezone=America/New_York&lang=en&use_labels_for_header=true&csv_separator=%3B",
+county_pop <- read_delim("https://linc.osbm.nc.gov/explore/dataset/census-population-and-housing-linc/download/?format=csv&disjunctive.area_name=true&disjunctive.year=true&disjunctive.variable=true&refine.area_type=County&refine.variable=Population+Estimate+(BEA+per+Capita+Denominator)&timezone=America/New_York&lang=en&use_labels_for_header=true&csv_separator=%3B",
                          ";", escape_double = FALSE, col_types = cols_only(`Area Name` = col_character(),
                                                                            Year = col_double(), Value = col_double()),
                          trim_ws = TRUE) %>%
@@ -67,6 +66,8 @@ county_pop<- county_pop %>%
   union_all(county_pop)%>%
 
   rename(population=Value)
+
+
 
 
 CompiledLHDExpenditures<- left_join(CompiledLHDExpenditures, county_pop, c("county_name" = "county_name", "year" = "year"))
