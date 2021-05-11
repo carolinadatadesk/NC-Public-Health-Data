@@ -84,6 +84,8 @@ CompiledLHDExpenditures %>%
 
 
 ##### Inflation Rates
+# originally sourced from https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&select_all_years=0&nipa_table_list=96&series=a&first_year=2010&last_year=2019&scale=-99&categories=survey&thetable= but doing the math here to ensure that we can make apples-to-apples comparison with KHD data and story.
+
 infl_rates <-
   read_csv("https://raw.githubusercontent.com/khnews/2020-underfunded-under-threat-data/master/data/01-state-public-health-agencies.csv") %>%
   filter(!is.na(expenditures), !is.na(expenditures_infl),) %>%
