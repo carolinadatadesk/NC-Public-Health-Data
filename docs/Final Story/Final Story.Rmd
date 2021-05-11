@@ -305,7 +305,7 @@ CompiledLHDExpenditures %>%
 
 ### Inflation rates
 
-In its reporting, Kaiser Health News inflation-adjusted all financial data to 2019 using the Bureau of Economic Analysis' "Government consumption expenditures and gross investment: State and local - implicit price deflator." 
+In its reporting, Kaiser Health News inflation-adjusted all financial data to 2019 using the [Bureau of Economic Analysis' "Government consumption expenditures and gross investment: State and local - implicit price deflator."](https://apps.bea.gov/iTable/iTable.cfm?reqid=19&step=3&isuri=1&select_all_years=0&nipa_table_list=96&series=a&first_year=2010&last_year=2019&scale=-99&categories=survey&thetable=) 
 
 Because this index itself is adjusted periodically, we simply reverse engineered inflation rates from the KHN data so that the data in our story could be used to make apples-to-apples comparisons with the original KHN data.
 
