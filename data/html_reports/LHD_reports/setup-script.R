@@ -142,4 +142,4 @@ graphmeans<- yearmeans %>%
 
 denominator <- nrow(wide_CompiledLHDExpenditures)
 
-setwd("./data/html_reports/LHD_reports")
+#setwd("./data/html_reports/LHD_reports")

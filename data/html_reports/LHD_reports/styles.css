@@ -1,0 +1,31 @@
+h1 {
+font-family: Arial Narrow, Arial, sans-serif;
+font-weight: 700;
+color: #2c2c2c;
+line-height: 1.15
+}
+
+.author {
+    padding-top: 1rem;
+    padding-right: 1rem;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    color: #2c2c2c;
+    line-height: 1.15
+}
+
+.date {
+  color: #828282;
+  font-family: Arial, sans-serif;
+font-weight: 300;
+line-height: 1.15
+}
+
+p {
+font-family: Georgia, serif;
+font-weight: 300;
+line-height: 2.15;
+word-wrap: normal;
+color: #2c2c2c;
+font-size: 2rem;
+}
